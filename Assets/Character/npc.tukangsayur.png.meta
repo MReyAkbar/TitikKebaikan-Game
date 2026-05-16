@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 533b37f7cc3aaf44bb710807d980409c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2768304412409295799
+    second: npc.tukangsayur_0
+  - first:
+      213: 8746365012422239064
+    second: npc.tukangsayur_1
+  - first:
+      213: 6824648157987122268
+    second: npc.tukangsayur_2
+  - first:
+      213: -4128416977885055790
+    second: npc.tukangsayur_3
+  - first:
+      213: 1025322112251821895
+    second: npc.tukangsayur_4
+  - first:
+      213: 1103500057187931425
+    second: npc.tukangsayur_5
+  - first:
+      213: -2925122363576838096
+    second: npc.tukangsayur_6
+  - first:
+      213: -7764262894888880324
+    second: npc.tukangsayur_7
+  - first:
+      213: -6968378787931765830
+    second: npc.tukangsayur_8
+  - first:
+      213: 5610160370708593569
+    second: npc.tukangsayur_9
+  - first:
+      213: 7276405424298785566
+    second: npc.tukangsayur_10
+  - first:
+      213: 916339256754219298
+    second: npc.tukangsayur_11
+  - first:
+      213: 6088948617436916261
+    second: npc.tukangsayur_12
+  - first:
+      213: -3584444981470589295
+    second: npc.tukangsayur_13
+  - first:
+      213: 5314056165304821557
+    second: npc.tukangsayur_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc.tukangsayur_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 336
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b37dcb223efa6620800000000000000
+      internalID: 2768304412409295799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 39
+        width: 184
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853255973a4516970800000000000000
+      internalID: 8746365012422239064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 359
+        width: 187
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca8d5575506be50800000000000000
+      internalID: 6824648157987122268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 193
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d43874c1aae4b6c0800000000000000
+      internalID: -4128416977885055790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 645
+        width: 181
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7f19570daa3e00800000000000000
+      internalID: 1025322112251821895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 301
+        width: 196
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255f46947b605f00800000000000000
+      internalID: 1103500057187931425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 595
+        width: 250
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038937255b0e767d0800000000000000
+      internalID: -2925122363576838096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 5
+        width: 250
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f66fa80ccf3490800000000000000
+      internalID: -7764262894888880324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 331
+        width: 224
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c5f499685b4f90800000000000000
+      internalID: -6968378787931765830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_9
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 624
+        width: 201
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3f0d122b4bdd40800000000000000
+      internalID: 5610160370708593569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 237
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bfd0d6e2cfaf460800000000000000
+      internalID: 7276405424298785566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 253
+        width: 222
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229a494f2bd77bc00800000000000000
+      internalID: 916339256754219298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 485
+        width: 389
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aeee5c18a408450800000000000000
+      internalID: 6088948617436916261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_13
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1
+        width: 339
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8382d74e714ec0800000000000000
+      internalID: -3584444981470589295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.tukangsayur_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 168
+        width: 342
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e7716de15fb940800000000000000
+      internalID: 5314056165304821557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc.tukangsayur_0: 2768304412409295799
+      npc.tukangsayur_1: 8746365012422239064
+      npc.tukangsayur_10: 7276405424298785566
+      npc.tukangsayur_11: 916339256754219298
+      npc.tukangsayur_12: 6088948617436916261
+      npc.tukangsayur_13: -3584444981470589295
+      npc.tukangsayur_14: 5314056165304821557
+      npc.tukangsayur_2: 6824648157987122268
+      npc.tukangsayur_3: -4128416977885055790
+      npc.tukangsayur_4: 1025322112251821895
+      npc.tukangsayur_5: 1103500057187931425
+      npc.tukangsayur_6: -2925122363576838096
+      npc.tukangsayur_7: -7764262894888880324
+      npc.tukangsayur_8: -6968378787931765830
+      npc.tukangsayur_9: 5610160370708593569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

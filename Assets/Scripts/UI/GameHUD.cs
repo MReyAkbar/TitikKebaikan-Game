@@ -79,7 +79,10 @@ public class GameHUD : MonoBehaviour
         pauseMenuPanel?.SetActive(false);
         timerPanel?.SetActive(false);
 
-        GameManager.Instance?.OnStateChanged += OnGameStateChanged;
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.OnStateChanged += OnGameStateChanged;
+        }
     }
 
     // ─── Ethics Points ───────────────────────────────────────────────────────

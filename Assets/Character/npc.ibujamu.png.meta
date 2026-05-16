@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 02e60503dbce98c46b180a7dc96dde13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4264187433701162979
+    second: npc.ibujamu_0
+  - first:
+      213: 2476039352818458644
+    second: npc.ibujamu_1
+  - first:
+      213: 1817394029640144221
+    second: npc.ibujamu_2
+  - first:
+      213: -3285399082733282921
+    second: npc.ibujamu_3
+  - first:
+      213: 6619507109478723090
+    second: npc.ibujamu_4
+  - first:
+      213: 8923014921157034393
+    second: npc.ibujamu_5
+  - first:
+      213: -2842133016481605037
+    second: npc.ibujamu_6
+  - first:
+      213: 3067338035741773649
+    second: npc.ibujamu_7
+  - first:
+      213: -6275653031980671532
+    second: npc.ibujamu_8
+  - first:
+      213: -7802243875392603121
+    second: npc.ibujamu_9
+  - first:
+      213: 9065894067468804683
+    second: npc.ibujamu_10
+  - first:
+      213: 8713876445271238166
+    second: npc.ibujamu_11
+  - first:
+      213: 2930564335440038227
+    second: npc.ibujamu_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc.ibujamu_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 326
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3179d0ef6d2b30800000000000000
+      internalID: 4264187433701162979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 379
+        width: 143
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410e1aa3ca8ac5220800000000000000
+      internalID: 2476039352818458644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 296
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55dd91bd3ea83910800000000000000
+      internalID: 1817394029640144221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 625
+        width: 203
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d948e0fae762d0800000000000000
+      internalID: -3285399082733282921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 417
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ee6a8f4a63ddb50800000000000000
+      internalID: 6619507109478723090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 376
+        width: 143
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991431d6bcae4db70800000000000000
+      internalID: 8923014921157034393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 647
+        width: 179
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a543c6417be88d0800000000000000
+      internalID: -2842133016481605037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_7
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 376
+        width: 241
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fce6a21bf519a20800000000000000
+      internalID: 3067338035741773649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_8
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 375
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd503731d668e8a0800000000000000
+      internalID: -6275653031980671532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 57
+        width: 156
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb14c888cd8b390800000000000000
+      internalID: -7802243875392603121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 195
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42acc60f9680dd70800000000000000
+      internalID: 9065894067468804683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 53
+        width: 150
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61629097578ede870800000000000000
+      internalID: 8713876445271238166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.ibujamu_12
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1
+        width: 192
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359055d7cb47ba820800000000000000
+      internalID: 2930564335440038227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc.ibujamu_0: 4264187433701162979
+      npc.ibujamu_1: 2476039352818458644
+      npc.ibujamu_10: 9065894067468804683
+      npc.ibujamu_11: 8713876445271238166
+      npc.ibujamu_12: 2930564335440038227
+      npc.ibujamu_2: 1817394029640144221
+      npc.ibujamu_3: -3285399082733282921
+      npc.ibujamu_4: 6619507109478723090
+      npc.ibujamu_5: 8923014921157034393
+      npc.ibujamu_6: -2842133016481605037
+      npc.ibujamu_7: 3067338035741773649
+      npc.ibujamu_8: -6275653031980671532
+      npc.ibujamu_9: -7802243875392603121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

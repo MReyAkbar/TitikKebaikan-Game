@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 326c8b92a819f98488ca369e707b3d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8349836802517857048
+    second: npc.kurir2_0
+  - first:
+      213: -7613333747723920396
+    second: npc.kurir2_1
+  - first:
+      213: -2003033474749655585
+    second: npc.kurir2_2
+  - first:
+      213: -4912737828500836615
+    second: npc.kurir2_3
+  - first:
+      213: -2697296199191818959
+    second: npc.kurir2_4
+  - first:
+      213: -1687233010936469240
+    second: npc.kurir2_5
+  - first:
+      213: -781473832143866431
+    second: npc.kurir2_6
+  - first:
+      213: -2039617864619536638
+    second: npc.kurir2_7
+  - first:
+      213: 4323883156073366472
+    second: npc.kurir2_8
+  - first:
+      213: -8569325020291680258
+    second: npc.kurir2_9
+  - first:
+      213: 8393108903337509268
+    second: npc.kurir2_10
+  - first:
+      213: -5521113156344416809
+    second: npc.kurir2_11
+  - first:
+      213: 2821812486879387057
+    second: npc.kurir2_12
+  - first:
+      213: -8868500664730681976
+    second: npc.kurir2_13
+  - first:
+      213: 2142897959798905601
+    second: npc.kurir2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc.kurir2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 342
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec807ddaab6f1c80800000000000000
+      internalID: -8349836802517857048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 385
+        width: 168
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1c6a2b41085690800000000000000
+      internalID: -7613333747723920396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 297
+        width: 194
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59450daabc334e0800000000000000
+      internalID: -2003033474749655585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 595
+        width: 198
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe659949f272dbb0800000000000000
+      internalID: -4912737828500836615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 685
+        width: 203
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d0921d567419ad0800000000000000
+      internalID: -2697296199191818959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 389
+        width: 178
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a1d1148eb598e0800000000000000
+      internalID: -1687233010936469240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 593
+        width: 221
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c53dc9a0b5a725f0800000000000000
+      internalID: -781473832143866431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 249
+        width: 221
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fcfc5cb52d1b3e0800000000000000
+      internalID: -2039617864619536638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_8
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 647
+        width: 266
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34c0052d4810c30800000000000000
+      internalID: 4323883156073366472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 305
+        width: 225
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b5a8db44a31980800000000000000
+      internalID: -8569325020291680258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 35
+        width: 153
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491c99834105a7470800000000000000
+      internalID: 8393108903337509268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1
+        width: 189
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5fa5f16d01163b0800000000000000
+      internalID: -5521113156344416809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 9
+        width: 170
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd15379187192720800000000000000
+      internalID: 2821812486879387057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 221
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d796cf1a1cce480800000000000000
+      internalID: -8868500664730681976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.kurir2_14
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1
+        width: 204
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b19b3475a1dbd10800000000000000
+      internalID: 2142897959798905601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc.kurir2_0: -8349836802517857048
+      npc.kurir2_1: -7613333747723920396
+      npc.kurir2_10: 8393108903337509268
+      npc.kurir2_11: -5521113156344416809
+      npc.kurir2_12: 2821812486879387057
+      npc.kurir2_13: -8868500664730681976
+      npc.kurir2_14: 2142897959798905601
+      npc.kurir2_2: -2003033474749655585
+      npc.kurir2_3: -4912737828500836615
+      npc.kurir2_4: -2697296199191818959
+      npc.kurir2_5: -1687233010936469240
+      npc.kurir2_6: -781473832143866431
+      npc.kurir2_7: -2039617864619536638
+      npc.kurir2_8: 4323883156073366472
+      npc.kurir2_9: -8569325020291680258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
