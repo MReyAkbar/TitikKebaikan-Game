@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   - Water
   - UI
   - GROUND
-  - 
-  - 
+  - Player
+  - Interactable
   - 
   - 
   - 
@@ -44,11 +45,23 @@ TagManager:
   - name: Ground
     uniqueID: 2522427261
     locked: 0
-  - name: Object
+  - name: WalkInFront
+    uniqueID: 3780120549
+    locked: 0
+  - name: Collision
     uniqueID: 2220799605
     locked: 0
   - name: Player
     uniqueID: 3405810641
+    locked: 0
+  - name: Interactable
+    uniqueID: 3695188757
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 617107127
+    locked: 0
+  - name: Decor
+    uniqueID: 1763864433
     locked: 0
   m_RenderingLayers:
   - Default

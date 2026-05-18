@@ -1,0 +1,4719 @@
+fileFormatVersion: 2
+guid: 1ef8a14b853e8844099e241ebea609a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312622236350252645
+    second: Stasiun Kereta-Photoroom_0
+  - first:
+      213: -753356143710238378
+    second: Stasiun Kereta-Photoroom_1
+  - first:
+      213: 3224393775105201743
+    second: Stasiun Kereta-Photoroom_2
+  - first:
+      213: 7263276086070155361
+    second: Stasiun Kereta-Photoroom_3
+  - first:
+      213: 1867401005573556286
+    second: Stasiun Kereta-Photoroom_4
+  - first:
+      213: -3243554661323259679
+    second: Stasiun Kereta-Photoroom_5
+  - first:
+      213: 6029647498455381503
+    second: Stasiun Kereta-Photoroom_6
+  - first:
+      213: -8894986958896778492
+    second: Stasiun Kereta-Photoroom_7
+  - first:
+      213: -306836302571858234
+    second: Stasiun Kereta-Photoroom_8
+  - first:
+      213: -1853774388148073459
+    second: Stasiun Kereta-Photoroom_9
+  - first:
+      213: -7135388996296040145
+    second: Stasiun Kereta-Photoroom_10
+  - first:
+      213: 4640420448408048750
+    second: Stasiun Kereta-Photoroom_11
+  - first:
+      213: 6944299701237117782
+    second: Stasiun Kereta-Photoroom_12
+  - first:
+      213: 468467299028692107
+    second: Stasiun Kereta-Photoroom_13
+  - first:
+      213: -2402908077638667485
+    second: Stasiun Kereta-Photoroom_14
+  - first:
+      213: -3846926402004597900
+    second: Stasiun Kereta-Photoroom_15
+  - first:
+      213: -2977055485046172838
+    second: Stasiun Kereta-Photoroom_16
+  - first:
+      213: 4779927155450943748
+    second: Stasiun Kereta-Photoroom_17
+  - first:
+      213: -3143081275020857452
+    second: Stasiun Kereta-Photoroom_18
+  - first:
+      213: -7902189773183559636
+    second: Stasiun Kereta-Photoroom_19
+  - first:
+      213: 781754593625666284
+    second: Stasiun Kereta-Photoroom_20
+  - first:
+      213: -8925225151851224573
+    second: Stasiun Kereta-Photoroom_21
+  - first:
+      213: 9123954888246153853
+    second: Stasiun Kereta-Photoroom_22
+  - first:
+      213: -7672236089492759776
+    second: Stasiun Kereta-Photoroom_23
+  - first:
+      213: 2817079386585425059
+    second: Stasiun Kereta-Photoroom_24
+  - first:
+      213: -9064874826715557327
+    second: Stasiun Kereta-Photoroom_25
+  - first:
+      213: -319090697223572737
+    second: Stasiun Kereta-Photoroom_26
+  - first:
+      213: -2029110977395780554
+    second: Stasiun Kereta-Photoroom_27
+  - first:
+      213: -6539421782887306498
+    second: Stasiun Kereta-Photoroom_28
+  - first:
+      213: -7670347720619412345
+    second: Stasiun Kereta-Photoroom_29
+  - first:
+      213: -1815586812551202751
+    second: Stasiun Kereta-Photoroom_30
+  - first:
+      213: -7817606193478741020
+    second: Stasiun Kereta-Photoroom_31
+  - first:
+      213: 3976373837210927120
+    second: Stasiun Kereta-Photoroom_32
+  - first:
+      213: 578974606360149792
+    second: Stasiun Kereta-Photoroom_33
+  - first:
+      213: -4449179359456823942
+    second: Stasiun Kereta-Photoroom_34
+  - first:
+      213: -8196861292012929468
+    second: Stasiun Kereta-Photoroom_35
+  - first:
+      213: -5263762048440021526
+    second: Stasiun Kereta-Photoroom_36
+  - first:
+      213: -3488816267704822029
+    second: Stasiun Kereta-Photoroom_37
+  - first:
+      213: -3409897421048382899
+    second: Stasiun Kereta-Photoroom_38
+  - first:
+      213: 5089490982991880931
+    second: Stasiun Kereta-Photoroom_39
+  - first:
+      213: -141868871924057613
+    second: Stasiun Kereta-Photoroom_40
+  - first:
+      213: -2330481872110332331
+    second: Stasiun Kereta-Photoroom_41
+  - first:
+      213: 3156444854172938037
+    second: Stasiun Kereta-Photoroom_42
+  - first:
+      213: -7759197155200724552
+    second: Stasiun Kereta-Photoroom_43
+  - first:
+      213: 7818248237267458613
+    second: Stasiun Kereta-Photoroom_44
+  - first:
+      213: -8572890636123539134
+    second: Stasiun Kereta-Photoroom_45
+  - first:
+      213: -3167301581563555627
+    second: Stasiun Kereta-Photoroom_46
+  - first:
+      213: 8513238784924025909
+    second: Stasiun Kereta-Photoroom_47
+  - first:
+      213: -6534727595910273269
+    second: Stasiun Kereta-Photoroom_48
+  - first:
+      213: 2086174157894509544
+    second: Stasiun Kereta-Photoroom_49
+  - first:
+      213: 3320545137552909833
+    second: Stasiun Kereta-Photoroom_50
+  - first:
+      213: 8026345335955616523
+    second: Stasiun Kereta-Photoroom_51
+  - first:
+      213: 4993696764936883230
+    second: Stasiun Kereta-Photoroom_52
+  - first:
+      213: -9038332872442235424
+    second: Stasiun Kereta-Photoroom_53
+  - first:
+      213: -3825383891825687119
+    second: Stasiun Kereta-Photoroom_54
+  - first:
+      213: -2146370021935521315
+    second: Stasiun Kereta-Photoroom_55
+  - first:
+      213: -1242939267628413256
+    second: Stasiun Kereta-Photoroom_56
+  - first:
+      213: -3154032699612325145
+    second: Stasiun Kereta-Photoroom_57
+  - first:
+      213: -4785657465996803794
+    second: Stasiun Kereta-Photoroom_58
+  - first:
+      213: -3662360714983682038
+    second: Stasiun Kereta-Photoroom_59
+  - first:
+      213: -1611286629198652883
+    second: Stasiun Kereta-Photoroom_60
+  - first:
+      213: 3269400787647600044
+    second: Stasiun Kereta-Photoroom_61
+  - first:
+      213: -821136893777136621
+    second: Stasiun Kereta-Photoroom_62
+  - first:
+      213: 8452983047993267976
+    second: Stasiun Kereta-Photoroom_63
+  - first:
+      213: 851196510541465532
+    second: Stasiun Kereta-Photoroom_64
+  - first:
+      213: -3017819979292567910
+    second: Stasiun Kereta-Photoroom_65
+  - first:
+      213: 2695763584073630965
+    second: Stasiun Kereta-Photoroom_66
+  - first:
+      213: -7318179526645162583
+    second: Stasiun Kereta-Photoroom_67
+  - first:
+      213: 8403945817728584163
+    second: Stasiun Kereta-Photoroom_68
+  - first:
+      213: -5665152435016608912
+    second: Stasiun Kereta-Photoroom_69
+  - first:
+      213: -4403107419644106889
+    second: Stasiun Kereta-Photoroom_70
+  - first:
+      213: -5032618908639477850
+    second: Stasiun Kereta-Photoroom_71
+  - first:
+      213: -5905805535729112288
+    second: Stasiun Kereta-Photoroom_72
+  - first:
+      213: 3103716140944516538
+    second: Stasiun Kereta-Photoroom_73
+  - first:
+      213: 7590037381053146851
+    second: Stasiun Kereta-Photoroom_74
+  - first:
+      213: 1546225117388167649
+    second: Stasiun Kereta-Photoroom_75
+  - first:
+      213: 7651858150961277476
+    second: Stasiun Kereta-Photoroom_76
+  - first:
+      213: -2077741891241822480
+    second: Stasiun Kereta-Photoroom_77
+  - first:
+      213: -7558837399673579554
+    second: Stasiun Kereta-Photoroom_78
+  - first:
+      213: -1244526489761280519
+    second: Stasiun Kereta-Photoroom_79
+  - first:
+      213: -4308159205662910418
+    second: Stasiun Kereta-Photoroom_80
+  - first:
+      213: 8820554147283965323
+    second: Stasiun Kereta-Photoroom_81
+  - first:
+      213: -2658894190030822115
+    second: Stasiun Kereta-Photoroom_82
+  - first:
+      213: -5284894688962840192
+    second: Stasiun Kereta-Photoroom_83
+  - first:
+      213: 2845822343965361104
+    second: Stasiun Kereta-Photoroom_84
+  - first:
+      213: -4776855884028636255
+    second: Stasiun Kereta-Photoroom_85
+  - first:
+      213: 4443710304886801057
+    second: Stasiun Kereta-Photoroom_86
+  - first:
+      213: 5505816566808169295
+    second: Stasiun Kereta-Photoroom_87
+  - first:
+      213: -1540290023332213049
+    second: Stasiun Kereta-Photoroom_88
+  - first:
+      213: -8302976629116424506
+    second: Stasiun Kereta-Photoroom_89
+  - first:
+      213: 8870911901266223662
+    second: Stasiun Kereta-Photoroom_90
+  - first:
+      213: 3739797363512368436
+    second: Stasiun Kereta-Photoroom_91
+  - first:
+      213: -2659141399984721019
+    second: Stasiun Kereta-Photoroom_92
+  - first:
+      213: 8870822473353042891
+    second: Stasiun Kereta-Photoroom_93
+  - first:
+      213: -2251469945900490659
+    second: Stasiun Kereta-Photoroom_94
+  - first:
+      213: -3460831462924057473
+    second: Stasiun Kereta-Photoroom_95
+  - first:
+      213: -7391812339688233760
+    second: Stasiun Kereta-Photoroom_96
+  - first:
+      213: -2914327738403251147
+    second: Stasiun Kereta-Photoroom_97
+  - first:
+      213: -5315464287846984275
+    second: Stasiun Kereta-Photoroom_98
+  - first:
+      213: -3643965759901983363
+    second: Stasiun Kereta-Photoroom_99
+  - first:
+      213: -7062085297905663665
+    second: Stasiun Kereta-Photoroom_100
+  - first:
+      213: 5005114021068849456
+    second: Stasiun Kereta-Photoroom_101
+  - first:
+      213: 861725613037989005
+    second: Stasiun Kereta-Photoroom_102
+  - first:
+      213: -1280095692635424992
+    second: Stasiun Kereta-Photoroom_103
+  - first:
+      213: -7670199815093648475
+    second: Stasiun Kereta-Photoroom_104
+  - first:
+      213: -3142282547058254073
+    second: Stasiun Kereta-Photoroom_105
+  - first:
+      213: 9159476891546823887
+    second: Stasiun Kereta-Photoroom_106
+  - first:
+      213: -6767353347698940054
+    second: Stasiun Kereta-Photoroom_107
+  - first:
+      213: 4997338531833915866
+    second: Stasiun Kereta-Photoroom_108
+  - first:
+      213: -8656590580924197001
+    second: Stasiun Kereta-Photoroom_109
+  - first:
+      213: -8069169985139402220
+    second: Stasiun Kereta-Photoroom_110
+  - first:
+      213: 8172526259871564813
+    second: Stasiun Kereta-Photoroom_111
+  - first:
+      213: 1035940134437038430
+    second: Stasiun Kereta-Photoroom_112
+  - first:
+      213: -6781270535543427752
+    second: Stasiun Kereta-Photoroom_113
+  - first:
+      213: 7298863071362165675
+    second: Stasiun Kereta-Photoroom_114
+  - first:
+      213: -5644133222114891644
+    second: Stasiun Kereta-Photoroom_115
+  - first:
+      213: 4459118243611981419
+    second: Stasiun Kereta-Photoroom_116
+  - first:
+      213: 2496003042256359107
+    second: Stasiun Kereta-Photoroom_117
+  - first:
+      213: -4157533216408889942
+    second: Stasiun Kereta-Photoroom_118
+  - first:
+      213: 4846349269749073256
+    second: Stasiun Kereta-Photoroom_119
+  - first:
+      213: -9140204068416534134
+    second: Stasiun Kereta-Photoroom_120
+  - first:
+      213: 6137256532415508680
+    second: Stasiun Kereta-Photoroom_121
+  - first:
+      213: -7079124933146453148
+    second: Stasiun Kereta-Photoroom_122
+  - first:
+      213: 1955816431456293741
+    second: Stasiun Kereta-Photoroom_123
+  - first:
+      213: -788275729689264688
+    second: Stasiun Kereta-Photoroom_124
+  - first:
+      213: 3328098009162332734
+    second: Stasiun Kereta-Photoroom_125
+  - first:
+      213: 7299783484426841547
+    second: Stasiun Kereta-Photoroom_126
+  - first:
+      213: -7457100920565052110
+    second: Stasiun Kereta-Photoroom_127
+  - first:
+      213: 9170551123713251094
+    second: Stasiun Kereta-Photoroom_128
+  - first:
+      213: 7266940583870797951
+    second: Stasiun Kereta-Photoroom_129
+  - first:
+      213: -8682124164557952492
+    second: Stasiun Kereta-Photoroom_130
+  - first:
+      213: 6189076009957927600
+    second: Stasiun Kereta-Photoroom_131
+  - first:
+      213: -980421907982589788
+    second: Stasiun Kereta-Photoroom_132
+  - first:
+      213: -1883400420995859785
+    second: Stasiun Kereta-Photoroom_133
+  - first:
+      213: -9037167007104944684
+    second: Stasiun Kereta-Photoroom_134
+  - first:
+      213: -926049981421606567
+    second: Stasiun Kereta-Photoroom_135
+  - first:
+      213: -5973189574010464395
+    second: Stasiun Kereta-Photoroom_136
+  - first:
+      213: -5535424512468395631
+    second: Stasiun Kereta-Photoroom_137
+  - first:
+      213: -8621731879080393452
+    second: Stasiun Kereta-Photoroom_138
+  - first:
+      213: 6099532903535321286
+    second: Stasiun Kereta-Photoroom_139
+  - first:
+      213: -5385051050514834138
+    second: Stasiun Kereta-Photoroom_140
+  - first:
+      213: -4993259065970809497
+    second: Stasiun Kereta-Photoroom_141
+  - first:
+      213: 3370991780682657443
+    second: Stasiun Kereta-Photoroom_142
+  - first:
+      213: -5208645972117616957
+    second: Stasiun Kereta-Photoroom_143
+  - first:
+      213: -8504854252516945474
+    second: Stasiun Kereta-Photoroom_144
+  - first:
+      213: -6472762943149466841
+    second: Stasiun Kereta-Photoroom_145
+  - first:
+      213: -8346051422499416774
+    second: Stasiun Kereta-Photoroom_146
+  - first:
+      213: -7838790737898601848
+    second: Stasiun Kereta-Photoroom_147
+  - first:
+      213: -3748953637294752475
+    second: Stasiun Kereta-Photoroom_148
+  - first:
+      213: -1852807110947501760
+    second: Stasiun Kereta-Photoroom_149
+  - first:
+      213: -6428371892689033873
+    second: Stasiun Kereta-Photoroom_150
+  - first:
+      213: -9080331753624816248
+    second: Stasiun Kereta-Photoroom_151
+  - first:
+      213: -1309206435986168814
+    second: Stasiun Kereta-Photoroom_152
+  - first:
+      213: 614426948866946344
+    second: Stasiun Kereta-Photoroom_153
+  - first:
+      213: 7623822908288454032
+    second: Stasiun Kereta-Photoroom_154
+  - first:
+      213: 4297690755414800456
+    second: Stasiun Kereta-Photoroom_155
+  - first:
+      213: -4348778528728560030
+    second: Stasiun Kereta-Photoroom_156
+  - first:
+      213: -4577777671484776735
+    second: Stasiun Kereta-Photoroom_157
+  - first:
+      213: -3804445395586221772
+    second: Stasiun Kereta-Photoroom_158
+  - first:
+      213: -3875073610675259047
+    second: Stasiun Kereta-Photoroom_159
+  - first:
+      213: -8075545218981984767
+    second: Stasiun Kereta-Photoroom_160
+  - first:
+      213: -1585057718014847893
+    second: Stasiun Kereta-Photoroom_161
+  - first:
+      213: 7116089377645532013
+    second: Stasiun Kereta-Photoroom_162
+  - first:
+      213: 6587751127850306843
+    second: Stasiun Kereta-Photoroom_163
+  - first:
+      213: -6919989808943052831
+    second: Stasiun Kereta-Photoroom_164
+  - first:
+      213: 7458177219188734355
+    second: Stasiun Kereta-Photoroom_165
+  - first:
+      213: -7975406792044258915
+    second: Stasiun Kereta-Photoroom_166
+  - first:
+      213: -4822170214887157401
+    second: Stasiun Kereta-Photoroom_167
+  - first:
+      213: -691883820001137236
+    second: Stasiun Kereta-Photoroom_168
+  - first:
+      213: -905285521186424406
+    second: Stasiun Kereta-Photoroom_169
+  - first:
+      213: 6109930383555945724
+    second: Stasiun Kereta-Photoroom_170
+  - first:
+      213: 2869009360104367474
+    second: Stasiun Kereta-Photoroom_171
+  - first:
+      213: 632978319903755806
+    second: Stasiun Kereta-Photoroom_172
+  - first:
+      213: 2587552532755222567
+    second: Stasiun Kereta-Photoroom_173
+  - first:
+      213: -1571911867777882156
+    second: Stasiun Kereta-Photoroom_174
+  - first:
+      213: -4350502439454209800
+    second: Stasiun Kereta-Photoroom_175
+  - first:
+      213: 2833477231085334678
+    second: Stasiun Kereta-Photoroom_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 189
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5668badb1ed5c5370800000000000000
+      internalID: 8312622236350252645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1049
+        width: 174
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590bc8249a8b85f0800000000000000
+      internalID: -753356143710238378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 965
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46502d0e095fbc20800000000000000
+      internalID: 3224393775105201743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 963
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681dc72e175cc460800000000000000
+      internalID: 7263276086070155361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 931
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e384b6612575ae910800000000000000
+      internalID: 1867401005573556286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 931
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c34a78349cf2d0800000000000000
+      internalID: -3243554661323259679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 930
+        width: 41
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff57142147c9da350800000000000000
+      internalID: 6029647498455381503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 930
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b9311d78ae8480800000000000000
+      internalID: -8894986958896778492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 930
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6920d2206edbbf0800000000000000
+      internalID: -306836302571858234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 931
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c87b404021646e0800000000000000
+      internalID: -1853774388148073459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 961
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f212b8543810afc90800000000000000
+      internalID: -7135388996296040145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 955
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6412d3dfc5166040800000000000000
+      internalID: 4640420448408048750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 867
+        width: 95
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f61a29cb1f5060800000000000000
+      internalID: 6944299701237117782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 963
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ced73c684508600800000000000000
+      internalID: 468467299028692107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 962
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3233e64a5d727aed0800000000000000
+      internalID: -2402908077638667485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 963
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c17bb1d8fc9ac0800000000000000
+      internalID: -3846926402004597900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 963
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d1393fcf5fa6d0800000000000000
+      internalID: -2977055485046172838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 965
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40995e83c66b55240800000000000000
+      internalID: 4779927155450943748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 964
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f233eab388164d0800000000000000
+      internalID: -3143081275020857452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 871
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285ba5d448c55290800000000000000
+      internalID: -7902189773183559636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 799
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2769639a959da00800000000000000
+      internalID: 781754593625666284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 783
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302a683230b332480800000000000000
+      internalID: -8925225151851224573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 882
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d99c41acce9e70800000000000000
+      internalID: 9123954888246153853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 795
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b1ad40dedb68590800000000000000
+      internalID: -7672236089492759776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 783
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ef7dc6c6481720800000000000000
+      internalID: 2817079386585425059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 868
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321d347f58133280800000000000000
+      internalID: -9064874826715557327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 868
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff27bd493bc529bf0800000000000000
+      internalID: -319090697223572737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 867
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6349a76115627d3e0800000000000000
+      internalID: -2029110977395780554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 877
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaec8a298e4f35a0800000000000000
+      internalID: -6539421782887306498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 877
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784b0c823637d8590800000000000000
+      internalID: -7670347720619412345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 877
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487003d96dbdc6e0800000000000000
+      internalID: -1815586812551202751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 877
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35ec32698428390800000000000000
+      internalID: -7817606193478741020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 877
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104d1defeaee2730800000000000000
+      internalID: 3976373837210927120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 877
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7112465ee80800800000000000000
+      internalID: 578974606360149792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 877
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75739102f65142c0800000000000000
+      internalID: -4449179359456823942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 877
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7b607516ee3e80800000000000000
+      internalID: -8196861292012929468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 783
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcc883e4c53f6b0800000000000000
+      internalID: -5263762048440021526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 783
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f699dcc61c359fc0800000000000000
+      internalID: -3488816267704822029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 784
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af3e9ac5c9da0d0800000000000000
+      internalID: -3409897421048382899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 784
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e8c0751181a640800000000000000
+      internalID: 5089490982991880931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 784
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f74c330bf70ef0800000000000000
+      internalID: -141868871924057613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 783
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5565061b51778afd0800000000000000
+      internalID: -2330481872110332331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 783
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f661e0fd1fdcb20800000000000000
+      internalID: 3156444854172938037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 783
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11a0e1c4bc15490800000000000000
+      internalID: -7759197155200724552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 784
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9624595fff7c60800000000000000
+      internalID: 7818248237267458613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 782
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24975973369f60980800000000000000
+      internalID: -8572890636123539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 782
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01f5e1efb7b04d0800000000000000
+      internalID: -3167301581563555627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 782
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534897fd199152670800000000000000
+      internalID: 8513238784924025909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 783
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0763ddbfdbff45a0800000000000000
+      internalID: -6534727595910273269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 783
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e6e4f75493fc10800000000000000
+      internalID: 2086174157894509544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 783
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ed78a532f41e20800000000000000
+      internalID: 3320545137552909833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 784
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037f32ce8e436f60800000000000000
+      internalID: 8026345335955616523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 733
+        width: 323
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c841effbc2d4540800000000000000
+      internalID: 4993696764936883230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 733
+        width: 271
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53850c324619280800000000000000
+      internalID: -9038332872442235424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 631
+        width: 28
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b58a3e3e9189eac0800000000000000
+      internalID: -3825383891825687119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 631
+        width: 28
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd16cf546df8632e0800000000000000
+      internalID: -2146370021935521315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 570
+        width: 291
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becf9b425130cee0800000000000000
+      internalID: -1242939267628413256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 570
+        width: 102
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea14a178ff9a34d0800000000000000
+      internalID: -3154032699612325145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 569
+        width: 173
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218092e3ede59db0800000000000000
+      internalID: -4785657465996803794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 570
+        width: 84
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a005d00755eac2dc0800000000000000
+      internalID: -3662360714983682038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 589
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a1743095f83a9e0800000000000000
+      internalID: -1611286629198652883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 585
+        width: 53
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51e10c1be3f5d20800000000000000
+      internalID: 3269400787647600044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 636
+        width: 199
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314327e785cba94f0800000000000000
+      internalID: -821136893777136621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 636
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807990cdb470f4570800000000000000
+      internalID: 8452983047993267976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 631
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb740ec67be00db00800000000000000
+      internalID: 851196510541465532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 675
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96903ac7bc8e16d0800000000000000
+      internalID: -3017819979292567910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 673
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4842b62b6496520800000000000000
+      internalID: 2695763584073630965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 626
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad57cf6e7a907a90800000000000000
+      internalID: -7318179526645162583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 489
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98759f130d0a470800000000000000
+      internalID: 8403945817728584163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 491
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073556820e55161b0800000000000000
+      internalID: -5665152435016608912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 490
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e938612505e2c0800000000000000
+      internalID: -4403107419644106889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 490
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af31ac34cb882ab0800000000000000
+      internalID: -5032618908639477850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 491
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba452d72d5a0ea0800000000000000
+      internalID: -5905805535729112288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 486
+        width: 194
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5e4a0d26d921b20800000000000000
+      internalID: 3103716140944516538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 486
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6eb99c8ca355960800000000000000
+      internalID: 7590037381053146851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 486
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e955b05d8b457510800000000000000
+      internalID: 1546225117388167649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 496
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a69bf627cd03a60800000000000000
+      internalID: 7651858150961277476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 543
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6359d12c06a23e0800000000000000
+      internalID: -2077741891241822480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 543
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d485fe6d991790800000000000000
+      internalID: -7558837399673579554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 543
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd073850cd8abee0800000000000000
+      internalID: -1244526489761280519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 543
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2812ae27085634c0800000000000000
+      internalID: -4308159205662910418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 544
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8595fe7347e86a70800000000000000
+      internalID: 8820554147283965323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 555
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ecd352d5b91bd0800000000000000
+      internalID: -2658894190030822115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 555
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089750de74848a6b0800000000000000
+      internalID: -5284894688962840192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 555
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3cce118546e7720800000000000000
+      internalID: 2845822343965361104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 555
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a31d31e1e235bdb0800000000000000
+      internalID: -4776855884028636255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 555
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2458f7afa3bad30800000000000000
+      internalID: 4443710304886801057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 491
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcf071ff6986c40800000000000000
+      internalID: 5505816566808169295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 491
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8434726acf9ae0800000000000000
+      internalID: -1540290023332213049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 487
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce25233fb6e5cc80800000000000000
+      internalID: -8302976629116424506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 487
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2222c4cf5fcb1b70800000000000000
+      internalID: 8870911901266223662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 487
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd81843ed66e330800000000000000
+      internalID: 3739797363512368436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 487
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58330664cf4d81bd0800000000000000
+      internalID: -2659141399984721019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 445
+        width: 220
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb92c53a0e7b1b70800000000000000
+      internalID: 8870822473353042891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 366
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d502224530c21c0e0800000000000000
+      internalID: -2251469945900490659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 366
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748ae8ee18a8ffc0800000000000000
+      internalID: -3460831462924057473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 353
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a88e27d10b6990800000000000000
+      internalID: -7391812339688233760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 314
+        width: 77
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c1869dc5a3e87d0800000000000000
+      internalID: -2914327738403251147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 313
+        width: 28
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51b9a846dab36b0800000000000000
+      internalID: -5315464287846984275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 314
+        width: 53
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1b5ba2780e6dc0800000000000000
+      internalID: -3643965759901983363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 323
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4103dc86de6efd90800000000000000
+      internalID: -7062085297905663665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 445
+        width: 227
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031c2261facb57540800000000000000
+      internalID: 5005114021068849456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 380
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2cf221e675fb00800000000000000
+      internalID: 861725613037989005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02735f1ffbf2c3ee0800000000000000
+      internalID: -1280095692635424992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 382
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3831918e9fd8590800000000000000
+      internalID: -7670199815093648475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 382
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fdea60cae5464d0800000000000000
+      internalID: -3142282547058254073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 382
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc2c0134bffc1f70800000000000000
+      internalID: 9159476891546823887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 373
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67aad83cf78512a0800000000000000
+      internalID: -6767353347698940054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 317
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9255ceaec1a5540800000000000000
+      internalID: 4997338531833915866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 324
+        width: 163
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77755023bbc9dd780800000000000000
+      internalID: -8656590580924197001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 330
+        width: 173
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a958b96ac840090800000000000000
+      internalID: -8069169985139402220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 336
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04423d5555aa6170800000000000000
+      internalID: 8172526259871564813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 315
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a0b94016606e00800000000000000
+      internalID: 1035940134437038430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 312
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6c1b606614e1a0800000000000000
+      internalID: -6781270535543427752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 311
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab22c8da45ca4560800000000000000
+      internalID: 7298863071362165675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 308
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886cd60db20ca1b0800000000000000
+      internalID: -5644133222114891644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 311
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b4f9ca68f1ed30800000000000000
+      internalID: 4459118243611981419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 308
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce0cf3ea8593a220800000000000000
+      internalID: 2496003042256359107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 311
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59f0631997d46c0800000000000000
+      internalID: -4157533216408889942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 311
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650ed8dbf0b14340800000000000000
+      internalID: 4846349269749073256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 309
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c37f93d8772180800000000000000
+      internalID: -9140204068416534134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 310
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c07216bc4aeb2550800000000000000
+      internalID: 6137256532415508680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 311
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bd13f4165e1cd90800000000000000
+      internalID: -7079124933146453148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 311
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6313da9ea4742b10800000000000000
+      internalID: 1955816431456293741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd3fca766b7f05f0800000000000000
+      internalID: -788275729689264688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 248
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a3ecd9187cf2e20800000000000000
+      internalID: 3328098009162332734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6686376a0e4560800000000000000
+      internalID: 7299783484426841547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 248
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4b7fd83e038890800000000000000
+      internalID: -7457100920565052110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617dc7bc8a7544f70800000000000000
+      internalID: 9170551123713251094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 247
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781d7985fb59d460800000000000000
+      internalID: 7266940583870797951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a20bb7216e28780800000000000000
+      internalID: -8682124164557952492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 246
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2f6507d304e550800000000000000
+      internalID: 6189076009957927600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 244
+        width: 136
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0efac1877d462f0800000000000000
+      internalID: -980421907982589788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 244
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba78b8bb41dcd5e0800000000000000
+      internalID: -1883400420995859785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 244
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d531adec78859280800000000000000
+      internalID: -9037167007104944684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 243
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ab15c2720623f0800000000000000
+      internalID: -926049981421606567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 234
+        width: 130
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5771a01dab7fa1da0800000000000000
+      internalID: -5973189574010464395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 231
+        width: 144
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d45ddbb83e23b0800000000000000
+      internalID: -5535424512468395631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 232
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41580ce2984795880800000000000000
+      internalID: -8621731879080393452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 235
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a70bebd4e5a450800000000000000
+      internalID: 6099532903535321286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 287
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d18bcc9947445b0800000000000000
+      internalID: -5385051050514834138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 181
+        width: 202
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765af4db55164bab0800000000000000
+      internalID: -4993259065970809497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee95c0a2b28ce20800000000000000
+      internalID: 3370991780682657443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 84
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6092fb51c27b7b0800000000000000
+      internalID: -5208645972117616957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 84
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d1443e10b8f980800000000000000
+      internalID: -8504854252516945474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b934ab5602c26a0800000000000000
+      internalID: -6472762943149466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 113
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3557c4537edc2c80800000000000000
+      internalID: -8346051422499416774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 117
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8828ee60b55073390800000000000000
+      internalID: -7838790737898601848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 122
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d33a9978a09fbc0800000000000000
+      internalID: -3748953637294752475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 123
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04908aacfb18946e0800000000000000
+      internalID: -1852807110947501760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 100
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f652a2492d5d9c6a0800000000000000
+      internalID: -6428371892689033873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 95
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853e76316e2cf180800000000000000
+      internalID: -9080331753624816248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_152
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 79
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214a365dea3c4dde0800000000000000
+      internalID: -1309206435986168814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 79
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82534abfd02e68800800000000000000
+      internalID: 614426948866946344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 79
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc407da824dc960800000000000000
+      internalID: 7623822908288454032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_155
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 121
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848bafec8f674ab30800000000000000
+      internalID: 4297690755414800456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_156
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 121
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec94c08f806a3c0800000000000000
+      internalID: -4348778528728560030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_157
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 113
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5f6e36777870c0800000000000000
+      internalID: -4577777671484776735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_158
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 112
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43976bcc115e33bc0800000000000000
+      internalID: -3804445395586221772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_159
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 113
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f5350519f83ac0800000000000000
+      internalID: -3875073610675259047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 113
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10689fec866edef80800000000000000
+      internalID: -8075545218981984767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 113
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64db39476eb00ae0800000000000000
+      internalID: -1585057718014847893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_162
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 117
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631e78169d61c260800000000000000
+      internalID: 7116089377645532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d42345fb46c6b50800000000000000
+      internalID: 6587751127850306843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 19
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e740a4bee147ff90800000000000000
+      internalID: -6919989808943052831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_165
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b7ad6aa4c08760800000000000000
+      internalID: 7458177219188734355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_166
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 22
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d6f437c9a15190800000000000000
+      internalID: -7975406792044258915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_167
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 23
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619e2f0db5341db0800000000000000
+      internalID: -4822170214887157401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_168
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 24
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadedfad45fe566f0800000000000000
+      internalID: -691883820001137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_169
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 27
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f0696d97cf63f0800000000000000
+      internalID: -905285521186424406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_170
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 33
+        width: 95
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4e732ef45dac450800000000000000
+      internalID: 6109930383555945724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_171
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 40
+        width: 177
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275aa46ffc4c0d720800000000000000
+      internalID: 2869009360104367474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_172
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 29
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0364ad6ac8c800800000000000000
+      internalID: 632978319903755806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_173
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 21
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7209980b155d8e320800000000000000
+      internalID: 2587552532755222567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_174
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 25
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e0ee0c727f2ae0800000000000000
+      internalID: -1571911867777882156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_175
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 24
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88cddc419ef93c0800000000000000
+      internalID: -4350502439454209800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stasiun Kereta-Photoroom_176
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 25
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690bffd7788825720800000000000000
+      internalID: 2833477231085334678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stasiun Kereta-Photoroom_0: 8312622236350252645
+      Stasiun Kereta-Photoroom_1: -753356143710238378
+      Stasiun Kereta-Photoroom_10: -7135388996296040145
+      Stasiun Kereta-Photoroom_100: -7062085297905663665
+      Stasiun Kereta-Photoroom_101: 5005114021068849456
+      Stasiun Kereta-Photoroom_102: 861725613037989005
+      Stasiun Kereta-Photoroom_103: -1280095692635424992
+      Stasiun Kereta-Photoroom_104: -7670199815093648475
+      Stasiun Kereta-Photoroom_105: -3142282547058254073
+      Stasiun Kereta-Photoroom_106: 9159476891546823887
+      Stasiun Kereta-Photoroom_107: -6767353347698940054
+      Stasiun Kereta-Photoroom_108: 4997338531833915866
+      Stasiun Kereta-Photoroom_109: -8656590580924197001
+      Stasiun Kereta-Photoroom_11: 4640420448408048750
+      Stasiun Kereta-Photoroom_110: -8069169985139402220
+      Stasiun Kereta-Photoroom_111: 8172526259871564813
+      Stasiun Kereta-Photoroom_112: 1035940134437038430
+      Stasiun Kereta-Photoroom_113: -6781270535543427752
+      Stasiun Kereta-Photoroom_114: 7298863071362165675
+      Stasiun Kereta-Photoroom_115: -5644133222114891644
+      Stasiun Kereta-Photoroom_116: 4459118243611981419
+      Stasiun Kereta-Photoroom_117: 2496003042256359107
+      Stasiun Kereta-Photoroom_118: -4157533216408889942
+      Stasiun Kereta-Photoroom_119: 4846349269749073256
+      Stasiun Kereta-Photoroom_12: 6944299701237117782
+      Stasiun Kereta-Photoroom_120: -9140204068416534134
+      Stasiun Kereta-Photoroom_121: 6137256532415508680
+      Stasiun Kereta-Photoroom_122: -7079124933146453148
+      Stasiun Kereta-Photoroom_123: 1955816431456293741
+      Stasiun Kereta-Photoroom_124: -788275729689264688
+      Stasiun Kereta-Photoroom_125: 3328098009162332734
+      Stasiun Kereta-Photoroom_126: 7299783484426841547
+      Stasiun Kereta-Photoroom_127: -7457100920565052110
+      Stasiun Kereta-Photoroom_128: 9170551123713251094
+      Stasiun Kereta-Photoroom_129: 7266940583870797951
+      Stasiun Kereta-Photoroom_13: 468467299028692107
+      Stasiun Kereta-Photoroom_130: -8682124164557952492
+      Stasiun Kereta-Photoroom_131: 6189076009957927600
+      Stasiun Kereta-Photoroom_132: -980421907982589788
+      Stasiun Kereta-Photoroom_133: -1883400420995859785
+      Stasiun Kereta-Photoroom_134: -9037167007104944684
+      Stasiun Kereta-Photoroom_135: -926049981421606567
+      Stasiun Kereta-Photoroom_136: -5973189574010464395
+      Stasiun Kereta-Photoroom_137: -5535424512468395631
+      Stasiun Kereta-Photoroom_138: -8621731879080393452
+      Stasiun Kereta-Photoroom_139: 6099532903535321286
+      Stasiun Kereta-Photoroom_14: -2402908077638667485
+      Stasiun Kereta-Photoroom_140: -5385051050514834138
+      Stasiun Kereta-Photoroom_141: -4993259065970809497
+      Stasiun Kereta-Photoroom_142: 3370991780682657443
+      Stasiun Kereta-Photoroom_143: -5208645972117616957
+      Stasiun Kereta-Photoroom_144: -8504854252516945474
+      Stasiun Kereta-Photoroom_145: -6472762943149466841
+      Stasiun Kereta-Photoroom_146: -8346051422499416774
+      Stasiun Kereta-Photoroom_147: -7838790737898601848
+      Stasiun Kereta-Photoroom_148: -3748953637294752475
+      Stasiun Kereta-Photoroom_149: -1852807110947501760
+      Stasiun Kereta-Photoroom_15: -3846926402004597900
+      Stasiun Kereta-Photoroom_150: -6428371892689033873
+      Stasiun Kereta-Photoroom_151: -9080331753624816248
+      Stasiun Kereta-Photoroom_152: -1309206435986168814
+      Stasiun Kereta-Photoroom_153: 614426948866946344
+      Stasiun Kereta-Photoroom_154: 7623822908288454032
+      Stasiun Kereta-Photoroom_155: 4297690755414800456
+      Stasiun Kereta-Photoroom_156: -4348778528728560030
+      Stasiun Kereta-Photoroom_157: -4577777671484776735
+      Stasiun Kereta-Photoroom_158: -3804445395586221772
+      Stasiun Kereta-Photoroom_159: -3875073610675259047
+      Stasiun Kereta-Photoroom_16: -2977055485046172838
+      Stasiun Kereta-Photoroom_160: -8075545218981984767
+      Stasiun Kereta-Photoroom_161: -1585057718014847893
+      Stasiun Kereta-Photoroom_162: 7116089377645532013
+      Stasiun Kereta-Photoroom_163: 6587751127850306843
+      Stasiun Kereta-Photoroom_164: -6919989808943052831
+      Stasiun Kereta-Photoroom_165: 7458177219188734355
+      Stasiun Kereta-Photoroom_166: -7975406792044258915
+      Stasiun Kereta-Photoroom_167: -4822170214887157401
+      Stasiun Kereta-Photoroom_168: -691883820001137236
+      Stasiun Kereta-Photoroom_169: -905285521186424406
+      Stasiun Kereta-Photoroom_17: 4779927155450943748
+      Stasiun Kereta-Photoroom_170: 6109930383555945724
+      Stasiun Kereta-Photoroom_171: 2869009360104367474
+      Stasiun Kereta-Photoroom_172: 632978319903755806
+      Stasiun Kereta-Photoroom_173: 2587552532755222567
+      Stasiun Kereta-Photoroom_174: -1571911867777882156
+      Stasiun Kereta-Photoroom_175: -4350502439454209800
+      Stasiun Kereta-Photoroom_176: 2833477231085334678
+      Stasiun Kereta-Photoroom_18: -3143081275020857452
+      Stasiun Kereta-Photoroom_19: -7902189773183559636
+      Stasiun Kereta-Photoroom_2: 3224393775105201743
+      Stasiun Kereta-Photoroom_20: 781754593625666284
+      Stasiun Kereta-Photoroom_21: -8925225151851224573
+      Stasiun Kereta-Photoroom_22: 9123954888246153853
+      Stasiun Kereta-Photoroom_23: -7672236089492759776
+      Stasiun Kereta-Photoroom_24: 2817079386585425059
+      Stasiun Kereta-Photoroom_25: -9064874826715557327
+      Stasiun Kereta-Photoroom_26: -319090697223572737
+      Stasiun Kereta-Photoroom_27: -2029110977395780554
+      Stasiun Kereta-Photoroom_28: -6539421782887306498
+      Stasiun Kereta-Photoroom_29: -7670347720619412345
+      Stasiun Kereta-Photoroom_3: 7263276086070155361
+      Stasiun Kereta-Photoroom_30: -1815586812551202751
+      Stasiun Kereta-Photoroom_31: -7817606193478741020
+      Stasiun Kereta-Photoroom_32: 3976373837210927120
+      Stasiun Kereta-Photoroom_33: 578974606360149792
+      Stasiun Kereta-Photoroom_34: -4449179359456823942
+      Stasiun Kereta-Photoroom_35: -8196861292012929468
+      Stasiun Kereta-Photoroom_36: -5263762048440021526
+      Stasiun Kereta-Photoroom_37: -3488816267704822029
+      Stasiun Kereta-Photoroom_38: -3409897421048382899
+      Stasiun Kereta-Photoroom_39: 5089490982991880931
+      Stasiun Kereta-Photoroom_4: 1867401005573556286
+      Stasiun Kereta-Photoroom_40: -141868871924057613
+      Stasiun Kereta-Photoroom_41: -2330481872110332331
+      Stasiun Kereta-Photoroom_42: 3156444854172938037
+      Stasiun Kereta-Photoroom_43: -7759197155200724552
+      Stasiun Kereta-Photoroom_44: 7818248237267458613
+      Stasiun Kereta-Photoroom_45: -8572890636123539134
+      Stasiun Kereta-Photoroom_46: -3167301581563555627
+      Stasiun Kereta-Photoroom_47: 8513238784924025909
+      Stasiun Kereta-Photoroom_48: -6534727595910273269
+      Stasiun Kereta-Photoroom_49: 2086174157894509544
+      Stasiun Kereta-Photoroom_5: -3243554661323259679
+      Stasiun Kereta-Photoroom_50: 3320545137552909833
+      Stasiun Kereta-Photoroom_51: 8026345335955616523
+      Stasiun Kereta-Photoroom_52: 4993696764936883230
+      Stasiun Kereta-Photoroom_53: -9038332872442235424
+      Stasiun Kereta-Photoroom_54: -3825383891825687119
+      Stasiun Kereta-Photoroom_55: -2146370021935521315
+      Stasiun Kereta-Photoroom_56: -1242939267628413256
+      Stasiun Kereta-Photoroom_57: -3154032699612325145
+      Stasiun Kereta-Photoroom_58: -4785657465996803794
+      Stasiun Kereta-Photoroom_59: -3662360714983682038
+      Stasiun Kereta-Photoroom_6: 6029647498455381503
+      Stasiun Kereta-Photoroom_60: -1611286629198652883
+      Stasiun Kereta-Photoroom_61: 3269400787647600044
+      Stasiun Kereta-Photoroom_62: -821136893777136621
+      Stasiun Kereta-Photoroom_63: 8452983047993267976
+      Stasiun Kereta-Photoroom_64: 851196510541465532
+      Stasiun Kereta-Photoroom_65: -3017819979292567910
+      Stasiun Kereta-Photoroom_66: 2695763584073630965
+      Stasiun Kereta-Photoroom_67: -7318179526645162583
+      Stasiun Kereta-Photoroom_68: 8403945817728584163
+      Stasiun Kereta-Photoroom_69: -5665152435016608912
+      Stasiun Kereta-Photoroom_7: -8894986958896778492
+      Stasiun Kereta-Photoroom_70: -4403107419644106889
+      Stasiun Kereta-Photoroom_71: -5032618908639477850
+      Stasiun Kereta-Photoroom_72: -5905805535729112288
+      Stasiun Kereta-Photoroom_73: 3103716140944516538
+      Stasiun Kereta-Photoroom_74: 7590037381053146851
+      Stasiun Kereta-Photoroom_75: 1546225117388167649
+      Stasiun Kereta-Photoroom_76: 7651858150961277476
+      Stasiun Kereta-Photoroom_77: -2077741891241822480
+      Stasiun Kereta-Photoroom_78: -7558837399673579554
+      Stasiun Kereta-Photoroom_79: -1244526489761280519
+      Stasiun Kereta-Photoroom_8: -306836302571858234
+      Stasiun Kereta-Photoroom_80: -4308159205662910418
+      Stasiun Kereta-Photoroom_81: 8820554147283965323
+      Stasiun Kereta-Photoroom_82: -2658894190030822115
+      Stasiun Kereta-Photoroom_83: -5284894688962840192
+      Stasiun Kereta-Photoroom_84: 2845822343965361104
+      Stasiun Kereta-Photoroom_85: -4776855884028636255
+      Stasiun Kereta-Photoroom_86: 4443710304886801057
+      Stasiun Kereta-Photoroom_87: 5505816566808169295
+      Stasiun Kereta-Photoroom_88: -1540290023332213049
+      Stasiun Kereta-Photoroom_89: -8302976629116424506
+      Stasiun Kereta-Photoroom_9: -1853774388148073459
+      Stasiun Kereta-Photoroom_90: 8870911901266223662
+      Stasiun Kereta-Photoroom_91: 3739797363512368436
+      Stasiun Kereta-Photoroom_92: -2659141399984721019
+      Stasiun Kereta-Photoroom_93: 8870822473353042891
+      Stasiun Kereta-Photoroom_94: -2251469945900490659
+      Stasiun Kereta-Photoroom_95: -3460831462924057473
+      Stasiun Kereta-Photoroom_96: -7391812339688233760
+      Stasiun Kereta-Photoroom_97: -2914327738403251147
+      Stasiun Kereta-Photoroom_98: -5315464287846984275
+      Stasiun Kereta-Photoroom_99: -3643965759901983363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

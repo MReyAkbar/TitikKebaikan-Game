@@ -1,0 +1,5839 @@
+fileFormatVersion: 2
+guid: a62dd1fc7741da74b812fe2f282a9f28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2268733768635622378
+    second: Pedesaan_0
+  - first:
+      213: -1099925708144934572
+    second: Pedesaan_1
+  - first:
+      213: -204673008807587259
+    second: Pedesaan_2
+  - first:
+      213: -2306678802024842285
+    second: Pedesaan_3
+  - first:
+      213: -4476665966333365525
+    second: Pedesaan_4
+  - first:
+      213: 5592557086915066455
+    second: Pedesaan_5
+  - first:
+      213: -6050384857805201692
+    second: Pedesaan_6
+  - first:
+      213: -3775537027343681338
+    second: Pedesaan_7
+  - first:
+      213: -8079120733672829965
+    second: Pedesaan_8
+  - first:
+      213: -6477178956457680623
+    second: Pedesaan_9
+  - first:
+      213: 7010196259048625526
+    second: Pedesaan_10
+  - first:
+      213: -8637870962913694425
+    second: Pedesaan_11
+  - first:
+      213: 7947637908516090288
+    second: Pedesaan_12
+  - first:
+      213: -3100635786704086552
+    second: Pedesaan_13
+  - first:
+      213: 8091546563171843000
+    second: Pedesaan_14
+  - first:
+      213: 921675060030362498
+    second: Pedesaan_15
+  - first:
+      213: 1752148052010803393
+    second: Pedesaan_16
+  - first:
+      213: -6418234599607806627
+    second: Pedesaan_17
+  - first:
+      213: -3529662218456496826
+    second: Pedesaan_18
+  - first:
+      213: -6999158804026705169
+    second: Pedesaan_19
+  - first:
+      213: -3403348152838756002
+    second: Pedesaan_20
+  - first:
+      213: -7113665336335531841
+    second: Pedesaan_21
+  - first:
+      213: -1770906194582565258
+    second: Pedesaan_22
+  - first:
+      213: 7703144281330883110
+    second: Pedesaan_23
+  - first:
+      213: 2862009917048054023
+    second: Pedesaan_24
+  - first:
+      213: -795023415637049547
+    second: Pedesaan_25
+  - first:
+      213: 2776564078611256338
+    second: Pedesaan_26
+  - first:
+      213: 5899147446649189822
+    second: Pedesaan_27
+  - first:
+      213: 1318774045926931652
+    second: Pedesaan_28
+  - first:
+      213: -3199602198026918373
+    second: Pedesaan_29
+  - first:
+      213: 2375265765265453734
+    second: Pedesaan_30
+  - first:
+      213: -7456297308571387362
+    second: Pedesaan_31
+  - first:
+      213: 6058056865050333258
+    second: Pedesaan_32
+  - first:
+      213: 6260773405485689686
+    second: Pedesaan_33
+  - first:
+      213: -2597548977291069892
+    second: Pedesaan_34
+  - first:
+      213: -4839414130954833155
+    second: Pedesaan_35
+  - first:
+      213: -3733970859211700407
+    second: Pedesaan_36
+  - first:
+      213: -436116070933325101
+    second: Pedesaan_37
+  - first:
+      213: -3686019458962824412
+    second: Pedesaan_38
+  - first:
+      213: -4882406349944363174
+    second: Pedesaan_39
+  - first:
+      213: 1224401924451198551
+    second: Pedesaan_40
+  - first:
+      213: -2610736597377150377
+    second: Pedesaan_41
+  - first:
+      213: -5847245405208253057
+    second: Pedesaan_42
+  - first:
+      213: 5485815655366733427
+    second: Pedesaan_43
+  - first:
+      213: 5049822988143219966
+    second: Pedesaan_44
+  - first:
+      213: 190343512567265797
+    second: Pedesaan_45
+  - first:
+      213: 7539513591314312120
+    second: Pedesaan_46
+  - first:
+      213: -4527140423267131698
+    second: Pedesaan_47
+  - first:
+      213: 6870109061587877369
+    second: Pedesaan_48
+  - first:
+      213: -2503379131187576878
+    second: Pedesaan_49
+  - first:
+      213: 7758504158276745430
+    second: Pedesaan_50
+  - first:
+      213: 409141613405338665
+    second: Pedesaan_51
+  - first:
+      213: 2061077468529401387
+    second: Pedesaan_52
+  - first:
+      213: 5886486809002082709
+    second: Pedesaan_53
+  - first:
+      213: 9103121768848355715
+    second: Pedesaan_54
+  - first:
+      213: -7581200442742807014
+    second: Pedesaan_55
+  - first:
+      213: 6839856048628008553
+    second: Pedesaan_56
+  - first:
+      213: -1883474165919819725
+    second: Pedesaan_57
+  - first:
+      213: 5125796335296370689
+    second: Pedesaan_58
+  - first:
+      213: 5608507166738927501
+    second: Pedesaan_59
+  - first:
+      213: 3982361230241499239
+    second: Pedesaan_60
+  - first:
+      213: 3916854741089159
+    second: Pedesaan_61
+  - first:
+      213: 1817361293143111123
+    second: Pedesaan_62
+  - first:
+      213: -4364789240143517947
+    second: Pedesaan_63
+  - first:
+      213: 6786530072257660214
+    second: Pedesaan_64
+  - first:
+      213: 2617120637910305864
+    second: Pedesaan_65
+  - first:
+      213: 6998093069756796419
+    second: Pedesaan_66
+  - first:
+      213: 8641737234397992275
+    second: Pedesaan_67
+  - first:
+      213: -5072320709519753165
+    second: Pedesaan_68
+  - first:
+      213: 7802462011331810582
+    second: Pedesaan_69
+  - first:
+      213: 1717130436812535428
+    second: Pedesaan_70
+  - first:
+      213: 3159282443878894810
+    second: Pedesaan_71
+  - first:
+      213: -265920367839054598
+    second: Pedesaan_72
+  - first:
+      213: -67069071758089047
+    second: Pedesaan_73
+  - first:
+      213: 5407732254915638284
+    second: Pedesaan_74
+  - first:
+      213: -6656216136758153778
+    second: Pedesaan_75
+  - first:
+      213: -8223326533414800273
+    second: Pedesaan_76
+  - first:
+      213: 6425455722243017307
+    second: Pedesaan_77
+  - first:
+      213: 4566418028056902292
+    second: Pedesaan_78
+  - first:
+      213: 6432650568363070210
+    second: Pedesaan_79
+  - first:
+      213: 3608121009193283361
+    second: Pedesaan_80
+  - first:
+      213: -6099763946776108834
+    second: Pedesaan_81
+  - first:
+      213: -5875256020574359953
+    second: Pedesaan_82
+  - first:
+      213: -4604729210539930794
+    second: Pedesaan_83
+  - first:
+      213: 6161274961783502152
+    second: Pedesaan_84
+  - first:
+      213: 3302360012641300904
+    second: Pedesaan_85
+  - first:
+      213: -7466491653933083806
+    second: Pedesaan_86
+  - first:
+      213: -3256795169454314075
+    second: Pedesaan_87
+  - first:
+      213: 5524237405902566381
+    second: Pedesaan_88
+  - first:
+      213: 3832750122141597592
+    second: Pedesaan_89
+  - first:
+      213: -1997653869575079425
+    second: Pedesaan_90
+  - first:
+      213: -6320699935099870179
+    second: Pedesaan_91
+  - first:
+      213: 6879806731150499269
+    second: Pedesaan_92
+  - first:
+      213: -1799724758410810574
+    second: Pedesaan_93
+  - first:
+      213: -6215302008062895344
+    second: Pedesaan_94
+  - first:
+      213: -3889766411585429849
+    second: Pedesaan_95
+  - first:
+      213: -6405473402118443530
+    second: Pedesaan_96
+  - first:
+      213: 8194621874807993074
+    second: Pedesaan_97
+  - first:
+      213: -3703530202039020840
+    second: Pedesaan_98
+  - first:
+      213: -4052187940834368392
+    second: Pedesaan_99
+  - first:
+      213: 3542777802242194711
+    second: Pedesaan_100
+  - first:
+      213: 6954658253064399116
+    second: Pedesaan_101
+  - first:
+      213: 1405115084343258274
+    second: Pedesaan_102
+  - first:
+      213: -31889109197836993
+    second: Pedesaan_103
+  - first:
+      213: -1720453535887811214
+    second: Pedesaan_104
+  - first:
+      213: -2503619867711303643
+    second: Pedesaan_105
+  - first:
+      213: -5983014385999286991
+    second: Pedesaan_106
+  - first:
+      213: 4942112790834616092
+    second: Pedesaan_107
+  - first:
+      213: 3643661485562358592
+    second: Pedesaan_108
+  - first:
+      213: 4205566331933180208
+    second: Pedesaan_109
+  - first:
+      213: -782634629429030742
+    second: Pedesaan_110
+  - first:
+      213: -2731673804306623245
+    second: Pedesaan_111
+  - first:
+      213: -5034663862188810413
+    second: Pedesaan_112
+  - first:
+      213: -8560325818820366103
+    second: Pedesaan_113
+  - first:
+      213: -5717790202007798593
+    second: Pedesaan_114
+  - first:
+      213: 568937215967424772
+    second: Pedesaan_115
+  - first:
+      213: -5428441926443633323
+    second: Pedesaan_116
+  - first:
+      213: 969154759985202785
+    second: Pedesaan_117
+  - first:
+      213: -3626399800582282428
+    second: Pedesaan_118
+  - first:
+      213: 8424914290807372477
+    second: Pedesaan_119
+  - first:
+      213: 901821998169889896
+    second: Pedesaan_120
+  - first:
+      213: -408171150074552054
+    second: Pedesaan_121
+  - first:
+      213: 7888458198178096725
+    second: Pedesaan_122
+  - first:
+      213: -1354877813323737788
+    second: Pedesaan_123
+  - first:
+      213: 1209495530057799676
+    second: Pedesaan_124
+  - first:
+      213: 8142312157830016836
+    second: Pedesaan_125
+  - first:
+      213: 5830465756034441509
+    second: Pedesaan_126
+  - first:
+      213: 2288109550331099431
+    second: Pedesaan_127
+  - first:
+      213: 3089912458762491191
+    second: Pedesaan_128
+  - first:
+      213: -7255116331187305399
+    second: Pedesaan_129
+  - first:
+      213: 718002304409639555
+    second: Pedesaan_130
+  - first:
+      213: 5063245024248471821
+    second: Pedesaan_131
+  - first:
+      213: -4858452579508576118
+    second: Pedesaan_132
+  - first:
+      213: 2911931882549045161
+    second: Pedesaan_133
+  - first:
+      213: -1270612722349735721
+    second: Pedesaan_134
+  - first:
+      213: 2858393874623481727
+    second: Pedesaan_135
+  - first:
+      213: 7001394200007651851
+    second: Pedesaan_136
+  - first:
+      213: -1877869304335482244
+    second: Pedesaan_137
+  - first:
+      213: 3370452862768629410
+    second: Pedesaan_138
+  - first:
+      213: 4104014008018432400
+    second: Pedesaan_139
+  - first:
+      213: -4877103229388636836
+    second: Pedesaan_140
+  - first:
+      213: 3396815090355242572
+    second: Pedesaan_141
+  - first:
+      213: -7312041608008964829
+    second: Pedesaan_142
+  - first:
+      213: -2431049608322281635
+    second: Pedesaan_143
+  - first:
+      213: 4870215406470060950
+    second: Pedesaan_144
+  - first:
+      213: -3266884717917047953
+    second: Pedesaan_145
+  - first:
+      213: -1743392513479471255
+    second: Pedesaan_146
+  - first:
+      213: 5399789748884612827
+    second: Pedesaan_147
+  - first:
+      213: -7946797996750324115
+    second: Pedesaan_148
+  - first:
+      213: -3081543410683671682
+    second: Pedesaan_149
+  - first:
+      213: -5197046051249226973
+    second: Pedesaan_150
+  - first:
+      213: 2314988131109235248
+    second: Pedesaan_151
+  - first:
+      213: -9090133297975728705
+    second: Pedesaan_152
+  - first:
+      213: -7480602920777508548
+    second: Pedesaan_153
+  - first:
+      213: 235251651918667213
+    second: Pedesaan_154
+  - first:
+      213: -4154550777436223135
+    second: Pedesaan_155
+  - first:
+      213: -38242551256631327
+    second: Pedesaan_156
+  - first:
+      213: 5072859022270075150
+    second: Pedesaan_157
+  - first:
+      213: -3549308293204249420
+    second: Pedesaan_158
+  - first:
+      213: 3645241630945608402
+    second: Pedesaan_159
+  - first:
+      213: 5124268423524016848
+    second: Pedesaan_160
+  - first:
+      213: -5271463379016080171
+    second: Pedesaan_161
+  - first:
+      213: -8954861231283852891
+    second: Pedesaan_162
+  - first:
+      213: -2369251033094912328
+    second: Pedesaan_163
+  - first:
+      213: 2638969798136131113
+    second: Pedesaan_164
+  - first:
+      213: 3431661118318696679
+    second: Pedesaan_165
+  - first:
+      213: 8901325738102275777
+    second: Pedesaan_166
+  - first:
+      213: -173391306798033717
+    second: Pedesaan_167
+  - first:
+      213: 2757176386548051639
+    second: Pedesaan_168
+  - first:
+      213: 5572251526256901974
+    second: Pedesaan_169
+  - first:
+      213: 7854842394638313245
+    second: Pedesaan_170
+  - first:
+      213: -8254573049044190893
+    second: Pedesaan_171
+  - first:
+      213: 7548917243622881834
+    second: Pedesaan_172
+  - first:
+      213: 6202051581522498235
+    second: Pedesaan_173
+  - first:
+      213: 1853081984746472338
+    second: Pedesaan_174
+  - first:
+      213: 5980420428681480276
+    second: Pedesaan_175
+  - first:
+      213: -7101915189211118646
+    second: Pedesaan_176
+  - first:
+      213: 989951169645934433
+    second: Pedesaan_177
+  - first:
+      213: 8326357850843946555
+    second: Pedesaan_178
+  - first:
+      213: -6121429412759379404
+    second: Pedesaan_179
+  - first:
+      213: -726685050995965810
+    second: Pedesaan_180
+  - first:
+      213: 2502592450908010656
+    second: Pedesaan_181
+  - first:
+      213: -754142437540209764
+    second: Pedesaan_182
+  - first:
+      213: 5140038149968049736
+    second: Pedesaan_183
+  - first:
+      213: -6153219522351494702
+    second: Pedesaan_184
+  - first:
+      213: -1275741791225532911
+    second: Pedesaan_185
+  - first:
+      213: -5329200048239632203
+    second: Pedesaan_186
+  - first:
+      213: 4094842342033161969
+    second: Pedesaan_187
+  - first:
+      213: 2209770821204499500
+    second: Pedesaan_188
+  - first:
+      213: 2209450045391412621
+    second: Pedesaan_189
+  - first:
+      213: -4366452563337556715
+    second: Pedesaan_190
+  - first:
+      213: -8401532404125508706
+    second: Pedesaan_191
+  - first:
+      213: 8637796539901386790
+    second: Pedesaan_192
+  - first:
+      213: 7844632940069097343
+    second: Pedesaan_193
+  - first:
+      213: -1198674830055490292
+    second: Pedesaan_194
+  - first:
+      213: 2635837889561817068
+    second: Pedesaan_195
+  - first:
+      213: -4709988452399232579
+    second: Pedesaan_196
+  - first:
+      213: 7702843613237388061
+    second: Pedesaan_197
+  - first:
+      213: -315050542547049777
+    second: Pedesaan_198
+  - first:
+      213: -3316914351752174197
+    second: Pedesaan_199
+  - first:
+      213: 3501213903914546611
+    second: Pedesaan_200
+  - first:
+      213: -653156005125825813
+    second: Pedesaan_201
+  - first:
+      213: -8344787396588067095
+    second: Pedesaan_202
+  - first:
+      213: -6557028017065198357
+    second: Pedesaan_203
+  - first:
+      213: 1519456552158097696
+    second: Pedesaan_204
+  - first:
+      213: -57650867783103559
+    second: Pedesaan_205
+  - first:
+      213: -2459752157232844063
+    second: Pedesaan_206
+  - first:
+      213: -6391711828378552891
+    second: Pedesaan_207
+  - first:
+      213: 6554954381528814703
+    second: Pedesaan_208
+  - first:
+      213: -3184857466855560649
+    second: Pedesaan_209
+  - first:
+      213: -1450515427315031105
+    second: Pedesaan_210
+  - first:
+      213: 5146673574544936685
+    second: Pedesaan_211
+  - first:
+      213: -8954995522830298955
+    second: Pedesaan_212
+  - first:
+      213: -2387527671318227215
+    second: Pedesaan_213
+  - first:
+      213: 692618812126606245
+    second: Pedesaan_214
+  - first:
+      213: -5830895749239236619
+    second: Pedesaan_215
+  - first:
+      213: -7833097428707949821
+    second: Pedesaan_216
+  - first:
+      213: 4180153731103284669
+    second: Pedesaan_217
+  - first:
+      213: -8766137479283236969
+    second: Pedesaan_218
+  - first:
+      213: -726308698063951587
+    second: Pedesaan_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pedesaan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a571a7592c7f10800000000000000
+      internalID: 2268733768635622378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1017
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45183b665674cb0f0800000000000000
+      internalID: -1099925708144934572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1017
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d9ee9bfad82df0800000000000000
+      internalID: -204673008807587259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1017
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbb262d9d70dffd0800000000000000
+      internalID: -2306678802024842285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1017
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27e92a500bfd1c0800000000000000
+      internalID: -4476665966333365525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1017
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a7aa73a01cc9d40800000000000000
+      internalID: 5592557086915066455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1017
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee5e143707b80ca0800000000000000
+      internalID: -6050384857805201692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1017
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c878d8c3199a9bc0800000000000000
+      internalID: -3775537027343681338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1017
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb00fb6f7231ef80800000000000000
+      internalID: -8079120733672829965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1017
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11164b18e007c16a0800000000000000
+      internalID: -6477178956457680623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1017
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6759d522b58394160800000000000000
+      internalID: 7010196259048625526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1017
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d2ed7ef1e102880800000000000000
+      internalID: -8637870962913694425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1022
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b784c19eab4e60800000000000000
+      internalID: 7947637908516090288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1021
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e993ab0e2458f4d0800000000000000
+      internalID: -3100635786704086552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_14
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1021
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf3657ab2fa4070800000000000000
+      internalID: 8091546563171843000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1023
+        width: 113
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283527775927acc00800000000000000
+      internalID: 921675060030362498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_16
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1023
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c02ff9be51e05810800000000000000
+      internalID: 1752148052010803393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_17
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1023
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55514d03a9dde6a0800000000000000
+      internalID: -6418234599607806627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 950
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64588cbc9ee140fc0800000000000000
+      internalID: -3529662218456496826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 950
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab07f962efdde90800000000000000
+      internalID: -6999158804026705169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 950
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59601ff2e0e4c0d0800000000000000
+      internalID: -3403348152838756002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 950
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb006b0011f274d90800000000000000
+      internalID: -7113665336335531841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 950
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0e5dd23a7c67e0800000000000000
+      internalID: -1770906194582565258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 950
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a1f4e29e017ea60800000000000000
+      internalID: 7703144281330883110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 950
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7016b412bd6e7b720800000000000000
+      internalID: 2862009917048054023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 950
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff5da6a6287f4f0800000000000000
+      internalID: -795023415637049547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_26
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 950
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214dbb19156588620800000000000000
+      internalID: 2776564078611256338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 950
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb57d23095bfdd150800000000000000
+      internalID: 5899147446649189822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 950
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccba72f10a3d4210800000000000000
+      internalID: 1318774045926931652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_29
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 950
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16eb0cc0cab893d0800000000000000
+      internalID: -3199602198026918373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 955
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23bc9f0a3a6f020800000000000000
+      internalID: 2375265765265453734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_31
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 957
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab6ee5a19e58890800000000000000
+      internalID: -7456297308571387362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_32
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 956
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40117e2f9a821450800000000000000
+      internalID: 6058056865050333258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_33
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 956
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bef25cd3cb2e650800000000000000
+      internalID: 6260773405485689686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_34
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 960
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f2e1b7f6a3fbd0800000000000000
+      internalID: -2597548977291069892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_35
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 960
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27e6bfc72f6dcb0800000000000000
+      internalID: -4839414130954833155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 883
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c60779454e2cc0800000000000000
+      internalID: -3733970859211700407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 883
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1e2f7eba92f9f0800000000000000
+      internalID: -436116070933325101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 883
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e759d4d0a8dcc0800000000000000
+      internalID: -3686019458962824412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 883
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a576476fa453e3cb0800000000000000
+      internalID: -4882406349944363174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 883
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e7392013fdf010800000000000000
+      internalID: 1224401924451198551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 883
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752193f95ecc4cbd0800000000000000
+      internalID: -2610736597377150377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 883
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de604b8496adea0800000000000000
+      internalID: -5847245405208253057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_43
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 883
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e29610648812c40800000000000000
+      internalID: 5485815655366733427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 883
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d0eaa043941640800000000000000
+      internalID: 5049822988143219966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_45
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 883
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3fdb8a6c34a200800000000000000
+      internalID: 190343512567265797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_46
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 883
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe48d4aabb1a860800000000000000
+      internalID: 7539513591314312120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 883
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced9d655cd5c21c0800000000000000
+      internalID: -4527140423267131698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_48
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 890
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3328cac7875f50800000000000000
+      internalID: 6870109061587877369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_49
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 891
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df307391f5324dd0800000000000000
+      internalID: -2503379131187576878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_50
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 891
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f976fc6ebbab60800000000000000
+      internalID: 7758504158276745430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_51
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 891
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cfad131209da500800000000000000
+      internalID: 409141613405338665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_52
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 891
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e914e990b6a9c10800000000000000
+      internalID: 2061077468529401387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_53
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 892
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918799909001b150800000000000000
+      internalID: 5886486809002082709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_54
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 891
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f453b409c45e70800000000000000
+      internalID: 9103121768848355715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_55
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 891
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e74f3d5a2ac690800000000000000
+      internalID: -7581200442742807014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 296
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966874d46dc0cee50800000000000000
+      internalID: 6839856048628008553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_57
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 788
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33859b4a93e8cd5e0800000000000000
+      internalID: -1883474165919819725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_58
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 783
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d65cfb9c722740800000000000000
+      internalID: 5125796335296370689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 786
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fc4b19d8b65dd40800000000000000
+      internalID: 5608507166738927501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_60
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 786
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76805df7070344730800000000000000
+      internalID: 3982361230241499239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_61
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 809
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bba7fcb5aed0000800000000000000
+      internalID: 3916854741089159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 809
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5f652a770983910800000000000000
+      internalID: 1817361293143111123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_63
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 808
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5076ccdcf472d63c0800000000000000
+      internalID: -4364789240143517947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_64
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 809
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358c66e4299e2e50800000000000000
+      internalID: 6786530072257660214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_65
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 809
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cccf4aa51e15420800000000000000
+      internalID: 2617120637910305864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_66
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 808
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0af7c1983e1160800000000000000
+      internalID: 6998093069756796419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_67
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 787
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3551f829a3e9de770800000000000000
+      internalID: 8641737234397992275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_68
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 789
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330c732603f7b99b0800000000000000
+      internalID: -5072320709519753165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_69
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 790
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61599ee2cd9e74c60800000000000000
+      internalID: 7802462011331810582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_70
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 788
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486f837d80974d710800000000000000
+      internalID: 1717130436812535428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 713
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8784e4a608db20800000000000000
+      internalID: 3159282443878894810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 713
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4796895d24f4cf0800000000000000
+      internalID: -265920367839054598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 713
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4a17ad809b11ff0800000000000000
+      internalID: -67069071758089047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_74
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 719
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043bae95df1c0b40800000000000000
+      internalID: 5407732254915638284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_75
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 718
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdae4490be50a3a0800000000000000
+      internalID: -6656216136758153778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_76
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 717
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6434cf3610e0ed80800000000000000
+      internalID: -8223326533414800273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_77
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 717
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5acb449fedcb2950800000000000000
+      internalID: 6425455722243017307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_78
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 718
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a754aa00d2f5f30800000000000000
+      internalID: 4566418028056902292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_79
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 718
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203de7b3c9d554950800000000000000
+      internalID: 6432650568363070210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_80
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 714
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe693f0fe921230800000000000000
+      internalID: 3608121009193283361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_81
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 719
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0eca22209495ba0800000000000000
+      internalID: -6099763946776108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_82
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 719
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea03917c5e67ea0800000000000000
+      internalID: -5875256020574359953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_83
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 724
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b07ee0e27b810c0800000000000000
+      internalID: -4604729210539930794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_84
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8453d941fee318550800000000000000
+      internalID: 6161274961783502152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_85
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 724
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a170f15fe654dd20800000000000000
+      internalID: 3302360012641300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_86
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 643
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26356e06661b16890800000000000000
+      internalID: -7466491653933083806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_87
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 644
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada7727c0a8dc2d0800000000000000
+      internalID: -3256795169454314075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_88
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 639
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37fb9e6a80aac40800000000000000
+      internalID: 5524237405902566381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 639
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb517ede9a03530800000000000000
+      internalID: 3832750122141597592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_90
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 639
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9facfb368e644e0800000000000000
+      internalID: -1997653869575079425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_91
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 639
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a984c5ec5848a0800000000000000
+      internalID: -6320699935099870179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_92
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 638
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd119d65cbf97f50800000000000000
+      internalID: 6879806731150499269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_93
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 639
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba2791ed71607e0800000000000000
+      internalID: -1799724758410810574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_94
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 640
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b93a5f0cfceb9a0800000000000000
+      internalID: -6215302008062895344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 640
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae543abe06c40ac0800000000000000
+      internalID: -3889766411585429849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_96
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 640
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6480e0ef2b17a0800000000000000
+      internalID: -6405473402118443530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_97
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 639
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2739c9d2529b170800000000000000
+      internalID: 8194621874807993074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_98
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 639
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2988447ea6a9cc0800000000000000
+      internalID: -3703530202039020840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_99
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 639
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8742277898cb3c7c0800000000000000
+      internalID: -4052187940834368392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_100
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 639
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df8c404a97a2130800000000000000
+      internalID: 3542777802242194711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_101
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 639
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09642475d8e38060800000000000000
+      internalID: 6954658253064399116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_102
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 639
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aca2de79b8ff7310800000000000000
+      internalID: 1405115084343258274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_103
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 639
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d2f0e2605be8ff0800000000000000
+      internalID: -31889109197836993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_104
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 642
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d97dcdf98bf18e0800000000000000
+      internalID: -1720453535887811214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_105
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 642
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520157cbefa514dd0800000000000000
+      internalID: -2503619867711303643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_106
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 642
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de5748d1018fca0800000000000000
+      internalID: -5983014385999286991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_107
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 646
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179c991669e59440800000000000000
+      internalID: 4942112790834616092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_108
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 643
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b67b0f0d2e09230800000000000000
+      internalID: 3643661485562358592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_109
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 639
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031483efb4c2d5a30800000000000000
+      internalID: 4205566331933180208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_110
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 638
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa096fb73f58325f0800000000000000
+      internalID: -782634629429030742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_111
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 641
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45014e525271ad0800000000000000
+      internalID: -2731673804306623245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_112
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 646
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f5db264e7412ab0800000000000000
+      internalID: -5034663862188810413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 564
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e07b97b50d933980800000000000000
+      internalID: -8560325818820366103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_114
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 563
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcbd1dfa1456a0b0800000000000000
+      internalID: -5717790202007798593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_115
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 567
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401fc31326545e700800000000000000
+      internalID: 568937215967424772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_116
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 565
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557d7a34dc4aa4b0800000000000000
+      internalID: -5428441926443633323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 565
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1660c419e11237d00800000000000000
+      internalID: 969154759985202785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_118
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 565
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443eeb848907cadc0800000000000000
+      internalID: -3626399800582282428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_119
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 564
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7fae09ee4be470800000000000000
+      internalID: 8424914290807372477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_120
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 565
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c9c8b445ae38c00800000000000000
+      internalID: 901821998169889896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_121
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 565
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016e386082e55af0800000000000000
+      internalID: -408171150074552054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_122
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 565
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566ce7bfee697d60800000000000000
+      internalID: 7888458198178096725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_123
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 565
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d7c6aec1823de0800000000000000
+      internalID: -1354877813323737788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_124
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 565
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79482c6cdf8c010800000000000000
+      internalID: 1209495530057799676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_125
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 565
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6dc984cd4ff070800000000000000
+      internalID: 8142312157830016836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_126
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 562
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5212387c6b9f9e050800000000000000
+      internalID: 5830465756034441509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_127
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 537
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f9aa538ff0cf10800000000000000
+      internalID: 2288109550331099431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_128
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 534
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735979b920391ea20800000000000000
+      internalID: 3089912458762491191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_129
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 534
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440273d226a05b90800000000000000
+      internalID: -7255116331187305399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_130
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 551
+        width: 144
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a9f3eaa4bd6f900800000000000000
+      internalID: 718002304409639555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 378
+        width: 146
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d012819f582444640800000000000000
+      internalID: 5063245024248471821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_132
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80af40ce1f439cb0800000000000000
+      internalID: -4858452579508576118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_133
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 383
+        width: 111
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7687d7e92496820800000000000000
+      internalID: 2911931882549045161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_134
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d080450670ed5ee0800000000000000
+      internalID: -1270612722349735721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_135
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 383
+        width: 94
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c515a51e0ba720800000000000000
+      internalID: 2858393874623481727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_136
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 376
+        width: 136
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 80}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bfef0ee2f92160800000000000000
+      internalID: 7001394200007651851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_137
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 375
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 84}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72497c21d770f5e0800000000000000
+      internalID: -1877869304335482244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_138
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 381
+        width: 196
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 78}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c581750146ce20800000000000000
+      internalID: 3370452862768629410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_139
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 375
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 72}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917a2d0ff264f830800000000000000
+      internalID: 4104014008018432400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_140
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 375
+        width: 140
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 57}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d316fe37c015cb0800000000000000
+      internalID: -4877103229388636836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_141
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 373
+        width: 111
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c468f4cd359e32f20800000000000000
+      internalID: 3396815090355242572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_142
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 243
+        width: 108
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325efbbf5e8668a90800000000000000
+      internalID: -7312041608008964829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 243
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0990f24d234ed0800000000000000
+      internalID: -2431049608322281635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 321
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5842db1b769340800000000000000
+      internalID: 4870215406470060950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_145
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 321
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f66268a1b9a2d0800000000000000
+      internalID: -3266884717917047953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_146
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 322
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f0bf1feb93ec7e0800000000000000
+      internalID: -1743392513479471255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_147
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 321
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62014da28efea40800000000000000
+      internalID: 5399789748884612827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_148
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 321
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e39ed635d47b190800000000000000
+      internalID: -7946797996750324115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_149
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 322
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b014e38982c35d0800000000000000
+      internalID: -3081543410683671682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_150
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 322
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b71f9c62260e7b0800000000000000
+      internalID: -5197046051249226973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_151
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 322
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ae20e907d702020800000000000000
+      internalID: 2314988131109235248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_152
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 322
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e4355deb59d180800000000000000
+      internalID: -9090133297975728705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_153
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 319
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c399e49074f8f2890800000000000000
+      internalID: -7480602920777508548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_154
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 318
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd9f698128c34300800000000000000
+      internalID: 235251651918667213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_155
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 318
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169479564121856c0800000000000000
+      internalID: -4154550777436223135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_156
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 318
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73b0d2a92287ff0800000000000000
+      internalID: -38242551256631327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_157
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 318
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e011b02576a666640800000000000000
+      internalID: 5072859022270075150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_158
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 316
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4763199e25ebec0800000000000000
+      internalID: -3549308293204249420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_159
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 315
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d28af433ff769230800000000000000
+      internalID: 3645241630945608402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_160
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 315
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d266ed4bfe0d1740800000000000000
+      internalID: 5124268423524016848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_161
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 315
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d424477cfff7d6b0800000000000000
+      internalID: -5271463379016080171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_162
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 314
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9a860b721f9b380800000000000000
+      internalID: -8954861231283852891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 247
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b686acfcbabe1fd0800000000000000
+      internalID: -2369251033094912328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_164
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 247
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e63eeac018f9420800000000000000
+      internalID: 2638969798136131113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_165
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 246
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d7eafa95bf9f20800000000000000
+      internalID: 3431661118318696679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_166
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 247
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb0a9f89cd78b70800000000000000
+      internalID: 8901325738102275777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_167
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 248
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4992f668df79df0800000000000000
+      internalID: -173391306798033717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_168
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 248
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beaa4fb055734620800000000000000
+      internalID: 2757176386548051639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_169
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 248
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fbba57d3d945d40800000000000000
+      internalID: 5572251526256901974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_170
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 248
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17681b8a81020d60800000000000000
+      internalID: 7854842394638313245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_171
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 247
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3593537eb8dd17d80800000000000000
+      internalID: -8254573049044190893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_172
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 249
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a76f8bc3423c860800000000000000
+      internalID: 7548917243622881834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_173
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 251
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb25c43bd0d121650800000000000000
+      internalID: 6202051581522498235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_174
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 251
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934d704f3877b910800000000000000
+      internalID: 1853081984746472338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_175
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 252
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588c0bb1b8bef250800000000000000
+      internalID: 5980420428681480276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_176
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 252
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ce1253cde07d90800000000000000
+      internalID: -7101915189211118646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_177
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 252
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1677ab308530dbd00800000000000000
+      internalID: 989951169645934433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_178
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 252
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e9654b95a2d8370800000000000000
+      internalID: 8326357850843946555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_179
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43269deb1605c0ba0800000000000000
+      internalID: -6121429412759379404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_180
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e808cc7dbcb4ae5f0800000000000000
+      internalID: -726685050995965810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_181
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 138
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a832f5239efab220800000000000000
+      internalID: 2502592450908010656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b5e5cd27fb885f0800000000000000
+      internalID: -754142437540209764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_183
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8463dccd675155740800000000000000
+      internalID: 5140038149968049736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_184
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 141
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d98d31127f5b9aa0800000000000000
+      internalID: -6153219522351494702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_185
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 142
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea1ec9997ab4ee0800000000000000
+      internalID: -1275741791225532911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_186
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 152
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0aeab9ac0ea06b0800000000000000
+      internalID: -5329200048239632203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_187
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 153
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe7d182a6dc3d830800000000000000
+      internalID: 4094842342033161969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_188
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 153
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdae0aadeaaae10800000000000000
+      internalID: 2209770821204499500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_189
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 154
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d96803c1b89ae10800000000000000
+      internalID: 2209450045391412621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_190
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 153
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dcba1378e3763c0800000000000000
+      internalID: -4366452563337556715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_191
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 146
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b5a2baac2c76b80800000000000000
+      internalID: -8401532404125508706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_192
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 142
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620abe2203e9fd770800000000000000
+      internalID: 8637796539901386790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_193
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 142
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f852aa81cbddc60800000000000000
+      internalID: 7844632940069097343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_194
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 152
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3759c7937d5fe0800000000000000
+      internalID: -1198674830055490292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_195
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 151
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe8d46890649420800000000000000
+      internalID: 2635837889561817068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_196
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 148
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db94d860572c2aeb0800000000000000
+      internalID: -4709988452399232579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_197
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 151
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a66f647ff5ea60800000000000000
+      internalID: 7702843613237388061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_198
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 151
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc260356337b0abf0800000000000000
+      internalID: -315050542547049777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_199
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 155
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85aa6988f3f7f1d0800000000000000
+      internalID: -3316914351752174197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b53c71de7fc69030800000000000000
+      internalID: 3501213903914546611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_201
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beadf8be2168fe6f0800000000000000
+      internalID: -653156005125825813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 25
+        width: 35
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6263c431c513c80800000000000000
+      internalID: -8344787396588067095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_203
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 22
+        width: 24
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7b8452c1c005a0800000000000000
+      internalID: -6557028017065198357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_204
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 29
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f50b0fa1361510800000000000000
+      internalID: 1519456552158097696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_205
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 22
+        width: 31
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8bc857de233ff0800000000000000
+      internalID: -57650867783103559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_206
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 21
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b2a002743dddd0800000000000000
+      internalID: -2459752157232844063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_207
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 21
+        width: 43
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c575d2f4f31c47a0800000000000000
+      internalID: -6391711828378552891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_208
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f645ae5c740e7fa50800000000000000
+      internalID: 6554954381528814703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_209
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 79
+        width: 174
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae2db020d1dc3d0800000000000000
+      internalID: -3184857466855560649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_210
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 34
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e9ad67ebbedbe0800000000000000
+      internalID: -1450515427315031105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_211
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 51
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee04a90958ac6740800000000000000
+      internalID: 5146673574544936685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_212
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 54
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b09c70840779b380800000000000000
+      internalID: -8954995522830298955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_213
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 58
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f659ab8b3ccdded0800000000000000
+      internalID: -2387527671318227215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_214
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 54
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a33f85d32dac9900800000000000000
+      internalID: 692618812126606245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_215
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 54
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79240a53f741fa0800000000000000
+      internalID: -5830895749239236619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_216
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 55
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30346ded36f3b4390800000000000000
+      internalID: -7833097428707949821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_217
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 56
+        width: 104
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5fe8cba3e20a30800000000000000
+      internalID: 4180153731103284669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_218
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9517586c685680800000000000000
+      internalID: -8766137479283236969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedesaan_219
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 28
+        width: 176
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d192f965612abe5f0800000000000000
+      internalID: -726308698063951587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07c9e89622d448646992b7b4c1695611
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pedesaan_0: 2268733768635622378
+      Pedesaan_1: -1099925708144934572
+      Pedesaan_10: 7010196259048625526
+      Pedesaan_100: 3542777802242194711
+      Pedesaan_101: 6954658253064399116
+      Pedesaan_102: 1405115084343258274
+      Pedesaan_103: -31889109197836993
+      Pedesaan_104: -1720453535887811214
+      Pedesaan_105: -2503619867711303643
+      Pedesaan_106: -5983014385999286991
+      Pedesaan_107: 4942112790834616092
+      Pedesaan_108: 3643661485562358592
+      Pedesaan_109: 4205566331933180208
+      Pedesaan_11: -8637870962913694425
+      Pedesaan_110: -782634629429030742
+      Pedesaan_111: -2731673804306623245
+      Pedesaan_112: -5034663862188810413
+      Pedesaan_113: -8560325818820366103
+      Pedesaan_114: -5717790202007798593
+      Pedesaan_115: 568937215967424772
+      Pedesaan_116: -5428441926443633323
+      Pedesaan_117: 969154759985202785
+      Pedesaan_118: -3626399800582282428
+      Pedesaan_119: 8424914290807372477
+      Pedesaan_12: 7947637908516090288
+      Pedesaan_120: 901821998169889896
+      Pedesaan_121: -408171150074552054
+      Pedesaan_122: 7888458198178096725
+      Pedesaan_123: -1354877813323737788
+      Pedesaan_124: 1209495530057799676
+      Pedesaan_125: 8142312157830016836
+      Pedesaan_126: 5830465756034441509
+      Pedesaan_127: 2288109550331099431
+      Pedesaan_128: 3089912458762491191
+      Pedesaan_129: -7255116331187305399
+      Pedesaan_13: -3100635786704086552
+      Pedesaan_130: 718002304409639555
+      Pedesaan_131: 5063245024248471821
+      Pedesaan_132: -4858452579508576118
+      Pedesaan_133: 2911931882549045161
+      Pedesaan_134: -1270612722349735721
+      Pedesaan_135: 2858393874623481727
+      Pedesaan_136: 7001394200007651851
+      Pedesaan_137: -1877869304335482244
+      Pedesaan_138: 3370452862768629410
+      Pedesaan_139: 4104014008018432400
+      Pedesaan_14: 8091546563171843000
+      Pedesaan_140: -4877103229388636836
+      Pedesaan_141: 3396815090355242572
+      Pedesaan_142: -7312041608008964829
+      Pedesaan_143: -2431049608322281635
+      Pedesaan_144: 4870215406470060950
+      Pedesaan_145: -3266884717917047953
+      Pedesaan_146: -1743392513479471255
+      Pedesaan_147: 5399789748884612827
+      Pedesaan_148: -7946797996750324115
+      Pedesaan_149: -3081543410683671682
+      Pedesaan_15: 921675060030362498
+      Pedesaan_150: -5197046051249226973
+      Pedesaan_151: 2314988131109235248
+      Pedesaan_152: -9090133297975728705
+      Pedesaan_153: -7480602920777508548
+      Pedesaan_154: 235251651918667213
+      Pedesaan_155: -4154550777436223135
+      Pedesaan_156: -38242551256631327
+      Pedesaan_157: 5072859022270075150
+      Pedesaan_158: -3549308293204249420
+      Pedesaan_159: 3645241630945608402
+      Pedesaan_16: 1752148052010803393
+      Pedesaan_160: 5124268423524016848
+      Pedesaan_161: -5271463379016080171
+      Pedesaan_162: -8954861231283852891
+      Pedesaan_163: -2369251033094912328
+      Pedesaan_164: 2638969798136131113
+      Pedesaan_165: 3431661118318696679
+      Pedesaan_166: 8901325738102275777
+      Pedesaan_167: -173391306798033717
+      Pedesaan_168: 2757176386548051639
+      Pedesaan_169: 5572251526256901974
+      Pedesaan_17: -6418234599607806627
+      Pedesaan_170: 7854842394638313245
+      Pedesaan_171: -8254573049044190893
+      Pedesaan_172: 7548917243622881834
+      Pedesaan_173: 6202051581522498235
+      Pedesaan_174: 1853081984746472338
+      Pedesaan_175: 5980420428681480276
+      Pedesaan_176: -7101915189211118646
+      Pedesaan_177: 989951169645934433
+      Pedesaan_178: 8326357850843946555
+      Pedesaan_179: -6121429412759379404
+      Pedesaan_18: -3529662218456496826
+      Pedesaan_180: -726685050995965810
+      Pedesaan_181: 2502592450908010656
+      Pedesaan_182: -754142437540209764
+      Pedesaan_183: 5140038149968049736
+      Pedesaan_184: -6153219522351494702
+      Pedesaan_185: -1275741791225532911
+      Pedesaan_186: -5329200048239632203
+      Pedesaan_187: 4094842342033161969
+      Pedesaan_188: 2209770821204499500
+      Pedesaan_189: 2209450045391412621
+      Pedesaan_19: -6999158804026705169
+      Pedesaan_190: -4366452563337556715
+      Pedesaan_191: -8401532404125508706
+      Pedesaan_192: 8637796539901386790
+      Pedesaan_193: 7844632940069097343
+      Pedesaan_194: -1198674830055490292
+      Pedesaan_195: 2635837889561817068
+      Pedesaan_196: -4709988452399232579
+      Pedesaan_197: 7702843613237388061
+      Pedesaan_198: -315050542547049777
+      Pedesaan_199: -3316914351752174197
+      Pedesaan_2: -204673008807587259
+      Pedesaan_20: -3403348152838756002
+      Pedesaan_200: 3501213903914546611
+      Pedesaan_201: -653156005125825813
+      Pedesaan_202: -8344787396588067095
+      Pedesaan_203: -6557028017065198357
+      Pedesaan_204: 1519456552158097696
+      Pedesaan_205: -57650867783103559
+      Pedesaan_206: -2459752157232844063
+      Pedesaan_207: -6391711828378552891
+      Pedesaan_208: 6554954381528814703
+      Pedesaan_209: -3184857466855560649
+      Pedesaan_21: -7113665336335531841
+      Pedesaan_210: -1450515427315031105
+      Pedesaan_211: 5146673574544936685
+      Pedesaan_212: -8954995522830298955
+      Pedesaan_213: -2387527671318227215
+      Pedesaan_214: 692618812126606245
+      Pedesaan_215: -5830895749239236619
+      Pedesaan_216: -7833097428707949821
+      Pedesaan_217: 4180153731103284669
+      Pedesaan_218: -8766137479283236969
+      Pedesaan_219: -726308698063951587
+      Pedesaan_22: -1770906194582565258
+      Pedesaan_23: 7703144281330883110
+      Pedesaan_24: 2862009917048054023
+      Pedesaan_25: -795023415637049547
+      Pedesaan_26: 2776564078611256338
+      Pedesaan_27: 5899147446649189822
+      Pedesaan_28: 1318774045926931652
+      Pedesaan_29: -3199602198026918373
+      Pedesaan_3: -2306678802024842285
+      Pedesaan_30: 2375265765265453734
+      Pedesaan_31: -7456297308571387362
+      Pedesaan_32: 6058056865050333258
+      Pedesaan_33: 6260773405485689686
+      Pedesaan_34: -2597548977291069892
+      Pedesaan_35: -4839414130954833155
+      Pedesaan_36: -3733970859211700407
+      Pedesaan_37: -436116070933325101
+      Pedesaan_38: -3686019458962824412
+      Pedesaan_39: -4882406349944363174
+      Pedesaan_4: -4476665966333365525
+      Pedesaan_40: 1224401924451198551
+      Pedesaan_41: -2610736597377150377
+      Pedesaan_42: -5847245405208253057
+      Pedesaan_43: 5485815655366733427
+      Pedesaan_44: 5049822988143219966
+      Pedesaan_45: 190343512567265797
+      Pedesaan_46: 7539513591314312120
+      Pedesaan_47: -4527140423267131698
+      Pedesaan_48: 6870109061587877369
+      Pedesaan_49: -2503379131187576878
+      Pedesaan_5: 5592557086915066455
+      Pedesaan_50: 7758504158276745430
+      Pedesaan_51: 409141613405338665
+      Pedesaan_52: 2061077468529401387
+      Pedesaan_53: 5886486809002082709
+      Pedesaan_54: 9103121768848355715
+      Pedesaan_55: -7581200442742807014
+      Pedesaan_56: 6839856048628008553
+      Pedesaan_57: -1883474165919819725
+      Pedesaan_58: 5125796335296370689
+      Pedesaan_59: 5608507166738927501
+      Pedesaan_6: -6050384857805201692
+      Pedesaan_60: 3982361230241499239
+      Pedesaan_61: 3916854741089159
+      Pedesaan_62: 1817361293143111123
+      Pedesaan_63: -4364789240143517947
+      Pedesaan_64: 6786530072257660214
+      Pedesaan_65: 2617120637910305864
+      Pedesaan_66: 6998093069756796419
+      Pedesaan_67: 8641737234397992275
+      Pedesaan_68: -5072320709519753165
+      Pedesaan_69: 7802462011331810582
+      Pedesaan_7: -3775537027343681338
+      Pedesaan_70: 1717130436812535428
+      Pedesaan_71: 3159282443878894810
+      Pedesaan_72: -265920367839054598
+      Pedesaan_73: -67069071758089047
+      Pedesaan_74: 5407732254915638284
+      Pedesaan_75: -6656216136758153778
+      Pedesaan_76: -8223326533414800273
+      Pedesaan_77: 6425455722243017307
+      Pedesaan_78: 4566418028056902292
+      Pedesaan_79: 6432650568363070210
+      Pedesaan_8: -8079120733672829965
+      Pedesaan_80: 3608121009193283361
+      Pedesaan_81: -6099763946776108834
+      Pedesaan_82: -5875256020574359953
+      Pedesaan_83: -4604729210539930794
+      Pedesaan_84: 6161274961783502152
+      Pedesaan_85: 3302360012641300904
+      Pedesaan_86: -7466491653933083806
+      Pedesaan_87: -3256795169454314075
+      Pedesaan_88: 5524237405902566381
+      Pedesaan_89: 3832750122141597592
+      Pedesaan_9: -6477178956457680623
+      Pedesaan_90: -1997653869575079425
+      Pedesaan_91: -6320699935099870179
+      Pedesaan_92: 6879806731150499269
+      Pedesaan_93: -1799724758410810574
+      Pedesaan_94: -6215302008062895344
+      Pedesaan_95: -3889766411585429849
+      Pedesaan_96: -6405473402118443530
+      Pedesaan_97: 8194621874807993074
+      Pedesaan_98: -3703530202039020840
+      Pedesaan_99: -4052187940834368392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
