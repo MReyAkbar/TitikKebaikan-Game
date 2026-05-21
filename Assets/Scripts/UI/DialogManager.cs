@@ -27,14 +27,23 @@ public class DialogManager : MonoBehaviour
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        dialogPanel?.SetActive(false);
+        if (dialogPanel != null)
+            dialogPanel.SetActive(false);
+        else
+            Debug.LogWarning("[DialogManager] Dialog Panel belum di-assign.", this);
     }
 
     // ─── Public API ──────────────────────────────────────────────────────────
 
     public void ShowDialog(string speaker, string text)
     {
-        dialogPanel?.SetActive(true);
+        if (dialogPanel == null)
+        {
+            Debug.LogWarning("[DialogManager] Tidak bisa menampilkan dialog karena Dialog Panel belum di-assign.", this);
+            return;
+        }
+
+        dialogPanel.SetActive(true);
 
         if (speakerText != null) speakerText.text = speaker;
 
@@ -48,13 +57,15 @@ public class DialogManager : MonoBehaviour
     {
         if (typeCoroutine != null) StopCoroutine(typeCoroutine);
         isTyping = false;
-        dialogPanel?.SetActive(false);
+        if (dialogPanel != null)
+            dialogPanel.SetActive(false);
     }
 
     // ─── Input: skip / close ─────────────────────────────────────────────────
 
     private void Update()
     {
+        if (dialogPanel == null) return;
         if (!dialogPanel.activeSelf) return;
 
         if (Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.Return))

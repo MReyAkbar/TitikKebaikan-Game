@@ -11,8 +11,8 @@ public class EthicsManager : MonoBehaviour
     [Header("Poin Awal")]
     public int ethicsPoints = 0;
 
-    // Event dipanggil setiap poin berubah - GameHUD subscribe ke ini
     public event System.Action<int> OnPointsChanged;
+    public event System.Action<int, string> OnPointsDeltaChanged;
 
     private void Awake()
     {
@@ -21,19 +21,23 @@ public class EthicsManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+
         Instance = this;
     }
 
-    /// <summary>Tambah atau kurangi poin. Gunakan nilai negatif untuk mengurangi.</summary>
     public void AddPoints(int amount, string reason = "")
     {
-        ethicsPoints += amount;
-        ethicsPoints = Mathf.Max(0, ethicsPoints); // tidak boleh minus
+        int previousPoints = ethicsPoints;
+        ethicsPoints = Mathf.Max(0, ethicsPoints + amount);
+        int actualDelta = ethicsPoints - previousPoints;
 
-        if (reason != "")
-            Debug.Log($"[Poin] {(amount >= 0 ? "+" : "")}{amount} — {reason}. Total: {ethicsPoints}");
+        if (!string.IsNullOrEmpty(reason))
+            Debug.Log($"[Poin] {(actualDelta >= 0 ? "+" : "")}{actualDelta} - {reason}. Total: {ethicsPoints}");
 
         OnPointsChanged?.Invoke(ethicsPoints);
+
+        if (actualDelta != 0)
+            OnPointsDeltaChanged?.Invoke(actualDelta, reason);
     }
 
     public int GetPoints() => ethicsPoints;

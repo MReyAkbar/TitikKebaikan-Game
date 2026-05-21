@@ -84,7 +84,16 @@ public class NPCPakRT : MonoBehaviour
     private void OnPlayerInteract()
     {
         if (State == MissionState.Idle)
+        {
+            if (MissionManager.Instance != null &&
+                MissionManager.Instance.HasActiveMissionOtherThan(MissionType.CleanEnvironment))
+            {
+                ShowSystemHint("Selesaikan misi yang sedang berjalan terlebih dahulu.");
+                return;
+            }
+
             StartDialog();
+        }
         else if (State == MissionState.Active)
             ShowActiveDialog();
         else if (State == MissionState.ReadyToReport)
@@ -151,7 +160,6 @@ public class NPCPakRT : MonoBehaviour
         EthicsManager.Instance?.AddPoints(pointsPerTrash * countedTrash, "Membuang sampah ke tempatnya");
 
         MissionHUD.Instance?.SetPakRTMissionText($"Kumpulkan sampah {trashDelivered}/{requiredTrashCount}");
-        GameHUD.Instance?.ShowFloatingText($"+{pointsPerTrash * countedTrash}", player.transform.position);
 
         Debug.Log($"[Pak RT] Sampah terbuang: {trashDelivered}/{requiredTrashCount}");
 

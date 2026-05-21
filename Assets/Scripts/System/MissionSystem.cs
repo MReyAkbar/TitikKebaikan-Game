@@ -73,6 +73,12 @@ public class MissionManager : MonoBehaviour
         Debug.Log($"[MissionManager] Misi gagal: {type} - {reason}");
     }
 
+    public void ResetMission(MissionType type)
+    {
+        missions[type] = MissionStatus.NotStarted;
+        Debug.Log($"[MissionManager] Misi direset: {type}");
+    }
+
     public MissionStatus GetStatus(MissionType type)
     {
         return missions.TryGetValue(type, out var s) ? s : MissionStatus.NotStarted;
@@ -86,6 +92,17 @@ public class MissionManager : MonoBehaviour
             if (GetStatus(t) != MissionStatus.Completed) return false;
         }
         return true;
+    }
+
+    public bool HasActiveMissionOtherThan(MissionType type)
+    {
+        foreach (var mission in missions)
+        {
+            if (mission.Key == MissionType.None || mission.Key == type) continue;
+            if (mission.Value == MissionStatus.Active) return true;
+        }
+
+        return false;
     }
 
     private void CheckAllMissionsComplete()

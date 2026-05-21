@@ -21,6 +21,7 @@ public class NenekNPC : MonoBehaviour
 
     [Header("Poin")]
     public int pointsOnComplete = 50;
+    public int pointsPenaltyOnHit = 10;
 
     [Header("Dialog")]
     [TextArea(2, 4)]
@@ -32,6 +33,7 @@ public class NenekNPC : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private bool playerInRange;
+    private Vector2 startPosition;
     private readonly RaycastHit2D[] castHits = new RaycastHit2D[4];
     private ContactFilter2D movementFilter;
 
@@ -63,6 +65,8 @@ public class NenekNPC : MonoBehaviour
 
     private void Start()
     {
+        startPosition = transform.position;
+
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
             playerTransform = playerObj.transform;
@@ -108,7 +112,16 @@ public class NenekNPC : MonoBehaviour
     private void OnPlayerInteract()
     {
         if (State == MissionState.Idle)
+        {
+            if (MissionManager.Instance != null &&
+                MissionManager.Instance.HasActiveMissionOtherThan(MissionType.EscortNenek))
+            {
+                ShowSystemHint("Selesaikan misi yang sedang berjalan terlebih dahulu.");
+                return;
+            }
+
             StartDialog();
+        }
     }
 
     private void StartDialog()
@@ -133,6 +146,14 @@ public class NenekNPC : MonoBehaviour
             DialogBox.Instance.Show("Nenek", dialogSelesai);
         else
             Debug.Log("[Nenek] " + dialogSelesai);
+    }
+
+    private void ShowSystemHint(string message)
+    {
+        if (DialogBox.Instance != null)
+            DialogBox.Instance.Show("Petunjuk Sistem", message);
+        else
+            Debug.Log("[Petunjuk Sistem] " + message);
     }
 
     private void StartMission()
@@ -163,6 +184,28 @@ public class NenekNPC : MonoBehaviour
 
         Debug.Log("[Nenek] Misi SELESAI!");
         ShowCompletionDialog();
+    }
+
+    public void OnHitByVehicle()
+    {
+        if (State != MissionState.Active) return;
+
+        State = MissionState.Idle;
+        StopMovement();
+
+        if (rb != null)
+            rb.position = startPosition;
+        else
+            transform.position = startPosition;
+
+        EthicsManager.Instance?.AddPoints(-pointsPenaltyOnHit, "Nenek tertabrak kendaraan");
+        MissionManager.Instance?.ResetMission(MissionType.EscortNenek);
+        MissionHUD.Instance?.SetNenekMissionText("Gagal - bicara lagi dengan Nenek");
+
+        Debug.Log("[Nenek] Misi gagal: Nenek tertabrak kendaraan.");
+
+        if (DialogBox.Instance != null)
+            DialogBox.Instance.Show("Petunjuk Sistem", "Nenek tertabrak kendaraan. Bantu Nenek lagi dari awal.");
     }
 
     private void FollowPlayer()

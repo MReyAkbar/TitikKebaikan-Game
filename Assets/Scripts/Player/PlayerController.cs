@@ -11,7 +11,6 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Movement Settings")]
     [SerializeField] private float baseSpeed = 4f;
-    [SerializeField] private float sprintMultiplier = 1.5f;
 
     [Header("Interaction")]
     [SerializeField] private float interactRadius = 1f;
@@ -25,7 +24,6 @@ public class PlayerController : MonoBehaviour
     // State
     private Vector2 moveInput;
     private Vector2 lastMoveDir = Vector2.down; // default facing down
-    private bool isSprinting;
     private bool isCarryingNPC;
 
     // Animator parameter hashes (lebih efisien dari string)
@@ -66,7 +64,7 @@ public class PlayerController : MonoBehaviour
 
     public void OnSprint(InputValue value)
     {
-        isSprinting = value.isPressed;
+        // Sprint manual dimatikan agar bonus kecepatan dari reputasi lebih terasa.
     }
 
     public void OnInteract(InputValue value)
@@ -83,9 +81,6 @@ public class PlayerController : MonoBehaviour
         // Bonus kecepatan dari Reputation Tier
         if (stats != null)
             currentSpeed *= stats.SpeedMultiplier;
-
-        if (isSprinting)
-            currentSpeed *= sprintMultiplier;
 
         rb.linearVelocity = moveInput * currentSpeed;
 

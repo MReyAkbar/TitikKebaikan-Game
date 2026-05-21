@@ -14,6 +14,7 @@ public class MissionHUD : MonoBehaviour
     public TextMeshProUGUI nenekMissionText;
     public TextMeshProUGUI pakRTMissionText;
     public TextMeshProUGUI trashText;
+    public TextMeshProUGUI reputationText;
 
     private bool isEthicsSubscribed = false;
     private bool isPlayerStatsSubscribed = false;
@@ -42,8 +43,10 @@ public class MissionHUD : MonoBehaviour
             if (playerStats != null)
             {
                 playerStats.OnTrashChanged += UpdateTrashUI;
+                playerStats.OnTierChanged += UpdateReputationUI;
                 isPlayerStatsSubscribed = true;
                 UpdateTrashUI(playerStats.CurrentTrash, playerStats.MaxTrash);
+                UpdateReputationUI(playerStats.Tier);
             }
         }
     }
@@ -54,7 +57,10 @@ public class MissionHUD : MonoBehaviour
             EthicsManager.Instance.OnPointsChanged -= UpdatePointsUI;
 
         if (playerStats != null)
+        {
             playerStats.OnTrashChanged -= UpdateTrashUI;
+            playerStats.OnTierChanged -= UpdateReputationUI;
+        }
     }
 
     public void UpdatePointsUI(int points)
@@ -89,5 +95,11 @@ public class MissionHUD : MonoBehaviour
     {
         if (trashText != null)
             trashText.text = $"Inventory: {current}/{max}";
+    }
+
+    public void UpdateReputationUI(PlayerStats.ReputationTier tier)
+    {
+        if (reputationText != null)
+            reputationText.text = $"Reputasi: {tier}";
     }
 }

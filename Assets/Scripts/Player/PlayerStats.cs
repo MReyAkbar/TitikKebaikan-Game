@@ -32,6 +32,7 @@ public class PlayerStats : MonoBehaviour
     private int ethicsPoints;
     private ReputationTier currentTier;
     private List<TrashObject> carriedTrash = new List<TrashObject>();
+    private bool isEthicsManagerSubscribed;
 
     // ─── Events ──────────────────────────────────────────────────────────────
 
@@ -61,11 +62,37 @@ public class PlayerStats : MonoBehaviour
         currentTier  = ReputationTier.Jelek;
     }
 
+    private void Start()
+    {
+        TrySubscribeToEthicsManager();
+        OnPointsChanged?.Invoke(ethicsPoints);
+        OnTierChanged?.Invoke(currentTier);
+        OnTrashChanged?.Invoke(CurrentTrash, MaxTrash);
+    }
+
+    private void Update()
+    {
+        if (!isEthicsManagerSubscribed)
+            TrySubscribeToEthicsManager();
+    }
+
+    private void OnDestroy()
+    {
+        if (isEthicsManagerSubscribed && EthicsManager.Instance != null)
+            EthicsManager.Instance.OnPointsChanged -= SyncEthicsPoints;
+    }
+
     // ─── Poin Etika ──────────────────────────────────────────────────────────
 
     /// <summary>Tambah poin etika. Nilai negatif untuk mengurangi.</summary>
     public void AddEthicsPoints(int amount, string reason = "")
     {
+        if (EthicsManager.Instance != null)
+        {
+            EthicsManager.Instance.AddPoints(amount, reason);
+            return;
+        }
+
         int prev = ethicsPoints;
         ethicsPoints = Mathf.Max(0, ethicsPoints + amount);
 
@@ -77,6 +104,26 @@ public class PlayerStats : MonoBehaviour
             OnPointsChanged?.Invoke(ethicsPoints);
             CheckTierUpgrade();
         }
+    }
+
+    private void TrySubscribeToEthicsManager()
+    {
+        if (isEthicsManagerSubscribed || EthicsManager.Instance == null) return;
+
+        EthicsManager.Instance.OnPointsChanged += SyncEthicsPoints;
+        isEthicsManagerSubscribed = true;
+        SyncEthicsPoints(EthicsManager.Instance.GetPoints());
+    }
+
+    private void SyncEthicsPoints(int points)
+    {
+        int previousPoints = ethicsPoints;
+        ethicsPoints = Mathf.Max(0, points);
+
+        if (ethicsPoints != previousPoints)
+            OnPointsChanged?.Invoke(ethicsPoints);
+
+        CheckTierUpgrade();
     }
 
     private void CheckTierUpgrade()
