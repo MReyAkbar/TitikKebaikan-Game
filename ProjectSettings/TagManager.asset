@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - NPC
-  - Market
-  - Trash
-  - Vehicle
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -15,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - Ground
-  - NPC
-  - Vehicle
-  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -45,35 +41,5 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 2522427261
-    locked: 0
-  - name: WalkInFront
-    uniqueID: 3780120549
-    locked: 0
-  - name: Collision
-    uniqueID: 2220799605
-    locked: 0
-  - name: Characters
-    uniqueID: 3405810641
-    locked: 0
-<<<<<<< HEAD
-  - name: Interactable
-    uniqueID: 3695188757
-    locked: 0
-=======
->>>>>>> 4300e432f8310bdec0ad5572ec7263860dcfc09f
-  - name: WalkBehind
-    uniqueID: 617107127
-    locked: 0
-  - name: Decor
-    uniqueID: 1763864433
-    locked: 0
-<<<<<<< HEAD
-=======
-  - name: UI
-    uniqueID: 2006795779
-    locked: 0
->>>>>>> 4300e432f8310bdec0ad5572ec7263860dcfc09f
   m_RenderingLayers:
   - Default
