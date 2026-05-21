@@ -1,0 +1,7085 @@
+fileFormatVersion: 2
+guid: a5f1903e1331f42469b43e2fd06173a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1661408123635560747
+    second: Asset_Pedesaan-Photoroom_0
+  - first:
+      213: 2351079820588195917
+    second: Asset_Pedesaan-Photoroom_1
+  - first:
+      213: -3331394845818943884
+    second: Asset_Pedesaan-Photoroom_2
+  - first:
+      213: -1957526630688700484
+    second: Asset_Pedesaan-Photoroom_3
+  - first:
+      213: -7849937642487737831
+    second: Asset_Pedesaan-Photoroom_4
+  - first:
+      213: -1323436069342614794
+    second: Asset_Pedesaan-Photoroom_5
+  - first:
+      213: 6181384227069599728
+    second: Asset_Pedesaan-Photoroom_6
+  - first:
+      213: -8285825024601454591
+    second: Asset_Pedesaan-Photoroom_7
+  - first:
+      213: -5092350848033937225
+    second: Asset_Pedesaan-Photoroom_8
+  - first:
+      213: 5159852636462532669
+    second: Asset_Pedesaan-Photoroom_9
+  - first:
+      213: 5624096332271873949
+    second: Asset_Pedesaan-Photoroom_10
+  - first:
+      213: 4476632789830174679
+    second: Asset_Pedesaan-Photoroom_11
+  - first:
+      213: 6114500986479902070
+    second: Asset_Pedesaan-Photoroom_12
+  - first:
+      213: 7798256596638171295
+    second: Asset_Pedesaan-Photoroom_13
+  - first:
+      213: 2785389030011104674
+    second: Asset_Pedesaan-Photoroom_14
+  - first:
+      213: 2184390138058140097
+    second: Asset_Pedesaan-Photoroom_15
+  - first:
+      213: -1579344868445801108
+    second: Asset_Pedesaan-Photoroom_16
+  - first:
+      213: 9036265832561599827
+    second: Asset_Pedesaan-Photoroom_17
+  - first:
+      213: -6570530825768870228
+    second: Asset_Pedesaan-Photoroom_18
+  - first:
+      213: 5082109384215176022
+    second: Asset_Pedesaan-Photoroom_19
+  - first:
+      213: 622650081733074472
+    second: Asset_Pedesaan-Photoroom_20
+  - first:
+      213: -3198654731949985690
+    second: Asset_Pedesaan-Photoroom_21
+  - first:
+      213: 3770463802600567927
+    second: Asset_Pedesaan-Photoroom_22
+  - first:
+      213: -1632072358376767106
+    second: Asset_Pedesaan-Photoroom_23
+  - first:
+      213: -4316473268313993785
+    second: Asset_Pedesaan-Photoroom_24
+  - first:
+      213: 4915575569559712261
+    second: Asset_Pedesaan-Photoroom_25
+  - first:
+      213: -9195226223929300852
+    second: Asset_Pedesaan-Photoroom_26
+  - first:
+      213: -2263292746326745680
+    second: Asset_Pedesaan-Photoroom_27
+  - first:
+      213: -2047710119603589658
+    second: Asset_Pedesaan-Photoroom_28
+  - first:
+      213: -4419599492984906461
+    second: Asset_Pedesaan-Photoroom_29
+  - first:
+      213: -2172687391247751521
+    second: Asset_Pedesaan-Photoroom_30
+  - first:
+      213: -4725156832633865669
+    second: Asset_Pedesaan-Photoroom_31
+  - first:
+      213: 5050302085967460691
+    second: Asset_Pedesaan-Photoroom_32
+  - first:
+      213: 5991627075000728566
+    second: Asset_Pedesaan-Photoroom_33
+  - first:
+      213: 5084315468977193778
+    second: Asset_Pedesaan-Photoroom_34
+  - first:
+      213: 1967301253699781189
+    second: Asset_Pedesaan-Photoroom_35
+  - first:
+      213: 5272044944609058649
+    second: Asset_Pedesaan-Photoroom_36
+  - first:
+      213: 3451226647541998253
+    second: Asset_Pedesaan-Photoroom_37
+  - first:
+      213: -6671332988841416587
+    second: Asset_Pedesaan-Photoroom_38
+  - first:
+      213: 8157349531407118052
+    second: Asset_Pedesaan-Photoroom_39
+  - first:
+      213: -446985894880413230
+    second: Asset_Pedesaan-Photoroom_40
+  - first:
+      213: 5739544641872541995
+    second: Asset_Pedesaan-Photoroom_41
+  - first:
+      213: -5278089137175273527
+    second: Asset_Pedesaan-Photoroom_42
+  - first:
+      213: 7287151562411567390
+    second: Asset_Pedesaan-Photoroom_43
+  - first:
+      213: 9057922694600972843
+    second: Asset_Pedesaan-Photoroom_44
+  - first:
+      213: -8596757677258356444
+    second: Asset_Pedesaan-Photoroom_45
+  - first:
+      213: 7363566561745432743
+    second: Asset_Pedesaan-Photoroom_46
+  - first:
+      213: -2485737013473305579
+    second: Asset_Pedesaan-Photoroom_47
+  - first:
+      213: 5065551183521635141
+    second: Asset_Pedesaan-Photoroom_48
+  - first:
+      213: 3759058844435406371
+    second: Asset_Pedesaan-Photoroom_49
+  - first:
+      213: 3924745906817323079
+    second: Asset_Pedesaan-Photoroom_50
+  - first:
+      213: 942694792660455899
+    second: Asset_Pedesaan-Photoroom_51
+  - first:
+      213: 7491374699946337676
+    second: Asset_Pedesaan-Photoroom_52
+  - first:
+      213: 6816527689812967025
+    second: Asset_Pedesaan-Photoroom_53
+  - first:
+      213: 7020474251951665067
+    second: Asset_Pedesaan-Photoroom_54
+  - first:
+      213: -2105429945625455345
+    second: Asset_Pedesaan-Photoroom_55
+  - first:
+      213: 3352486021267134218
+    second: Asset_Pedesaan-Photoroom_56
+  - first:
+      213: 7181886140697863608
+    second: Asset_Pedesaan-Photoroom_57
+  - first:
+      213: -3906766249961401751
+    second: Asset_Pedesaan-Photoroom_58
+  - first:
+      213: 8225168027452859337
+    second: Asset_Pedesaan-Photoroom_59
+  - first:
+      213: -2629769742786855043
+    second: Asset_Pedesaan-Photoroom_60
+  - first:
+      213: -6500205807719297310
+    second: Asset_Pedesaan-Photoroom_61
+  - first:
+      213: 6082352724603898377
+    second: Asset_Pedesaan-Photoroom_62
+  - first:
+      213: 3944996880156326987
+    second: Asset_Pedesaan-Photoroom_63
+  - first:
+      213: 6589346679708814460
+    second: Asset_Pedesaan-Photoroom_64
+  - first:
+      213: 8482607882350428383
+    second: Asset_Pedesaan-Photoroom_65
+  - first:
+      213: 4357393639973011284
+    second: Asset_Pedesaan-Photoroom_66
+  - first:
+      213: 509355749501099318
+    second: Asset_Pedesaan-Photoroom_67
+  - first:
+      213: 3081291078544042944
+    second: Asset_Pedesaan-Photoroom_68
+  - first:
+      213: -4124191294000229378
+    second: Asset_Pedesaan-Photoroom_69
+  - first:
+      213: 82204050975950528
+    second: Asset_Pedesaan-Photoroom_70
+  - first:
+      213: -4822334877245074228
+    second: Asset_Pedesaan-Photoroom_71
+  - first:
+      213: -479233227290793341
+    second: Asset_Pedesaan-Photoroom_72
+  - first:
+      213: -1780112835924243477
+    second: Asset_Pedesaan-Photoroom_73
+  - first:
+      213: 5347401117536147357
+    second: Asset_Pedesaan-Photoroom_74
+  - first:
+      213: 6094213148032237888
+    second: Asset_Pedesaan-Photoroom_75
+  - first:
+      213: -8570062394103895638
+    second: Asset_Pedesaan-Photoroom_76
+  - first:
+      213: -732063201612605700
+    second: Asset_Pedesaan-Photoroom_77
+  - first:
+      213: 4774514209202837411
+    second: Asset_Pedesaan-Photoroom_78
+  - first:
+      213: 2743036336728274225
+    second: Asset_Pedesaan-Photoroom_79
+  - first:
+      213: -8556921459285524599
+    second: Asset_Pedesaan-Photoroom_80
+  - first:
+      213: 5392247326829570629
+    second: Asset_Pedesaan-Photoroom_81
+  - first:
+      213: 9035111021307194349
+    second: Asset_Pedesaan-Photoroom_82
+  - first:
+      213: -8460021108731386790
+    second: Asset_Pedesaan-Photoroom_83
+  - first:
+      213: -7841435385497014840
+    second: Asset_Pedesaan-Photoroom_84
+  - first:
+      213: -6928251950147522600
+    second: Asset_Pedesaan-Photoroom_85
+  - first:
+      213: -1990512954639514637
+    second: Asset_Pedesaan-Photoroom_86
+  - first:
+      213: 1064244437324686714
+    second: Asset_Pedesaan-Photoroom_87
+  - first:
+      213: -3233109817973494716
+    second: Asset_Pedesaan-Photoroom_88
+  - first:
+      213: 160768274147311109
+    second: Asset_Pedesaan-Photoroom_89
+  - first:
+      213: 3679520386658569427
+    second: Asset_Pedesaan-Photoroom_90
+  - first:
+      213: -1043164173594661546
+    second: Asset_Pedesaan-Photoroom_91
+  - first:
+      213: -7210346534065630023
+    second: Asset_Pedesaan-Photoroom_92
+  - first:
+      213: -4339955016639072311
+    second: Asset_Pedesaan-Photoroom_93
+  - first:
+      213: 9045168011287544363
+    second: Asset_Pedesaan-Photoroom_94
+  - first:
+      213: 7382956337146898463
+    second: Asset_Pedesaan-Photoroom_95
+  - first:
+      213: -4925545182951366251
+    second: Asset_Pedesaan-Photoroom_96
+  - first:
+      213: 1794469880793630170
+    second: Asset_Pedesaan-Photoroom_97
+  - first:
+      213: 1230033406540269347
+    second: Asset_Pedesaan-Photoroom_98
+  - first:
+      213: 1006021958556815076
+    second: Asset_Pedesaan-Photoroom_99
+  - first:
+      213: -3916278682724105102
+    second: Asset_Pedesaan-Photoroom_100
+  - first:
+      213: 1086918348999879293
+    second: Asset_Pedesaan-Photoroom_101
+  - first:
+      213: 4733082419696230472
+    second: Asset_Pedesaan-Photoroom_102
+  - first:
+      213: -3796500203365968423
+    second: Asset_Pedesaan-Photoroom_103
+  - first:
+      213: 8306466409620164370
+    second: Asset_Pedesaan-Photoroom_104
+  - first:
+      213: 3284322239358424798
+    second: Asset_Pedesaan-Photoroom_105
+  - first:
+      213: -3299794153807687170
+    second: Asset_Pedesaan-Photoroom_106
+  - first:
+      213: -4126065432276889619
+    second: Asset_Pedesaan-Photoroom_107
+  - first:
+      213: -5350985499576006164
+    second: Asset_Pedesaan-Photoroom_108
+  - first:
+      213: -8204623239561123034
+    second: Asset_Pedesaan-Photoroom_109
+  - first:
+      213: 7867593098979701857
+    second: Asset_Pedesaan-Photoroom_110
+  - first:
+      213: 8801165256994796253
+    second: Asset_Pedesaan-Photoroom_111
+  - first:
+      213: -5034446859788721693
+    second: Asset_Pedesaan-Photoroom_112
+  - first:
+      213: -6873960698383871855
+    second: Asset_Pedesaan-Photoroom_113
+  - first:
+      213: -4398548657877453841
+    second: Asset_Pedesaan-Photoroom_114
+  - first:
+      213: -2579825177522852430
+    second: Asset_Pedesaan-Photoroom_115
+  - first:
+      213: -1663876301599333246
+    second: Asset_Pedesaan-Photoroom_116
+  - first:
+      213: 6446466810932266435
+    second: Asset_Pedesaan-Photoroom_117
+  - first:
+      213: 5712332577586853693
+    second: Asset_Pedesaan-Photoroom_118
+  - first:
+      213: -2516279066293752895
+    second: Asset_Pedesaan-Photoroom_119
+  - first:
+      213: -6524117112108385686
+    second: Asset_Pedesaan-Photoroom_120
+  - first:
+      213: -5733217315903106530
+    second: Asset_Pedesaan-Photoroom_121
+  - first:
+      213: 4126541664056093549
+    second: Asset_Pedesaan-Photoroom_122
+  - first:
+      213: -359836982233779474
+    second: Asset_Pedesaan-Photoroom_123
+  - first:
+      213: -3465941351283234076
+    second: Asset_Pedesaan-Photoroom_124
+  - first:
+      213: -2474102512113814312
+    second: Asset_Pedesaan-Photoroom_125
+  - first:
+      213: 7618802049171109181
+    second: Asset_Pedesaan-Photoroom_126
+  - first:
+      213: 2895016290930033770
+    second: Asset_Pedesaan-Photoroom_127
+  - first:
+      213: -7239442015405824032
+    second: Asset_Pedesaan-Photoroom_128
+  - first:
+      213: -1263451429747755379
+    second: Asset_Pedesaan-Photoroom_129
+  - first:
+      213: -5750214825757102640
+    second: Asset_Pedesaan-Photoroom_130
+  - first:
+      213: 7594814741888289578
+    second: Asset_Pedesaan-Photoroom_131
+  - first:
+      213: -5671693789542254584
+    second: Asset_Pedesaan-Photoroom_132
+  - first:
+      213: -368766060905826144
+    second: Asset_Pedesaan-Photoroom_133
+  - first:
+      213: -4994015736987064595
+    second: Asset_Pedesaan-Photoroom_134
+  - first:
+      213: -7465971488089557836
+    second: Asset_Pedesaan-Photoroom_135
+  - first:
+      213: 2492331558139652368
+    second: Asset_Pedesaan-Photoroom_136
+  - first:
+      213: 7658293925970247049
+    second: Asset_Pedesaan-Photoroom_137
+  - first:
+      213: -6615330835791037479
+    second: Asset_Pedesaan-Photoroom_138
+  - first:
+      213: 7333132643068248293
+    second: Asset_Pedesaan-Photoroom_139
+  - first:
+      213: -2722389452010486677
+    second: Asset_Pedesaan-Photoroom_140
+  - first:
+      213: 1008168208370183528
+    second: Asset_Pedesaan-Photoroom_141
+  - first:
+      213: -6024692927648571324
+    second: Asset_Pedesaan-Photoroom_142
+  - first:
+      213: 1720745298546096026
+    second: Asset_Pedesaan-Photoroom_143
+  - first:
+      213: 7009918476100936762
+    second: Asset_Pedesaan-Photoroom_144
+  - first:
+      213: 1605957036670075373
+    second: Asset_Pedesaan-Photoroom_145
+  - first:
+      213: -303338936564099189
+    second: Asset_Pedesaan-Photoroom_146
+  - first:
+      213: 8162646526334244687
+    second: Asset_Pedesaan-Photoroom_147
+  - first:
+      213: -4925179052856658721
+    second: Asset_Pedesaan-Photoroom_148
+  - first:
+      213: 8196901797037185389
+    second: Asset_Pedesaan-Photoroom_149
+  - first:
+      213: 3264892160872085113
+    second: Asset_Pedesaan-Photoroom_150
+  - first:
+      213: 5345860585590745327
+    second: Asset_Pedesaan-Photoroom_151
+  - first:
+      213: 5197593914732073954
+    second: Asset_Pedesaan-Photoroom_152
+  - first:
+      213: -7689229984015599770
+    second: Asset_Pedesaan-Photoroom_153
+  - first:
+      213: -3872842267651252249
+    second: Asset_Pedesaan-Photoroom_154
+  - first:
+      213: 2264394705744083368
+    second: Asset_Pedesaan-Photoroom_155
+  - first:
+      213: -1057985732735271748
+    second: Asset_Pedesaan-Photoroom_156
+  - first:
+      213: 7309628380882496995
+    second: Asset_Pedesaan-Photoroom_157
+  - first:
+      213: -7312894136956611201
+    second: Asset_Pedesaan-Photoroom_158
+  - first:
+      213: 9202876877748591146
+    second: Asset_Pedesaan-Photoroom_159
+  - first:
+      213: -7463064767092565899
+    second: Asset_Pedesaan-Photoroom_160
+  - first:
+      213: 7156364581232398626
+    second: Asset_Pedesaan-Photoroom_161
+  - first:
+      213: 3123907864250170284
+    second: Asset_Pedesaan-Photoroom_162
+  - first:
+      213: -7457046652017647569
+    second: Asset_Pedesaan-Photoroom_163
+  - first:
+      213: -7456246989266292477
+    second: Asset_Pedesaan-Photoroom_164
+  - first:
+      213: -6920886331736525252
+    second: Asset_Pedesaan-Photoroom_165
+  - first:
+      213: -8564252947168096135
+    second: Asset_Pedesaan-Photoroom_166
+  - first:
+      213: -8231244151638165099
+    second: Asset_Pedesaan-Photoroom_167
+  - first:
+      213: 9171393917601806564
+    second: Asset_Pedesaan-Photoroom_168
+  - first:
+      213: 8771603865642462999
+    second: Asset_Pedesaan-Photoroom_169
+  - first:
+      213: -1053324710467819441
+    second: Asset_Pedesaan-Photoroom_170
+  - first:
+      213: 384313427545226019
+    second: Asset_Pedesaan-Photoroom_171
+  - first:
+      213: 2989562986155564006
+    second: Asset_Pedesaan-Photoroom_172
+  - first:
+      213: -6784900723389726429
+    second: Asset_Pedesaan-Photoroom_173
+  - first:
+      213: -5389372758187126778
+    second: Asset_Pedesaan-Photoroom_174
+  - first:
+      213: 1488489642860726268
+    second: Asset_Pedesaan-Photoroom_175
+  - first:
+      213: -2928892803990329952
+    second: Asset_Pedesaan-Photoroom_176
+  - first:
+      213: 8551687868196460882
+    second: Asset_Pedesaan-Photoroom_177
+  - first:
+      213: 3010866978039796654
+    second: Asset_Pedesaan-Photoroom_178
+  - first:
+      213: -4305350475329466593
+    second: Asset_Pedesaan-Photoroom_179
+  - first:
+      213: 386205262479891724
+    second: Asset_Pedesaan-Photoroom_180
+  - first:
+      213: 6782832110769732117
+    second: Asset_Pedesaan-Photoroom_181
+  - first:
+      213: -7775496192514360698
+    second: Asset_Pedesaan-Photoroom_182
+  - first:
+      213: 7765931991095234951
+    second: Asset_Pedesaan-Photoroom_183
+  - first:
+      213: -8645804709465096365
+    second: Asset_Pedesaan-Photoroom_184
+  - first:
+      213: 3638584239716421964
+    second: Asset_Pedesaan-Photoroom_185
+  - first:
+      213: -598735395130291986
+    second: Asset_Pedesaan-Photoroom_186
+  - first:
+      213: 3750581684663330470
+    second: Asset_Pedesaan-Photoroom_187
+  - first:
+      213: 3230727354265603528
+    second: Asset_Pedesaan-Photoroom_188
+  - first:
+      213: -399487887292346735
+    second: Asset_Pedesaan-Photoroom_189
+  - first:
+      213: -7298187231396244593
+    second: Asset_Pedesaan-Photoroom_190
+  - first:
+      213: -14859810960033275
+    second: Asset_Pedesaan-Photoroom_191
+  - first:
+      213: -1309138224809974878
+    second: Asset_Pedesaan-Photoroom_192
+  - first:
+      213: -4777338899779006117
+    second: Asset_Pedesaan-Photoroom_193
+  - first:
+      213: 7645878373127042878
+    second: Asset_Pedesaan-Photoroom_194
+  - first:
+      213: -6190525201642755470
+    second: Asset_Pedesaan-Photoroom_195
+  - first:
+      213: -1988120621095552245
+    second: Asset_Pedesaan-Photoroom_196
+  - first:
+      213: -4123299269847473050
+    second: Asset_Pedesaan-Photoroom_197
+  - first:
+      213: 2491786833629670817
+    second: Asset_Pedesaan-Photoroom_198
+  - first:
+      213: 1811131026283500047
+    second: Asset_Pedesaan-Photoroom_199
+  - first:
+      213: 8085851069842899198
+    second: Asset_Pedesaan-Photoroom_200
+  - first:
+      213: -5607125860289167575
+    second: Asset_Pedesaan-Photoroom_201
+  - first:
+      213: -4656498596080432365
+    second: Asset_Pedesaan-Photoroom_202
+  - first:
+      213: 2560500077988570961
+    second: Asset_Pedesaan-Photoroom_203
+  - first:
+      213: -7468436976375524867
+    second: Asset_Pedesaan-Photoroom_204
+  - first:
+      213: 1924106304730744917
+    second: Asset_Pedesaan-Photoroom_205
+  - first:
+      213: -3161955268345253688
+    second: Asset_Pedesaan-Photoroom_206
+  - first:
+      213: -342570321595906863
+    second: Asset_Pedesaan-Photoroom_207
+  - first:
+      213: -5889220387695346434
+    second: Asset_Pedesaan-Photoroom_208
+  - first:
+      213: 6254612143914613852
+    second: Asset_Pedesaan-Photoroom_209
+  - first:
+      213: -4180147904096484098
+    second: Asset_Pedesaan-Photoroom_210
+  - first:
+      213: 8134009820437985605
+    second: Asset_Pedesaan-Photoroom_211
+  - first:
+      213: 3301274001377980822
+    second: Asset_Pedesaan-Photoroom_212
+  - first:
+      213: -4044142936933804888
+    second: Asset_Pedesaan-Photoroom_213
+  - first:
+      213: -4845104255130588182
+    second: Asset_Pedesaan-Photoroom_214
+  - first:
+      213: -8204252249707626051
+    second: Asset_Pedesaan-Photoroom_215
+  - first:
+      213: 7260418163772834847
+    second: Asset_Pedesaan-Photoroom_216
+  - first:
+      213: 8252297622337088311
+    second: Asset_Pedesaan-Photoroom_217
+  - first:
+      213: 7393974326552925595
+    second: Asset_Pedesaan-Photoroom_218
+  - first:
+      213: 7545694058365865709
+    second: Asset_Pedesaan-Photoroom_219
+  - first:
+      213: 5137466696790810183
+    second: Asset_Pedesaan-Photoroom_220
+  - first:
+      213: 3694484838190009311
+    second: Asset_Pedesaan-Photoroom_221
+  - first:
+      213: 7967061223737225486
+    second: Asset_Pedesaan-Photoroom_222
+  - first:
+      213: -1753413728283934
+    second: Asset_Pedesaan-Photoroom_223
+  - first:
+      213: -5746311694111326928
+    second: Asset_Pedesaan-Photoroom_224
+  - first:
+      213: -5536211430575432930
+    second: Asset_Pedesaan-Photoroom_225
+  - first:
+      213: 8358681790598946818
+    second: Asset_Pedesaan-Photoroom_226
+  - first:
+      213: 3855687805726065945
+    second: Asset_Pedesaan-Photoroom_227
+  - first:
+      213: 3660704612122561599
+    second: Asset_Pedesaan-Photoroom_228
+  - first:
+      213: -5938104455850510575
+    second: Asset_Pedesaan-Photoroom_229
+  - first:
+      213: 2106231719035669569
+    second: Asset_Pedesaan-Photoroom_230
+  - first:
+      213: -5498454026182503415
+    second: Asset_Pedesaan-Photoroom_231
+  - first:
+      213: -3652789896401821004
+    second: Asset_Pedesaan-Photoroom_232
+  - first:
+      213: 1704386164364082064
+    second: Asset_Pedesaan-Photoroom_233
+  - first:
+      213: -7738755793338957871
+    second: Asset_Pedesaan-Photoroom_234
+  - first:
+      213: -693806769043977738
+    second: Asset_Pedesaan-Photoroom_235
+  - first:
+      213: -5791394820673720673
+    second: Asset_Pedesaan-Photoroom_236
+  - first:
+      213: 1811730184018101609
+    second: Asset_Pedesaan-Photoroom_237
+  - first:
+      213: 8883130904610109000
+    second: Asset_Pedesaan-Photoroom_238
+  - first:
+      213: -6559053115384808285
+    second: Asset_Pedesaan-Photoroom_239
+  - first:
+      213: -6353976830727393731
+    second: Asset_Pedesaan-Photoroom_240
+  - first:
+      213: 8589976524095524401
+    second: Asset_Pedesaan-Photoroom_241
+  - first:
+      213: -8970108884937330949
+    second: Asset_Pedesaan-Photoroom_242
+  - first:
+      213: -7730402308193231950
+    second: Asset_Pedesaan-Photoroom_243
+  - first:
+      213: 4908751215355381544
+    second: Asset_Pedesaan-Photoroom_244
+  - first:
+      213: -810347061064560050
+    second: Asset_Pedesaan-Photoroom_245
+  - first:
+      213: -5983814129808805676
+    second: Asset_Pedesaan-Photoroom_246
+  - first:
+      213: -87461392820169032
+    second: Asset_Pedesaan-Photoroom_247
+  - first:
+      213: -6319811579909368281
+    second: Asset_Pedesaan-Photoroom_248
+  - first:
+      213: 7906762672685079171
+    second: Asset_Pedesaan-Photoroom_249
+  - first:
+      213: -2425331925741259194
+    second: Asset_Pedesaan-Photoroom_250
+  - first:
+      213: -5924495064105874012
+    second: Asset_Pedesaan-Photoroom_251
+  - first:
+      213: 6202329274359483282
+    second: Asset_Pedesaan-Photoroom_252
+  - first:
+      213: 3492666042833075864
+    second: Asset_Pedesaan-Photoroom_253
+  - first:
+      213: -6685182075551426977
+    second: Asset_Pedesaan-Photoroom_254
+  - first:
+      213: -5574081389995729001
+    second: Asset_Pedesaan-Photoroom_255
+  - first:
+      213: 7753069157425756558
+    second: Asset_Pedesaan-Photoroom_256
+  - first:
+      213: -4073006167490224818
+    second: Asset_Pedesaan-Photoroom_257
+  - first:
+      213: 7510748971480508808
+    second: Asset_Pedesaan-Photoroom_258
+  - first:
+      213: -3695751650101268568
+    second: Asset_Pedesaan-Photoroom_259
+  - first:
+      213: 6791325017032960714
+    second: Asset_Pedesaan-Photoroom_260
+  - first:
+      213: -7191492755766156485
+    second: Asset_Pedesaan-Photoroom_261
+  - first:
+      213: 7360467604013631404
+    second: Asset_Pedesaan-Photoroom_262
+  - first:
+      213: 7568798636169930409
+    second: Asset_Pedesaan-Photoroom_263
+  - first:
+      213: -3917736123338674008
+    second: Asset_Pedesaan-Photoroom_264
+  - first:
+      213: -9016295726499331420
+    second: Asset_Pedesaan-Photoroom_265
+  - first:
+      213: -4114198703885867275
+    second: Asset_Pedesaan-Photoroom_266
+  - first:
+      213: -6401068331580777034
+    second: Asset_Pedesaan-Photoroom_267
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 296
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de01c33d1e71f8e0800000000000000
+      internalID: -1661408123635560747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1051
+        width: 266
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40afb8e3a6b0a020800000000000000
+      internalID: 2351079820588195917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1052
+        width: 275
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4760568c90284c1d0800000000000000
+      internalID: -3331394845818943884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 931
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ce6b96e775d4e0800000000000000
+      internalID: -1957526630688700484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 982
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9121d8e0e4b6f0390800000000000000
+      internalID: -7849937642487737831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 984
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae4e328e532ade0800000000000000
+      internalID: -1323436069342614794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 985
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff9fa24430b8c550800000000000000
+      internalID: 6181384227069599728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 986
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10886915a06d20d80800000000000000
+      internalID: -8285825024601454591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 987
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8274752e55459b0800000000000000
+      internalID: -5092350848033937225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 988
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3846b182aa7b9740800000000000000
+      internalID: 5159852636462532669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 979
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f64a301ddcc0e40800000000000000
+      internalID: 5624096332271873949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 980
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d781bbddc1302e30800000000000000
+      internalID: 4476632789830174679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 979
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67df8ed40421bd450800000000000000
+      internalID: 6114500986479902070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 980
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9007f5ce09f83c60800000000000000
+      internalID: 7798256596638171295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 980
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade41fa090b7a620800000000000000
+      internalID: 2785389030011104674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 980
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c962d5d143805e10800000000000000
+      internalID: 2184390138058140097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 980
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65b37ab53a051ae0800000000000000
+      internalID: -1579344868445801108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 932
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35565d506e3476d70800000000000000
+      internalID: 9036265832561599827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 931
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeda40b609c0d4a0800000000000000
+      internalID: -6570530825768870228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 931
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65323db0f87478640800000000000000
+      internalID: 5082109384215176022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 906
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e511d43f814a800800000000000000
+      internalID: 622650081733074472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 906
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660bffee7781c93d0800000000000000
+      internalID: -3198654731949985690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 909
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774b9780ad0635430800000000000000
+      internalID: 3770463802600567927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 909
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71083f46d6b959e0800000000000000
+      internalID: -1632072358376767106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 914
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdccaf9e6ec814c0800000000000000
+      internalID: -4316473268313993785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 918
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f13acfe1a73440800000000000000
+      internalID: 4915575569559712261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 919
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88665db77ef36080800000000000000
+      internalID: -9195226223929300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 919
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd9781d3b2790e0800000000000000
+      internalID: -2263292746326745680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 919
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2e06de721593e0800000000000000
+      internalID: -2047710119603589658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 920
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d532b5dad6aa2c0800000000000000
+      internalID: -4419599492984906461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 920
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9625bc345019d1e0800000000000000
+      internalID: -2172687391247751521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 924
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a39da45eedc6eb0800000000000000
+      internalID: -4725156832633865669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 795
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35931825df6461640800000000000000
+      internalID: 5050302085967460691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 813
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf7086419862350800000000000000
+      internalID: 5991627075000728566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 813
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c86e2bfd1f8640800000000000000
+      internalID: 5084315468977193778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 811
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c4f821124d4b10800000000000000
+      internalID: 1967301253699781189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 815
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f1153d1f01a2940800000000000000
+      internalID: 5272044944609058649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 815
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da26a1eb95835ef20800000000000000
+      internalID: 3451226647541998253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 847
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57823cd2ef9aa63a0800000000000000
+      internalID: -6671332988841416587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 849
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6838ed2ab43170800000000000000
+      internalID: 8157349531407118052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 849
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9fa0462bcfbc9f0800000000000000
+      internalID: -446985894880413230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 850
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b293f4f3175f6af40800000000000000
+      internalID: 5739544641872541995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 849
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd1dde4e570c6b0800000000000000
+      internalID: -5278089137175273527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 847
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1969fdacb9212560800000000000000
+      internalID: 7287151562411567390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 842
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad3a623b434bd70800000000000000
+      internalID: 9057922694600972843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 795
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42947eaa07e22b880800000000000000
+      internalID: -8596757677258356444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 795
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f7c826c4a03660800000000000000
+      internalID: 7363566561745432743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 795
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c12e23b53e08dd0800000000000000
+      internalID: -2485737013473305579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 732
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bdd5586f37c4640800000000000000
+      internalID: 5065551183521635141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 793
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edc584a1cda2430800000000000000
+      internalID: 3759058844435406371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 794
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d389ab9f777630800000000000000
+      internalID: 3924745906817323079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 794
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd113285bef151d00800000000000000
+      internalID: 942694792660455899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 794
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8566ad3995b6f760800000000000000
+      internalID: 7491374699946337676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 794
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7ae081db299e50800000000000000
+      internalID: 6816527689812967025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 795
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafea56d22cbd6160800000000000000
+      internalID: 7020474251951665067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 795
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0556879e9208c2e0800000000000000
+      internalID: -2105429945625455345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 794
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07171c264c668e20800000000000000
+      internalID: 3352486021267134218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 795
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e899c46f2ba360800000000000000
+      internalID: 7181886140697863608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 794
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d09a6bc068c9c0800000000000000
+      internalID: -3906766249961401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 730
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c36a3efdbaa52270800000000000000
+      internalID: 8225168027452859337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 728
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7e102a5e218bd0800000000000000
+      internalID: -2629769742786855043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 733
+        width: 135
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec5f7e141aac5a0800000000000000
+      internalID: -6500205807719297310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 736
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a05acc39bd86450800000000000000
+      internalID: 6082352724603898377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 738
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cfdb1d2c17fb630800000000000000
+      internalID: 3944996880156326987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 739
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c81f1b4ef027b50800000000000000
+      internalID: 6589346679708814460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 742
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00d6c1de648b570800000000000000
+      internalID: 8482607882350428383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 740
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3329dd62987c30800000000000000
+      internalID: 4357393639973011284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 739
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dd0510b58911700800000000000000
+      internalID: 509355749501099318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 740
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba23a19e1f2ca20800000000000000
+      internalID: 3081291078544042944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 740
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef39b577edde3c6c0800000000000000
+      internalID: -4124191294000229378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 740
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c60589162c042100800000000000000
+      internalID: 82204050975950528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 741
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc494dd9aff931db0800000000000000
+      internalID: -4822334877245074228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 742
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa4ca3beb6959f0800000000000000
+      internalID: -479233227290793341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 669
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4f92aec4cb47e0800000000000000
+      internalID: -1780112835924243477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 669
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d4421cf8c53a40800000000000000
+      internalID: 5347401117536147357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 664
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0410af1d19ef29450800000000000000
+      internalID: 6094213148032237888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 665
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e080a8a5011980800000000000000
+      internalID: -8570062394103895638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 657
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6deb2956037d5f0800000000000000
+      internalID: -732063201612605700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 656
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71796706b724240800000000000000
+      internalID: 4774514209202837411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 656
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1357da8d309311620800000000000000
+      internalID: 2743036336728274225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 657
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7e50f445bf3980800000000000000
+      internalID: -8556921459285524599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 657
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ae9b8df5c15da40800000000000000
+      internalID: 5392247326829570629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 687
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6b339a99236d70800000000000000
+      internalID: 9035111021307194349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 687
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5462cdef97f79a80800000000000000
+      internalID: -8460021108731386790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 686
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda5460010ad2390800000000000000
+      internalID: -7841435385497014840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 686
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfac0d0f87e9df90800000000000000
+      internalID: -6928251950147522600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 686
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f306e193074064e0800000000000000
+      internalID: -1990512954639514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 686
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756ce85da4f4ce00800000000000000
+      internalID: 1064244437324686714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 661
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cacd310cfa123d0800000000000000
+      internalID: -3233109817973494716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 661
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef3bfb4e92b3200800000000000000
+      internalID: 160768274147311109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 678
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc8796fb48401330800000000000000
+      internalID: 3679520386658569427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 602
+        width: 205
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de97606bfe581f0800000000000000
+      internalID: -1043164173594661546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 610
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b49c818704bfeb90800000000000000
+      internalID: -7210346534065630023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 602
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7bd0c08e165c3c0800000000000000
+      internalID: -4339955016639072311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 606
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2245860264e68d70800000000000000
+      internalID: 9045168011287544363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 606
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f182cdb0ca7857660800000000000000
+      internalID: 7382956337146898463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 608
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5912c05b0c2f4abb0800000000000000
+      internalID: -4925545182951366251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 608
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad587dc59dc37e810800000000000000
+      internalID: 1794469880793630170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 607
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32742b2cdd4f11110800000000000000
+      internalID: 1230033406540269347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 608
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee850424ab16fd00800000000000000
+      internalID: 1006021958556815076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 607
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748bc2994596a9c0800000000000000
+      internalID: -3916278682724105102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 606
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aedfbca72851f00800000000000000
+      internalID: 1086918348999879293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 606
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e3ae32694fa140800000000000000
+      internalID: 4733082419696230472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 606
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55ca40e2f105bc0800000000000000
+      internalID: -3796500203365968423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 606
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fcf14a03f764370800000000000000
+      internalID: 8306466409620164370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 565
+        width: 184
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6dfd4fca1449d20800000000000000
+      internalID: 3284322239358424798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 564
+        width: 219
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d16e33b6c432d0800000000000000
+      internalID: -3299794153807687170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 478
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0e15a9554db6c0800000000000000
+      internalID: -4126065432276889619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 478
+        width: 25
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce98183f90b7db5b0800000000000000
+      internalID: -5350985499576006164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 478
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6b0232a2532e80800000000000000
+      internalID: -8204623239561123034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 564
+        width: 249
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164fffd3d3e4f2d60800000000000000
+      internalID: 7867593098979701857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 445
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23fa0bb25042a70800000000000000
+      internalID: 8801165256994796253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 446
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e166b1314d022ab0800000000000000
+      internalID: -5034446859788721693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 492
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19055d42a29ca90a0800000000000000
+      internalID: -6873960698383871855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 492
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe371f7dc4735f2c0800000000000000
+      internalID: -4398548657877453841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 493
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd24276bae923cd0800000000000000
+      internalID: -2579825177522852430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 495
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2842bfcb159b8e8e0800000000000000
+      internalID: -1663876301599333246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 496
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c586f1e863767950800000000000000
+      internalID: 6446466810932266435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 496
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b4fdc638464f40800000000000000
+      internalID: 5712332577586853693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 496
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb2fc16581641dd0800000000000000
+      internalID: -2516279066293752895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 496
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7bb38d0ea575a0800000000000000
+      internalID: -6524117112108385686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 515
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e121a712a358f60b0800000000000000
+      internalID: -5733217315903106530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 519
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ba9e4b7cb644930800000000000000
+      internalID: 4126541664056093549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 520
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee238e0db2a910bf0800000000000000
+      internalID: -359836982233779474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 519
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaec6054b086efc0800000000000000
+      internalID: -3465941351283234076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 519
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4fd83afd83aadd0800000000000000
+      internalID: -2474102512113814312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 478
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35bcdaf81c6bb960800000000000000
+      internalID: 7618802049171109181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 460
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a648ad76af92d2820800000000000000
+      internalID: 2895016290930033770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 456
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7a2bbd7d5588b90800000000000000
+      internalID: -7239442015405824032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86fce26e91577ee0800000000000000
+      internalID: -1263451429747755379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 447
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2098f4122330b0800000000000000
+      internalID: -5750214825757102640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 424
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bc629c4c3366960800000000000000
+      internalID: 7594814741888289578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 424
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8087b8f5c881a41b0800000000000000
+      internalID: -5671693789542254584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 424
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fc7ea831e1eaf0800000000000000
+      internalID: -368766060905826144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 426
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ec2a8521b1bab0800000000000000
+      internalID: -4994015736987064595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 422
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43a3dec7a836890800000000000000
+      internalID: -7465971488089557836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 437
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e861e85a869220800000000000000
+      internalID: 2492331558139652368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 437
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dfcf210c9b74a60800000000000000
+      internalID: 7658293925970247049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 437
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbcf487af9134a0800000000000000
+      internalID: -6615330835791037479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 441
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e087e8494584c560800000000000000
+      internalID: 7333132643068248293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 440
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6405ac9731283ad0800000000000000
+      internalID: -2722389452010486677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 433
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2fbdd4abbdfd00800000000000000
+      internalID: 1008168208370183528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 433
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e2b6d3bdf36ca0800000000000000
+      internalID: -6024692927648571324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 432
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9773cc6bb051e710800000000000000
+      internalID: 1720745298546096026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 433
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a170c6bb384160800000000000000
+      internalID: 7009918476100936762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 432
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de142478a61894610800000000000000
+      internalID: 1605957036670075373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 391
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b875d8728d25acbf0800000000000000
+      internalID: -303338936564099189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 388
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479a35a4cb874170800000000000000
+      internalID: 8162646526334244687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 356
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b8430fbf36abb0800000000000000
+      internalID: -4925179052856658721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69992f51ce31c170800000000000000
+      internalID: 8196901797037185389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 355
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976fcb64f1a3f4d20800000000000000
+      internalID: 3264892160872085113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 359
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e5e601ef403a40800000000000000
+      internalID: 5345860585590745327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 357
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3565e9020912840800000000000000
+      internalID: 5197593914732073954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 358
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b77e911e5a4590800000000000000
+      internalID: -7689229984015599770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef578d0a76e04ac0800000000000000
+      internalID: -3872842267651252249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_155
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 359
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b623dcfebc6f10800000000000000
+      internalID: 2264394705744083368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_156
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 359
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf1eed4974151f0800000000000000
+      internalID: -1057985732735271748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_157
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 357
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6d9ac844017560800000000000000
+      internalID: 7309628380882496995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_158
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 358
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751aae1781638a90800000000000000
+      internalID: -7312894136956611201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_159
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 357
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5cd9e2cf27bf70800000000000000
+      internalID: 9202876877748591146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 357
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d6b5a22edd6890800000000000000
+      internalID: -7463064767092565899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_161
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 357
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2215b8baba3805360800000000000000
+      internalID: 7156364581232398626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_162
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 356
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab3eafb6a95a5b20800000000000000
+      internalID: 3123907864250170284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_163
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 357
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e8f0449f338890800000000000000
+      internalID: -7457046652017647569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_164
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 357
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f43f3ed6168890800000000000000
+      internalID: -7456246989266292477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_165
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 353
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36fcf9bc8214ff90800000000000000
+      internalID: -6920886331736525252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_166
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 379
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701475e159a52980800000000000000
+      internalID: -8564252947168096135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_167
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 379
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599781a1e0fb4cd80800000000000000
+      internalID: -8231244151638165099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_168
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 379
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e875d90d26574f70800000000000000
+      internalID: 9171393917601806564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_169
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 379
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fef0aed3ffab970800000000000000
+      internalID: 8771603865642462999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_170
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 353
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ac6fa1c6d161f0800000000000000
+      internalID: -1053324710467819441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_171
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 390
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bfe33b60b555500800000000000000
+      internalID: 384313427545226019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_172
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 391
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb557f42bf0d7920800000000000000
+      internalID: 2989562986155564006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_173
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 387
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32180127db037d1a0800000000000000
+      internalID: -6784900723389726429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_174
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 387
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d612d70a1535b0800000000000000
+      internalID: -5389372758187126778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_175
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 388
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cf8e917d28a410800000000000000
+      internalID: 1488489642860726268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_176
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a565f0438b7a57d0800000000000000
+      internalID: -2928892803990329952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_177
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 387
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591eddaec2bda670800000000000000
+      internalID: 8551687868196460882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_178
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 387
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31404709fb8c920800000000000000
+      internalID: 3010866978039796654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_179
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 352
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f8d6cad825044c0800000000000000
+      internalID: -4305350475329466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_180
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 353
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d1088d3a31c5500800000000000000
+      internalID: 386205262479891724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_181
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 353
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51afa852ed5712e50800000000000000
+      internalID: 6782832110769732117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_182
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 355
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a77c4c863e71490800000000000000
+      internalID: -7775496192514360698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_183
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 343
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781d21f000226cb60800000000000000
+      internalID: 7765931991095234951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_184
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 344
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ffee69c6ee30880800000000000000
+      internalID: -8645804709465096365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_185
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 342
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41d1a58619de7230800000000000000
+      internalID: 3638584239716421964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_186
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 343
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84ec2945dd0b7f0800000000000000
+      internalID: -598735395130291986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_187
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 342
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a177bb2ebc0430800000000000000
+      internalID: 3750581684663330470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_188
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 342
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd832d5969d5dc20800000000000000
+      internalID: 3230727354265603528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_189
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 341
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4ed112ebb47af0800000000000000
+      internalID: -399487887292346735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_190
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 341
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d5586161a7ba90800000000000000
+      internalID: -7298187231396244593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_191
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 305
+        width: 175
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3c46a4153bcff0800000000000000
+      internalID: -14859810960033275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_192
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 305
+        width: 234
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e05c78b105dde0800000000000000
+      internalID: -1309138224809974878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_193
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 203
+        width: 27
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515403059b73bdb0800000000000000
+      internalID: -4777338899779006117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_194
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 203
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37341aeedd9b1a60800000000000000
+      internalID: 7645878373127042878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_195
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 203
+        width: 26
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aeafeb026d61aa0800000000000000
+      internalID: -6190525201642755470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_196
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 203
+        width: 31
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b78f024d6c864e0800000000000000
+      internalID: -1988120621095552245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_197
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 303
+        width: 155
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642d16092917c6c0800000000000000
+      internalID: -4123299269847473050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aded725cea949220800000000000000
+      internalID: 2491786833629670817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_199
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021157921e622910800000000000000
+      internalID: 1811131026283500047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_200
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c2b415b6b63070800000000000000
+      internalID: 8085851069842899198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_201
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 258
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbe86ecbc7f22b0800000000000000
+      internalID: -5607125860289167575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 257
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4583b23bc06fb0800000000000000
+      internalID: -4656498596080432365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_203
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 258
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1576edb3149b88320800000000000000
+      internalID: 2560500077988570961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_204
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 227
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19eb3b328ca5890800000000000000
+      internalID: -7468436976375524867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_205
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 229
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c0936d7cc3ba10800000000000000
+      internalID: 1924106304730744917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_206
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 222
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03b9aaf6a7e14d0800000000000000
+      internalID: -3161955268345253688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_207
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 223
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44fa68b12fe3bf0800000000000000
+      internalID: -342570321595906863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_208
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 223
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3e638249454ea0800000000000000
+      internalID: -5889220387695346434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_209
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 223
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cffd54b98dcc650800000000000000
+      internalID: 6254612143914613852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_210
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 204
+        width: 31
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef44cbbe0a12df5c0800000000000000
+      internalID: -4180147904096484098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_211
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 234
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549bebaf5dec1e070800000000000000
+      internalID: 8134009820437985605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_212
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 234
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fd5e963b70dd20800000000000000
+      internalID: 3301274001377980822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_213
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 228
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4d727fc6150e7c0800000000000000
+      internalID: -4044142936933804888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_214
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 235
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2535b95bb2ccb0800000000000000
+      internalID: -4845104255130588182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_215
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 235
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14a700c04a42e80800000000000000
+      internalID: -8204252249707626051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_216
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 237
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1449744adf22c460800000000000000
+      internalID: 7260418163772834847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_217
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 235
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73be33807fc068270800000000000000
+      internalID: 8252297622337088311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_218
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 237
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b959b8c997cac9660800000000000000
+      internalID: 7393974326552925595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_219
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee4cac64c0b7b860800000000000000
+      internalID: 7545694058365865709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_220
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 197
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e9d93cdb2fb4740800000000000000
+      internalID: 5137466696790810183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_221
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc168d262754330800000000000000
+      internalID: 3694484838190009311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_222
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 198
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0175a0c8ffa09e60800000000000000
+      internalID: 7967061223737225486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_223
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 198
+        width: 131
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d49d8745c9fff0800000000000000
+      internalID: -1753413728283934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_224
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 139
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d32df95fff040b0800000000000000
+      internalID: -5746311694111326928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_225
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 177
+        width: 149
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b1817390d6b23b0800000000000000
+      internalID: -5536211430575432930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_226
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 152
+        width: 210
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002d276dc0000470800000000000000
+      internalID: 8358681790598946818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_227
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 156
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158b1981a7228530800000000000000
+      internalID: 3855687805726065945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_228
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 156
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0331137f6dc230800000000000000
+      internalID: 3660704612122561599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_229
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 150
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117bdd5757d979da0800000000000000
+      internalID: -5938104455850510575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_230
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 157
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c08c3d696da3d10800000000000000
+      internalID: 2106231719035669569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_231
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 157
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904539bf13191b3b0800000000000000
+      internalID: -5498454026182503415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_232
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 156
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b265d941feae4dc0800000000000000
+      internalID: -3652789896401821004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_233
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 102
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf20faf2237a710800000000000000
+      internalID: 1704386164364082064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_234
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 138
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff88e8b9a6a9490800000000000000
+      internalID: -7738755793338957871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_235
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 137
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94f546b6a1f56f0800000000000000
+      internalID: -693806769043977738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_236
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea4bf3815d0afa0800000000000000
+      internalID: -5791394820673720673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_237
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 138
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965804fd00f842910800000000000000
+      internalID: 1811730184018101609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_238
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 139
+        width: 150
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846749e2e78374b70800000000000000
+      internalID: 8883130904610109000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_239
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 158
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb19261ff89f4a0800000000000000
+      internalID: -6559053115384808285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_240
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 158
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e6e6dbcb322d7a0800000000000000
+      internalID: -6353976830727393731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_241
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 93
+        width: 198
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e88a3132ab53770800000000000000
+      internalID: 8589976524095524401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_242
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 35
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2cbcae75c38380800000000000000
+      internalID: -8970108884937330949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_243
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 32
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5841ee0818b490800000000000000
+      internalID: -7730402308193231950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_244
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827460209336f1440800000000000000
+      internalID: 4908751215355381544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_245
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 30
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42177034a111c4f0800000000000000
+      internalID: -810347061064560050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_246
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 30
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d078c6a0c835fca0800000000000000
+      internalID: -5983814129808805676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_247
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 28
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6946d935649cef0800000000000000
+      internalID: -87461392820169032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_248
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 30
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261a141ad48b48a0800000000000000
+      internalID: -6319811579909368281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_249
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 0
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a56bc42c67abd60800000000000000
+      internalID: 7906762672685079171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64637c7a67d775ed0800000000000000
+      internalID: -2425331925741259194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_251
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 29
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad0a66e027f7cda0800000000000000
+      internalID: -5924495064105874012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_252
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b043a1d99131650800000000000000
+      internalID: 6202329274359483282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_253
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7222d241787030800000000000000
+      internalID: 3492666042833075864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_254
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d2f762567933a0800000000000000
+      internalID: -6685182075551426977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_255
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 29
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f50303282e4a2b0800000000000000
+      internalID: -5574081389995729001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_256
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 29
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893667325f689b60800000000000000
+      internalID: 7753069157425756558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_257
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 33
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d15ca6876c977c0800000000000000
+      internalID: -4073006167490224818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_258
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 34
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e93a556a8b3860800000000000000
+      internalID: 7510748971480508808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_259
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 34
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af66a5847d06bcc0800000000000000
+      internalID: -3695751650101268568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_260
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 34
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca297afe12af3e50800000000000000
+      internalID: 6791325017032960714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_261
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 35
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3363c7d07fa23c90800000000000000
+      internalID: -7191492755766156485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_262
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 33
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7c006d942a52660800000000000000
+      internalID: 7360467604013631404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_263
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 29
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ae552246c90960800000000000000
+      internalID: 7568798636169930409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_264
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0beacb0c761a9c0800000000000000
+      internalID: -3917736123338674008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_265
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 30
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28220aeceafd280800000000000000
+      internalID: -9016295726499331420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_266
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 31
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a287a31e67e6c0800000000000000
+      internalID: -4114198703885867275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Pedesaan-Photoroom_267
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 33
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd10294446da27a0800000000000000
+      internalID: -6401068331580777034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asset_Pedesaan-Photoroom_0: -1661408123635560747
+      Asset_Pedesaan-Photoroom_1: 2351079820588195917
+      Asset_Pedesaan-Photoroom_10: 5624096332271873949
+      Asset_Pedesaan-Photoroom_100: -3916278682724105102
+      Asset_Pedesaan-Photoroom_101: 1086918348999879293
+      Asset_Pedesaan-Photoroom_102: 4733082419696230472
+      Asset_Pedesaan-Photoroom_103: -3796500203365968423
+      Asset_Pedesaan-Photoroom_104: 8306466409620164370
+      Asset_Pedesaan-Photoroom_105: 3284322239358424798
+      Asset_Pedesaan-Photoroom_106: -3299794153807687170
+      Asset_Pedesaan-Photoroom_107: -4126065432276889619
+      Asset_Pedesaan-Photoroom_108: -5350985499576006164
+      Asset_Pedesaan-Photoroom_109: -8204623239561123034
+      Asset_Pedesaan-Photoroom_11: 4476632789830174679
+      Asset_Pedesaan-Photoroom_110: 7867593098979701857
+      Asset_Pedesaan-Photoroom_111: 8801165256994796253
+      Asset_Pedesaan-Photoroom_112: -5034446859788721693
+      Asset_Pedesaan-Photoroom_113: -6873960698383871855
+      Asset_Pedesaan-Photoroom_114: -4398548657877453841
+      Asset_Pedesaan-Photoroom_115: -2579825177522852430
+      Asset_Pedesaan-Photoroom_116: -1663876301599333246
+      Asset_Pedesaan-Photoroom_117: 6446466810932266435
+      Asset_Pedesaan-Photoroom_118: 5712332577586853693
+      Asset_Pedesaan-Photoroom_119: -2516279066293752895
+      Asset_Pedesaan-Photoroom_12: 6114500986479902070
+      Asset_Pedesaan-Photoroom_120: -6524117112108385686
+      Asset_Pedesaan-Photoroom_121: -5733217315903106530
+      Asset_Pedesaan-Photoroom_122: 4126541664056093549
+      Asset_Pedesaan-Photoroom_123: -359836982233779474
+      Asset_Pedesaan-Photoroom_124: -3465941351283234076
+      Asset_Pedesaan-Photoroom_125: -2474102512113814312
+      Asset_Pedesaan-Photoroom_126: 7618802049171109181
+      Asset_Pedesaan-Photoroom_127: 2895016290930033770
+      Asset_Pedesaan-Photoroom_128: -7239442015405824032
+      Asset_Pedesaan-Photoroom_129: -1263451429747755379
+      Asset_Pedesaan-Photoroom_13: 7798256596638171295
+      Asset_Pedesaan-Photoroom_130: -5750214825757102640
+      Asset_Pedesaan-Photoroom_131: 7594814741888289578
+      Asset_Pedesaan-Photoroom_132: -5671693789542254584
+      Asset_Pedesaan-Photoroom_133: -368766060905826144
+      Asset_Pedesaan-Photoroom_134: -4994015736987064595
+      Asset_Pedesaan-Photoroom_135: -7465971488089557836
+      Asset_Pedesaan-Photoroom_136: 2492331558139652368
+      Asset_Pedesaan-Photoroom_137: 7658293925970247049
+      Asset_Pedesaan-Photoroom_138: -6615330835791037479
+      Asset_Pedesaan-Photoroom_139: 7333132643068248293
+      Asset_Pedesaan-Photoroom_14: 2785389030011104674
+      Asset_Pedesaan-Photoroom_140: -2722389452010486677
+      Asset_Pedesaan-Photoroom_141: 1008168208370183528
+      Asset_Pedesaan-Photoroom_142: -6024692927648571324
+      Asset_Pedesaan-Photoroom_143: 1720745298546096026
+      Asset_Pedesaan-Photoroom_144: 7009918476100936762
+      Asset_Pedesaan-Photoroom_145: 1605957036670075373
+      Asset_Pedesaan-Photoroom_146: -303338936564099189
+      Asset_Pedesaan-Photoroom_147: 8162646526334244687
+      Asset_Pedesaan-Photoroom_148: -4925179052856658721
+      Asset_Pedesaan-Photoroom_149: 8196901797037185389
+      Asset_Pedesaan-Photoroom_15: 2184390138058140097
+      Asset_Pedesaan-Photoroom_150: 3264892160872085113
+      Asset_Pedesaan-Photoroom_151: 5345860585590745327
+      Asset_Pedesaan-Photoroom_152: 5197593914732073954
+      Asset_Pedesaan-Photoroom_153: -7689229984015599770
+      Asset_Pedesaan-Photoroom_154: -3872842267651252249
+      Asset_Pedesaan-Photoroom_155: 2264394705744083368
+      Asset_Pedesaan-Photoroom_156: -1057985732735271748
+      Asset_Pedesaan-Photoroom_157: 7309628380882496995
+      Asset_Pedesaan-Photoroom_158: -7312894136956611201
+      Asset_Pedesaan-Photoroom_159: 9202876877748591146
+      Asset_Pedesaan-Photoroom_16: -1579344868445801108
+      Asset_Pedesaan-Photoroom_160: -7463064767092565899
+      Asset_Pedesaan-Photoroom_161: 7156364581232398626
+      Asset_Pedesaan-Photoroom_162: 3123907864250170284
+      Asset_Pedesaan-Photoroom_163: -7457046652017647569
+      Asset_Pedesaan-Photoroom_164: -7456246989266292477
+      Asset_Pedesaan-Photoroom_165: -6920886331736525252
+      Asset_Pedesaan-Photoroom_166: -8564252947168096135
+      Asset_Pedesaan-Photoroom_167: -8231244151638165099
+      Asset_Pedesaan-Photoroom_168: 9171393917601806564
+      Asset_Pedesaan-Photoroom_169: 8771603865642462999
+      Asset_Pedesaan-Photoroom_17: 9036265832561599827
+      Asset_Pedesaan-Photoroom_170: -1053324710467819441
+      Asset_Pedesaan-Photoroom_171: 384313427545226019
+      Asset_Pedesaan-Photoroom_172: 2989562986155564006
+      Asset_Pedesaan-Photoroom_173: -6784900723389726429
+      Asset_Pedesaan-Photoroom_174: -5389372758187126778
+      Asset_Pedesaan-Photoroom_175: 1488489642860726268
+      Asset_Pedesaan-Photoroom_176: -2928892803990329952
+      Asset_Pedesaan-Photoroom_177: 8551687868196460882
+      Asset_Pedesaan-Photoroom_178: 3010866978039796654
+      Asset_Pedesaan-Photoroom_179: -4305350475329466593
+      Asset_Pedesaan-Photoroom_18: -6570530825768870228
+      Asset_Pedesaan-Photoroom_180: 386205262479891724
+      Asset_Pedesaan-Photoroom_181: 6782832110769732117
+      Asset_Pedesaan-Photoroom_182: -7775496192514360698
+      Asset_Pedesaan-Photoroom_183: 7765931991095234951
+      Asset_Pedesaan-Photoroom_184: -8645804709465096365
+      Asset_Pedesaan-Photoroom_185: 3638584239716421964
+      Asset_Pedesaan-Photoroom_186: -598735395130291986
+      Asset_Pedesaan-Photoroom_187: 3750581684663330470
+      Asset_Pedesaan-Photoroom_188: 3230727354265603528
+      Asset_Pedesaan-Photoroom_189: -399487887292346735
+      Asset_Pedesaan-Photoroom_19: 5082109384215176022
+      Asset_Pedesaan-Photoroom_190: -7298187231396244593
+      Asset_Pedesaan-Photoroom_191: -14859810960033275
+      Asset_Pedesaan-Photoroom_192: -1309138224809974878
+      Asset_Pedesaan-Photoroom_193: -4777338899779006117
+      Asset_Pedesaan-Photoroom_194: 7645878373127042878
+      Asset_Pedesaan-Photoroom_195: -6190525201642755470
+      Asset_Pedesaan-Photoroom_196: -1988120621095552245
+      Asset_Pedesaan-Photoroom_197: -4123299269847473050
+      Asset_Pedesaan-Photoroom_198: 2491786833629670817
+      Asset_Pedesaan-Photoroom_199: 1811131026283500047
+      Asset_Pedesaan-Photoroom_2: -3331394845818943884
+      Asset_Pedesaan-Photoroom_20: 622650081733074472
+      Asset_Pedesaan-Photoroom_200: 8085851069842899198
+      Asset_Pedesaan-Photoroom_201: -5607125860289167575
+      Asset_Pedesaan-Photoroom_202: -4656498596080432365
+      Asset_Pedesaan-Photoroom_203: 2560500077988570961
+      Asset_Pedesaan-Photoroom_204: -7468436976375524867
+      Asset_Pedesaan-Photoroom_205: 1924106304730744917
+      Asset_Pedesaan-Photoroom_206: -3161955268345253688
+      Asset_Pedesaan-Photoroom_207: -342570321595906863
+      Asset_Pedesaan-Photoroom_208: -5889220387695346434
+      Asset_Pedesaan-Photoroom_209: 6254612143914613852
+      Asset_Pedesaan-Photoroom_21: -3198654731949985690
+      Asset_Pedesaan-Photoroom_210: -4180147904096484098
+      Asset_Pedesaan-Photoroom_211: 8134009820437985605
+      Asset_Pedesaan-Photoroom_212: 3301274001377980822
+      Asset_Pedesaan-Photoroom_213: -4044142936933804888
+      Asset_Pedesaan-Photoroom_214: -4845104255130588182
+      Asset_Pedesaan-Photoroom_215: -8204252249707626051
+      Asset_Pedesaan-Photoroom_216: 7260418163772834847
+      Asset_Pedesaan-Photoroom_217: 8252297622337088311
+      Asset_Pedesaan-Photoroom_218: 7393974326552925595
+      Asset_Pedesaan-Photoroom_219: 7545694058365865709
+      Asset_Pedesaan-Photoroom_22: 3770463802600567927
+      Asset_Pedesaan-Photoroom_220: 5137466696790810183
+      Asset_Pedesaan-Photoroom_221: 3694484838190009311
+      Asset_Pedesaan-Photoroom_222: 7967061223737225486
+      Asset_Pedesaan-Photoroom_223: -1753413728283934
+      Asset_Pedesaan-Photoroom_224: -5746311694111326928
+      Asset_Pedesaan-Photoroom_225: -5536211430575432930
+      Asset_Pedesaan-Photoroom_226: 8358681790598946818
+      Asset_Pedesaan-Photoroom_227: 3855687805726065945
+      Asset_Pedesaan-Photoroom_228: 3660704612122561599
+      Asset_Pedesaan-Photoroom_229: -5938104455850510575
+      Asset_Pedesaan-Photoroom_23: -1632072358376767106
+      Asset_Pedesaan-Photoroom_230: 2106231719035669569
+      Asset_Pedesaan-Photoroom_231: -5498454026182503415
+      Asset_Pedesaan-Photoroom_232: -3652789896401821004
+      Asset_Pedesaan-Photoroom_233: 1704386164364082064
+      Asset_Pedesaan-Photoroom_234: -7738755793338957871
+      Asset_Pedesaan-Photoroom_235: -693806769043977738
+      Asset_Pedesaan-Photoroom_236: -5791394820673720673
+      Asset_Pedesaan-Photoroom_237: 1811730184018101609
+      Asset_Pedesaan-Photoroom_238: 8883130904610109000
+      Asset_Pedesaan-Photoroom_239: -6559053115384808285
+      Asset_Pedesaan-Photoroom_24: -4316473268313993785
+      Asset_Pedesaan-Photoroom_240: -6353976830727393731
+      Asset_Pedesaan-Photoroom_241: 8589976524095524401
+      Asset_Pedesaan-Photoroom_242: -8970108884937330949
+      Asset_Pedesaan-Photoroom_243: -7730402308193231950
+      Asset_Pedesaan-Photoroom_244: 4908751215355381544
+      Asset_Pedesaan-Photoroom_245: -810347061064560050
+      Asset_Pedesaan-Photoroom_246: -5983814129808805676
+      Asset_Pedesaan-Photoroom_247: -87461392820169032
+      Asset_Pedesaan-Photoroom_248: -6319811579909368281
+      Asset_Pedesaan-Photoroom_249: 7906762672685079171
+      Asset_Pedesaan-Photoroom_25: 4915575569559712261
+      Asset_Pedesaan-Photoroom_250: -2425331925741259194
+      Asset_Pedesaan-Photoroom_251: -5924495064105874012
+      Asset_Pedesaan-Photoroom_252: 6202329274359483282
+      Asset_Pedesaan-Photoroom_253: 3492666042833075864
+      Asset_Pedesaan-Photoroom_254: -6685182075551426977
+      Asset_Pedesaan-Photoroom_255: -5574081389995729001
+      Asset_Pedesaan-Photoroom_256: 7753069157425756558
+      Asset_Pedesaan-Photoroom_257: -4073006167490224818
+      Asset_Pedesaan-Photoroom_258: 7510748971480508808
+      Asset_Pedesaan-Photoroom_259: -3695751650101268568
+      Asset_Pedesaan-Photoroom_26: -9195226223929300852
+      Asset_Pedesaan-Photoroom_260: 6791325017032960714
+      Asset_Pedesaan-Photoroom_261: -7191492755766156485
+      Asset_Pedesaan-Photoroom_262: 7360467604013631404
+      Asset_Pedesaan-Photoroom_263: 7568798636169930409
+      Asset_Pedesaan-Photoroom_264: -3917736123338674008
+      Asset_Pedesaan-Photoroom_265: -9016295726499331420
+      Asset_Pedesaan-Photoroom_266: -4114198703885867275
+      Asset_Pedesaan-Photoroom_267: -6401068331580777034
+      Asset_Pedesaan-Photoroom_27: -2263292746326745680
+      Asset_Pedesaan-Photoroom_28: -2047710119603589658
+      Asset_Pedesaan-Photoroom_29: -4419599492984906461
+      Asset_Pedesaan-Photoroom_3: -1957526630688700484
+      Asset_Pedesaan-Photoroom_30: -2172687391247751521
+      Asset_Pedesaan-Photoroom_31: -4725156832633865669
+      Asset_Pedesaan-Photoroom_32: 5050302085967460691
+      Asset_Pedesaan-Photoroom_33: 5991627075000728566
+      Asset_Pedesaan-Photoroom_34: 5084315468977193778
+      Asset_Pedesaan-Photoroom_35: 1967301253699781189
+      Asset_Pedesaan-Photoroom_36: 5272044944609058649
+      Asset_Pedesaan-Photoroom_37: 3451226647541998253
+      Asset_Pedesaan-Photoroom_38: -6671332988841416587
+      Asset_Pedesaan-Photoroom_39: 8157349531407118052
+      Asset_Pedesaan-Photoroom_4: -7849937642487737831
+      Asset_Pedesaan-Photoroom_40: -446985894880413230
+      Asset_Pedesaan-Photoroom_41: 5739544641872541995
+      Asset_Pedesaan-Photoroom_42: -5278089137175273527
+      Asset_Pedesaan-Photoroom_43: 7287151562411567390
+      Asset_Pedesaan-Photoroom_44: 9057922694600972843
+      Asset_Pedesaan-Photoroom_45: -8596757677258356444
+      Asset_Pedesaan-Photoroom_46: 7363566561745432743
+      Asset_Pedesaan-Photoroom_47: -2485737013473305579
+      Asset_Pedesaan-Photoroom_48: 5065551183521635141
+      Asset_Pedesaan-Photoroom_49: 3759058844435406371
+      Asset_Pedesaan-Photoroom_5: -1323436069342614794
+      Asset_Pedesaan-Photoroom_50: 3924745906817323079
+      Asset_Pedesaan-Photoroom_51: 942694792660455899
+      Asset_Pedesaan-Photoroom_52: 7491374699946337676
+      Asset_Pedesaan-Photoroom_53: 6816527689812967025
+      Asset_Pedesaan-Photoroom_54: 7020474251951665067
+      Asset_Pedesaan-Photoroom_55: -2105429945625455345
+      Asset_Pedesaan-Photoroom_56: 3352486021267134218
+      Asset_Pedesaan-Photoroom_57: 7181886140697863608
+      Asset_Pedesaan-Photoroom_58: -3906766249961401751
+      Asset_Pedesaan-Photoroom_59: 8225168027452859337
+      Asset_Pedesaan-Photoroom_6: 6181384227069599728
+      Asset_Pedesaan-Photoroom_60: -2629769742786855043
+      Asset_Pedesaan-Photoroom_61: -6500205807719297310
+      Asset_Pedesaan-Photoroom_62: 6082352724603898377
+      Asset_Pedesaan-Photoroom_63: 3944996880156326987
+      Asset_Pedesaan-Photoroom_64: 6589346679708814460
+      Asset_Pedesaan-Photoroom_65: 8482607882350428383
+      Asset_Pedesaan-Photoroom_66: 4357393639973011284
+      Asset_Pedesaan-Photoroom_67: 509355749501099318
+      Asset_Pedesaan-Photoroom_68: 3081291078544042944
+      Asset_Pedesaan-Photoroom_69: -4124191294000229378
+      Asset_Pedesaan-Photoroom_7: -8285825024601454591
+      Asset_Pedesaan-Photoroom_70: 82204050975950528
+      Asset_Pedesaan-Photoroom_71: -4822334877245074228
+      Asset_Pedesaan-Photoroom_72: -479233227290793341
+      Asset_Pedesaan-Photoroom_73: -1780112835924243477
+      Asset_Pedesaan-Photoroom_74: 5347401117536147357
+      Asset_Pedesaan-Photoroom_75: 6094213148032237888
+      Asset_Pedesaan-Photoroom_76: -8570062394103895638
+      Asset_Pedesaan-Photoroom_77: -732063201612605700
+      Asset_Pedesaan-Photoroom_78: 4774514209202837411
+      Asset_Pedesaan-Photoroom_79: 2743036336728274225
+      Asset_Pedesaan-Photoroom_8: -5092350848033937225
+      Asset_Pedesaan-Photoroom_80: -8556921459285524599
+      Asset_Pedesaan-Photoroom_81: 5392247326829570629
+      Asset_Pedesaan-Photoroom_82: 9035111021307194349
+      Asset_Pedesaan-Photoroom_83: -8460021108731386790
+      Asset_Pedesaan-Photoroom_84: -7841435385497014840
+      Asset_Pedesaan-Photoroom_85: -6928251950147522600
+      Asset_Pedesaan-Photoroom_86: -1990512954639514637
+      Asset_Pedesaan-Photoroom_87: 1064244437324686714
+      Asset_Pedesaan-Photoroom_88: -3233109817973494716
+      Asset_Pedesaan-Photoroom_89: 160768274147311109
+      Asset_Pedesaan-Photoroom_9: 5159852636462532669
+      Asset_Pedesaan-Photoroom_90: 3679520386658569427
+      Asset_Pedesaan-Photoroom_91: -1043164173594661546
+      Asset_Pedesaan-Photoroom_92: -7210346534065630023
+      Asset_Pedesaan-Photoroom_93: -4339955016639072311
+      Asset_Pedesaan-Photoroom_94: 9045168011287544363
+      Asset_Pedesaan-Photoroom_95: 7382956337146898463
+      Asset_Pedesaan-Photoroom_96: -4925545182951366251
+      Asset_Pedesaan-Photoroom_97: 1794469880793630170
+      Asset_Pedesaan-Photoroom_98: 1230033406540269347
+      Asset_Pedesaan-Photoroom_99: 1006021958556815076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

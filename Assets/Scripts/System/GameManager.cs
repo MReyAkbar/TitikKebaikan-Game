@@ -63,6 +63,14 @@ public class GameManager : MonoBehaviour
         SetState(GameState.GameEnd);
         Time.timeScale = 0f;
         GameHUD.Instance?.ShowEndScreen();
+
+        if (DialogBox.Instance != null)
+        {
+            DialogBox.Instance.Show(
+                "Petunjuk Sistem",
+                "Semua misi selesai!\n\nTerima kasih sudah membantu warga kampung."
+            );
+        }
     }
 
     public void ReturnToMainMenu()

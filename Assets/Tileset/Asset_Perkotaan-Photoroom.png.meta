@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 2372a57850a7919448a161a8df99db6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3452062107444418604
+    second: Asset_Perkotaan-Photoroom_0
+  - first:
+      213: -2377724258361650335
+    second: Asset_Perkotaan-Photoroom_1
+  - first:
+      213: -4446357949764079771
+    second: Asset_Perkotaan-Photoroom_2
+  - first:
+      213: 5667760597716419906
+    second: Asset_Perkotaan-Photoroom_3
+  - first:
+      213: 184663959795995777
+    second: Asset_Perkotaan-Photoroom_4
+  - first:
+      213: -1409981759235935782
+    second: Asset_Perkotaan-Photoroom_5
+  - first:
+      213: 2029744338576650224
+    second: Asset_Perkotaan-Photoroom_6
+  - first:
+      213: 3588228701332663092
+    second: Asset_Perkotaan-Photoroom_7
+  - first:
+      213: -6710684350382403011
+    second: Asset_Perkotaan-Photoroom_8
+  - first:
+      213: -6739667246401032446
+    second: Asset_Perkotaan-Photoroom_9
+  - first:
+      213: -287381649663251109
+    second: Asset_Perkotaan-Photoroom_10
+  - first:
+      213: -5596121672113210641
+    second: Asset_Perkotaan-Photoroom_11
+  - first:
+      213: -5958276559355046924
+    second: Asset_Perkotaan-Photoroom_12
+  - first:
+      213: -5775631160578361837
+    second: Asset_Perkotaan-Photoroom_13
+  - first:
+      213: 5146667451622444479
+    second: Asset_Perkotaan-Photoroom_14
+  - first:
+      213: 1233226859703957745
+    second: Asset_Perkotaan-Photoroom_15
+  - first:
+      213: -8074047678924248019
+    second: Asset_Perkotaan-Photoroom_16
+  - first:
+      213: -6573196115608342686
+    second: Asset_Perkotaan-Photoroom_17
+  - first:
+      213: 4158973392653908245
+    second: Asset_Perkotaan-Photoroom_18
+  - first:
+      213: -391757580490078266
+    second: Asset_Perkotaan-Photoroom_19
+  - first:
+      213: -248777579406358786
+    second: Asset_Perkotaan-Photoroom_20
+  - first:
+      213: 6009303227656317302
+    second: Asset_Perkotaan-Photoroom_21
+  - first:
+      213: 883736529944794590
+    second: Asset_Perkotaan-Photoroom_22
+  - first:
+      213: -6571607377332285039
+    second: Asset_Perkotaan-Photoroom_23
+  - first:
+      213: -172871810704746808
+    second: Asset_Perkotaan-Photoroom_24
+  - first:
+      213: 369581950075213600
+    second: Asset_Perkotaan-Photoroom_25
+  - first:
+      213: -2197428012967110559
+    second: Asset_Perkotaan-Photoroom_26
+  - first:
+      213: -8149722987279114373
+    second: Asset_Perkotaan-Photoroom_27
+  - first:
+      213: 6305092077406372859
+    second: Asset_Perkotaan-Photoroom_28
+  - first:
+      213: 6397772386150067590
+    second: Asset_Perkotaan-Photoroom_29
+  - first:
+      213: -4370737562080231394
+    second: Asset_Perkotaan-Photoroom_30
+  - first:
+      213: -2970789307975423693
+    second: Asset_Perkotaan-Photoroom_31
+  - first:
+      213: -2430857504091972056
+    second: Asset_Perkotaan-Photoroom_32
+  - first:
+      213: 5310193390843109956
+    second: Asset_Perkotaan-Photoroom_33
+  - first:
+      213: 7632648208380105947
+    second: Asset_Perkotaan-Photoroom_34
+  - first:
+      213: 2851119576638321782
+    second: Asset_Perkotaan-Photoroom_35
+  - first:
+      213: 8135526078862040516
+    second: Asset_Perkotaan-Photoroom_36
+  - first:
+      213: -3019196212557598199
+    second: Asset_Perkotaan-Photoroom_37
+  - first:
+      213: 5903732122701236435
+    second: Asset_Perkotaan-Photoroom_38
+  - first:
+      213: -330795578389516068
+    second: Asset_Perkotaan-Photoroom_39
+  - first:
+      213: 1708346007016778185
+    second: Asset_Perkotaan-Photoroom_40
+  - first:
+      213: 4766817746565543324
+    second: Asset_Perkotaan-Photoroom_41
+  - first:
+      213: -5832864919728542779
+    second: Asset_Perkotaan-Photoroom_42
+  - first:
+      213: -2898609088859959735
+    second: Asset_Perkotaan-Photoroom_43
+  - first:
+      213: 4535172818377955337
+    second: Asset_Perkotaan-Photoroom_44
+  - first:
+      213: 1463527348906299947
+    second: Asset_Perkotaan-Photoroom_45
+  - first:
+      213: 961085902906944329
+    second: Asset_Perkotaan-Photoroom_46
+  - first:
+      213: 2847575009027873264
+    second: Asset_Perkotaan-Photoroom_47
+  - first:
+      213: -7062756267158630839
+    second: Asset_Perkotaan-Photoroom_48
+  - first:
+      213: 3531204331698364959
+    second: Asset_Perkotaan-Photoroom_49
+  - first:
+      213: 62693906402961715
+    second: Asset_Perkotaan-Photoroom_50
+  - first:
+      213: 4952999425699060992
+    second: Asset_Perkotaan-Photoroom_51
+  - first:
+      213: 6552483457678868527
+    second: Asset_Perkotaan-Photoroom_52
+  - first:
+      213: -1865817051690090162
+    second: Asset_Perkotaan-Photoroom_53
+  - first:
+      213: -3726629648539164177
+    second: Asset_Perkotaan-Photoroom_54
+  - first:
+      213: -5523980528486840263
+    second: Asset_Perkotaan-Photoroom_55
+  - first:
+      213: 495759258254522726
+    second: Asset_Perkotaan-Photoroom_56
+  - first:
+      213: -1073202044108528699
+    second: Asset_Perkotaan-Photoroom_57
+  - first:
+      213: 1213870105735424634
+    second: Asset_Perkotaan-Photoroom_58
+  - first:
+      213: 1499890493462462774
+    second: Asset_Perkotaan-Photoroom_59
+  - first:
+      213: 6046196146357363603
+    second: Asset_Perkotaan-Photoroom_60
+  - first:
+      213: 8257227190281882157
+    second: Asset_Perkotaan-Photoroom_61
+  - first:
+      213: -2513765147966154368
+    second: Asset_Perkotaan-Photoroom_62
+  - first:
+      213: 2574099264225047944
+    second: Asset_Perkotaan-Photoroom_63
+  - first:
+      213: 6665639176129456004
+    second: Asset_Perkotaan-Photoroom_64
+  - first:
+      213: -1410893696225726529
+    second: Asset_Perkotaan-Photoroom_65
+  - first:
+      213: 6018824394624505402
+    second: Asset_Perkotaan-Photoroom_66
+  - first:
+      213: 4027989540661179492
+    second: Asset_Perkotaan-Photoroom_67
+  - first:
+      213: 4846647448918411566
+    second: Asset_Perkotaan-Photoroom_68
+  - first:
+      213: 1701505033558203371
+    second: Asset_Perkotaan-Photoroom_69
+  - first:
+      213: 7290696152603967293
+    second: Asset_Perkotaan-Photoroom_70
+  - first:
+      213: 2332016169365831888
+    second: Asset_Perkotaan-Photoroom_71
+  - first:
+      213: -1180672676369256746
+    second: Asset_Perkotaan-Photoroom_72
+  - first:
+      213: -3919090199677039488
+    second: Asset_Perkotaan-Photoroom_73
+  - first:
+      213: 1680600081947424668
+    second: Asset_Perkotaan-Photoroom_74
+  - first:
+      213: -8379692117515523335
+    second: Asset_Perkotaan-Photoroom_75
+  - first:
+      213: 4043652538992574592
+    second: Asset_Perkotaan-Photoroom_76
+  - first:
+      213: -6781363549051492429
+    second: Asset_Perkotaan-Photoroom_77
+  - first:
+      213: -4889928325811661098
+    second: Asset_Perkotaan-Photoroom_78
+  - first:
+      213: 757352207699969564
+    second: Asset_Perkotaan-Photoroom_79
+  - first:
+      213: -311216570023243299
+    second: Asset_Perkotaan-Photoroom_80
+  - first:
+      213: -5096578887305831785
+    second: Asset_Perkotaan-Photoroom_81
+  - first:
+      213: 2281212534827962622
+    second: Asset_Perkotaan-Photoroom_82
+  - first:
+      213: 9063519953694054947
+    second: Asset_Perkotaan-Photoroom_83
+  - first:
+      213: -9045571666605392633
+    second: Asset_Perkotaan-Photoroom_84
+  - first:
+      213: -4439442085244619992
+    second: Asset_Perkotaan-Photoroom_85
+  - first:
+      213: 1828625675507411474
+    second: Asset_Perkotaan-Photoroom_86
+  - first:
+      213: -2951493948460084076
+    second: Asset_Perkotaan-Photoroom_87
+  - first:
+      213: -5031753426338414966
+    second: Asset_Perkotaan-Photoroom_88
+  - first:
+      213: 3418826096004642108
+    second: Asset_Perkotaan-Photoroom_89
+  - first:
+      213: 8867598505745911730
+    second: Asset_Perkotaan-Photoroom_90
+  - first:
+      213: 3773918925157478211
+    second: Asset_Perkotaan-Photoroom_91
+  - first:
+      213: 1725379926320928944
+    second: Asset_Perkotaan-Photoroom_92
+  - first:
+      213: 980882870210664110
+    second: Asset_Perkotaan-Photoroom_93
+  - first:
+      213: -4828104747051115088
+    second: Asset_Perkotaan-Photoroom_94
+  - first:
+      213: -3128628909275093395
+    second: Asset_Perkotaan-Photoroom_95
+  - first:
+      213: 2124538739086849536
+    second: Asset_Perkotaan-Photoroom_96
+  - first:
+      213: -1680053690062720332
+    second: Asset_Perkotaan-Photoroom_97
+  - first:
+      213: 159775873180683878
+    second: Asset_Perkotaan-Photoroom_98
+  - first:
+      213: 1546534344861881886
+    second: Asset_Perkotaan-Photoroom_99
+  - first:
+      213: 3820224907146347391
+    second: Asset_Perkotaan-Photoroom_100
+  - first:
+      213: -3057635529247122402
+    second: Asset_Perkotaan-Photoroom_101
+  - first:
+      213: -6322726465705599095
+    second: Asset_Perkotaan-Photoroom_102
+  - first:
+      213: -707754000917824875
+    second: Asset_Perkotaan-Photoroom_103
+  - first:
+      213: -7576328284760937876
+    second: Asset_Perkotaan-Photoroom_104
+  - first:
+      213: -5993832620018406824
+    second: Asset_Perkotaan-Photoroom_105
+  - first:
+      213: 4790719864435096615
+    second: Asset_Perkotaan-Photoroom_106
+  - first:
+      213: 2765810660147112354
+    second: Asset_Perkotaan-Photoroom_107
+  - first:
+      213: -5501651426510225868
+    second: Asset_Perkotaan-Photoroom_108
+  - first:
+      213: -9052634718573433564
+    second: Asset_Perkotaan-Photoroom_109
+  - first:
+      213: 2144441032310278813
+    second: Asset_Perkotaan-Photoroom_110
+  - first:
+      213: 910529457656271319
+    second: Asset_Perkotaan-Photoroom_111
+  - first:
+      213: 1803290741576246828
+    second: Asset_Perkotaan-Photoroom_112
+  - first:
+      213: 5511887157325484267
+    second: Asset_Perkotaan-Photoroom_113
+  - first:
+      213: -165484115812776488
+    second: Asset_Perkotaan-Photoroom_114
+  - first:
+      213: 5413798526332310809
+    second: Asset_Perkotaan-Photoroom_115
+  - first:
+      213: 6207017616170374515
+    second: Asset_Perkotaan-Photoroom_116
+  - first:
+      213: -3004563549211375060
+    second: Asset_Perkotaan-Photoroom_117
+  - first:
+      213: 6690858198176491568
+    second: Asset_Perkotaan-Photoroom_118
+  - first:
+      213: 2903238159508511827
+    second: Asset_Perkotaan-Photoroom_119
+  - first:
+      213: 1108327638852472436
+    second: Asset_Perkotaan-Photoroom_120
+  - first:
+      213: -1715998936782558903
+    second: Asset_Perkotaan-Photoroom_121
+  - first:
+      213: 1619219305166045061
+    second: Asset_Perkotaan-Photoroom_122
+  - first:
+      213: 6241123425613780553
+    second: Asset_Perkotaan-Photoroom_123
+  - first:
+      213: 1175891974557254755
+    second: Asset_Perkotaan-Photoroom_124
+  - first:
+      213: 4984450049519371117
+    second: Asset_Perkotaan-Photoroom_125
+  - first:
+      213: 4284872990462173512
+    second: Asset_Perkotaan-Photoroom_126
+  - first:
+      213: -5824362061827075750
+    second: Asset_Perkotaan-Photoroom_127
+  - first:
+      213: -3911538853244798450
+    second: Asset_Perkotaan-Photoroom_128
+  - first:
+      213: 3689903929408735068
+    second: Asset_Perkotaan-Photoroom_129
+  - first:
+      213: 6509774070518931605
+    second: Asset_Perkotaan-Photoroom_130
+  - first:
+      213: 5208843382187923837
+    second: Asset_Perkotaan-Photoroom_131
+  - first:
+      213: 1510401918819015373
+    second: Asset_Perkotaan-Photoroom_132
+  - first:
+      213: 1679128712835339871
+    second: Asset_Perkotaan-Photoroom_133
+  - first:
+      213: -890828996865605396
+    second: Asset_Perkotaan-Photoroom_134
+  - first:
+      213: 4159497032604663663
+    second: Asset_Perkotaan-Photoroom_135
+  - first:
+      213: 7459203455662804087
+    second: Asset_Perkotaan-Photoroom_136
+  - first:
+      213: 1438743214659194458
+    second: Asset_Perkotaan-Photoroom_137
+  - first:
+      213: 3405128373097963236
+    second: Asset_Perkotaan-Photoroom_138
+  - first:
+      213: 3972517307222050811
+    second: Asset_Perkotaan-Photoroom_139
+  - first:
+      213: 1019705019768362804
+    second: Asset_Perkotaan-Photoroom_140
+  - first:
+      213: -1265762787760890441
+    second: Asset_Perkotaan-Photoroom_141
+  - first:
+      213: -7636640062996033396
+    second: Asset_Perkotaan-Photoroom_142
+  - first:
+      213: -6916265149781300837
+    second: Asset_Perkotaan-Photoroom_143
+  - first:
+      213: 2803639610402820712
+    second: Asset_Perkotaan-Photoroom_144
+  - first:
+      213: -8461599610818878779
+    second: Asset_Perkotaan-Photoroom_145
+  - first:
+      213: -7399632839665978819
+    second: Asset_Perkotaan-Photoroom_146
+  - first:
+      213: 3624806013634997991
+    second: Asset_Perkotaan-Photoroom_147
+  - first:
+      213: -6675739688992340953
+    second: Asset_Perkotaan-Photoroom_148
+  - first:
+      213: 5608477394616865366
+    second: Asset_Perkotaan-Photoroom_149
+  - first:
+      213: -9017793305643273231
+    second: Asset_Perkotaan-Photoroom_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 249
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c289fc8623038ef20800000000000000
+      internalID: 3452062107444418604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1051
+        width: 228
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163568e7260a00fd0800000000000000
+      internalID: -2377724258361650335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1051
+        width: 245
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe314a00d5b42c0800000000000000
+      internalID: -4446357949764079771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 944
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245c7da0c3ee7ae40800000000000000
+      internalID: 5667760597716419906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 950
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184157e94ee009200800000000000000
+      internalID: 184663959795995777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 950
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad136f47f0dbe6ce0800000000000000
+      internalID: -1409981759235935782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 950
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa8bdc8b91b2c10800000000000000
+      internalID: 2029744338576650224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 950
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b6bcb1ef2fbc130800000000000000
+      internalID: 3588228701332663092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 950
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d321fa7532cded2a0800000000000000
+      internalID: -6710684350382403011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 951
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6ee10954e772a0800000000000000
+      internalID: -6739667246401032446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 967
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d2bd889e3030cf0800000000000000
+      internalID: -287381649663251109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 965
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab3dd1df49652b0800000000000000
+      internalID: -5596121672113210641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 931
+        width: 205
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f31b1e9903ff4da0800000000000000
+      internalID: -5958276559355046924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 948
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316bc006f06d8dfa0800000000000000
+      internalID: -5775631160578361837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 946
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd450f67c2ac6740800000000000000
+      internalID: 5146667451622444479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 960
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ff148b4d4d1110800000000000000
+      internalID: 1233226859703957745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 944
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c27260a6833ff80800000000000000
+      internalID: -8074047678924248019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 944
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fef2a85f057c4a0800000000000000
+      internalID: -6573196115608342686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 944
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519ff63f344a7b930800000000000000
+      internalID: 4158973392653908245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 944
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c782d06e82309af0800000000000000
+      internalID: -391757580490078266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 864
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6076f0c1a2c8cf0800000000000000
+      internalID: -248777579406358786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 864
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67920186275556350800000000000000
+      internalID: 6009303227656317302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 863
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5556611b9a34c00800000000000000
+      internalID: 883736529944794590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 864
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d5ce78e5fcc4a0800000000000000
+      internalID: -6571607377332285039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 864
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d34b0106d99df0800000000000000
+      internalID: -172871810704746808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 866
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02711a153d4012500800000000000000
+      internalID: 369581950075213600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 865
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685a9b5dda2181e0800000000000000
+      internalID: -2197428012967110559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 865
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f94654f1e56ee80800000000000000
+      internalID: -8149722987279114373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 865
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3cfeda6df208750800000000000000
+      internalID: 6305092077406372859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 865
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d274e961479c850800000000000000
+      internalID: 6397772386150067590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 865
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1040cd28550853c0800000000000000
+      internalID: -4370737562080231394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 865
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a8934dd2a5c6d0800000000000000
+      internalID: -2970789307975423693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 865
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5101bafbd34ed0800000000000000
+      internalID: -2430857504091972056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 865
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442a4dd11c891b940800000000000000
+      internalID: 5310193390843109956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 858
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd494042b1d9ce960800000000000000
+      internalID: 7632648208380105947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 862
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67470b92626319720800000000000000
+      internalID: 2851119576638321782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 865
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd9f776dd137e070800000000000000
+      internalID: 8135526078862040516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 853
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bc438a09a916d0800000000000000
+      internalID: -3019196212557598199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 853
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d88ba616154ee150800000000000000
+      internalID: 5903732122701236435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 853
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b2d09c27c86bf0800000000000000
+      internalID: -330795578389516068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 786
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c921b564a345b710800000000000000
+      internalID: 1708346007016778185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 786
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95311d1c73272240800000000000000
+      internalID: 4766817746565543324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 786
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2eb462408d0fa0800000000000000
+      internalID: -5832864919728542779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 786
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e88c3246216c7d0800000000000000
+      internalID: -2898609088859959735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 786
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908dc6266ab20fe30800000000000000
+      internalID: 4535172818377955337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 786
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2211a6ae5e7f4410800000000000000
+      internalID: 1463527348906299947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 786
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b67616986765d00800000000000000
+      internalID: 961085902906944329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 786
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d264326e948720800000000000000
+      internalID: 2847575009027873264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 786
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e88d8589c0cfd90800000000000000
+      internalID: -7062756267158630839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 702
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12a33c61ab510130800000000000000
+      internalID: 3531204331698364959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 704
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339eab496cbbed000800000000000000
+      internalID: 62693906402961715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 704
+        width: 50
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d918d4cb69cb440800000000000000
+      internalID: 4952999425699060992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 704
+        width: 50
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20829bfcf81fea50800000000000000
+      internalID: 6552483457678868527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 703
+        width: 70
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41452ae6494b16e0800000000000000
+      internalID: -1865817051690090162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 748
+        width: 25
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16265441a584cc0800000000000000
+      internalID: -3726629648539164177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 748
+        width: 23
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9380e550af0e653b0800000000000000
+      internalID: -5523980528486840263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 748
+        width: 24
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6693f523b6a41e600800000000000000
+      internalID: 495759258254522726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 748
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c320bc4d683b11f0800000000000000
+      internalID: -1073202044108528699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 748
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a63d70e6888d010800000000000000
+      internalID: 1213870105735424634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 748
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c0d0057ea0d410800000000000000
+      internalID: 1499890493462462774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 748
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39367f96c5768e350800000000000000
+      internalID: 6046196146357363603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 748
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac2728160979270800000000000000
+      internalID: 8257227190281882157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 705
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08958ba9aef4d1dd0800000000000000
+      internalID: -2513765147966154368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 704
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857ab484a909b320800000000000000
+      internalID: 2574099264225047944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 702
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487af1eb38b118c50800000000000000
+      internalID: 6665639176129456004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 701
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa0a498af7b6ce0800000000000000
+      internalID: -1410893696225726529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 701
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369c07d5e8278350800000000000000
+      internalID: 6018824394624505402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 703
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643912652b46e730800000000000000
+      internalID: 4027989540661179492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 692
+        width: 188
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c5581d20c24340800000000000000
+      internalID: 4846647448918411566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 651
+        width: 232
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb96c420d5fc9710800000000000000
+      internalID: 1701505033558203371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 650
+        width: 187
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3445e581cd2560800000000000000
+      internalID: 7290696152603967293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 536
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d08489b95cfc5020800000000000000
+      internalID: 2332016169365831888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 489
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de2001d4786d9fe0800000000000000
+      internalID: -1180672676369256746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 490
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c09854a389c99c0800000000000000
+      internalID: -3919090199677039488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 489
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97f7fdced0b25710800000000000000
+      internalID: 1680600081947424668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 490
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa858aa6a55bb80800000000000000
+      internalID: -8379692117515523335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 489
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08042cd5f80fd1830800000000000000
+      internalID: 4043652538992574592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 489
+        width: 176
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e00608c1c3e1a0800000000000000
+      internalID: -6781363549051492429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 539
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d610ea781c732cb0800000000000000
+      internalID: -4889928325811661098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 539
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1680ddf1d7a28a00800000000000000
+      internalID: 757352207699969564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 536
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd19c8fad265eabf0800000000000000
+      internalID: -311216570023243299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 479
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a516c31805549b0800000000000000
+      internalID: -5096578887305831785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 479
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d69bc6be78af10800000000000000
+      internalID: 2281212534827962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 478
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5996906718cd70800000000000000
+      internalID: 9063519953694054947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 479
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db5a5ae7ca77280800000000000000
+      internalID: -9045571666605392633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 479
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233314d1fee362c0800000000000000
+      internalID: -4439442085244619992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 302
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a27c70d55906910800000000000000
+      internalID: 1828625675507411474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 302
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494525d34ef2a07d0800000000000000
+      internalID: -2951493948460084076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 302
+        width: 162
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7eb90bee9b2ab0800000000000000
+      internalID: -5031753426338414966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 299
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c353139783c127f20800000000000000
+      internalID: 3418826096004642108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 304
+        width: 182
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf05c1cbd9001b70800000000000000
+      internalID: 8867598505745911730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 339
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa2217447af5430800000000000000
+      internalID: 3773918925157478211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 352
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d2fac6e7c1f710800000000000000
+      internalID: 1725379926320928944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 414
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61c2506cbcc9d00800000000000000
+      internalID: 980882870210664110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 415
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd14ad10502ffcb0800000000000000
+      internalID: -4828104747051115088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 415
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e3ac4590e494d0800000000000000
+      internalID: -3128628909275093395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 403
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f3d61ab0eb7d10800000000000000
+      internalID: 2124538739086849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 413
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23a38f1104fa8e0800000000000000
+      internalID: -1680053690062720332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 414
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ecc946f43a73200800000000000000
+      internalID: 159775873180683878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 302
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161f62fac4667510800000000000000
+      internalID: 1546534344861881886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 350
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ce88005a240530800000000000000
+      internalID: 3820224907146347391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 350
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9c9aafa81195d0800000000000000
+      internalID: -3057635529247122402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 353
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f18a757c92148a0800000000000000
+      internalID: -6322726465705599095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 349
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a7eea6c7d8d26f0800000000000000
+      internalID: -707754000917824875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 302
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a641de0997bd690800000000000000
+      internalID: -7576328284760937876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 308
+        width: 153
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a67a02df0a1dca0800000000000000
+      internalID: -5993832620018406824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 249
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cbf0a955e0c7240800000000000000
+      internalID: 4790719864435096615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 249
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ae0a3422226620800000000000000
+      internalID: 2765810660147112354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 249
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e36d43d2536a3b0800000000000000
+      internalID: -5501651426510225868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 249
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42def06bfa49e5280800000000000000
+      internalID: -9052634718573433564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 210
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a40a4d1c592cd10800000000000000
+      internalID: 2144441032310278813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 210
+        width: 173
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19121b7b9d2ac00800000000000000
+      internalID: 910529457656271319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 207
+        width: 191
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26276e0063960910800000000000000
+      internalID: 1803290741576246828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 184
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be05c669a282e7c40800000000000000
+      internalID: 5511887157325484267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 184
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5820dc21514bdf0800000000000000
+      internalID: -165484115812776488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 185
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915129f731da12b40800000000000000
+      internalID: 5413798526332310809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 185
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755d6eb2a1c32650800000000000000
+      internalID: 6207017616170374515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 92
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a4b20fe55ad46d0800000000000000
+      internalID: -3004563549211375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038e1d0e414badc50800000000000000
+      internalID: 6690858198176491568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 125
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1ddb59bf5a4820800000000000000
+      internalID: 2903238159508511827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e8c888d12916f00800000000000000
+      internalID: 1108327638852472436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 6
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a02a0f0c8f28e0800000000000000
+      internalID: -1715998936782558903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 133
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f70e9016f987610800000000000000
+      internalID: 1619219305166045061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 133
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946141f40bcec9650800000000000000
+      internalID: 6241123425613780553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 134
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364c7bd458b915010800000000000000
+      internalID: 1175891974557254755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 134
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c74a49e25c2540800000000000000
+      internalID: 4984450049519371117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 135
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e928584de67b30800000000000000
+      internalID: 4284872990462173512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 143
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5119854095bb2fa0800000000000000
+      internalID: -5824362061827075750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 130
+        width: 194
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a743f132c67b9c0800000000000000
+      internalID: -3911538853244798450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 117
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c9b7e21c253330800000000000000
+      internalID: 3689903929408735068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 119
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906451e60d575a50800000000000000
+      internalID: 6509774070518931605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 121
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7994fd5577894840800000000000000
+      internalID: 5208843382187923837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 121
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca964fea8606f410800000000000000
+      internalID: 1510401918819015373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 120
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5695bcfaa67d4710800000000000000
+      internalID: 1679128712835339871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 122
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce045364fb323a3f0800000000000000
+      internalID: -890828996865605396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f31b0638089b930800000000000000
+      internalID: 4159497032604663663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 34
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc52ab50a648760800000000000000
+      internalID: 7459203455662804087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec3c8b45177f310800000000000000
+      internalID: 1438743214659194458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 37
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9b15d632714f20800000000000000
+      internalID: 3405128373097963236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 39
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7cf019177312730800000000000000
+      internalID: 3972517307222050811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 46
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d9f61058b62e00800000000000000
+      internalID: 1019705019768362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 54
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd9a99637b1f6ee0800000000000000
+      internalID: -1265762787760890441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 54
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80da97c254350690800000000000000
+      internalID: -7636640062996033396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 59
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992fde7d7d7400a0800000000000000
+      internalID: -6916265149781300837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 56
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86256401f5788e620800000000000000
+      internalID: 2803639610402820712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 46
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ae854cfb529a80800000000000000
+      internalID: -8461599610818878779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 45
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f46323293f4990800000000000000
+      internalID: -7399632839665978819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 37
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee9664dd5ed4230800000000000000
+      internalID: 3624806013634997991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 34
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72482a85f120b53a0800000000000000
+      internalID: -6675739688992340953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 38
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65252f4b97055dd40800000000000000
+      internalID: 5608477394616865366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Perkotaan-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3bc3f44cc5ad280800000000000000
+      internalID: -9017793305643273231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asset_Perkotaan-Photoroom_0: 3452062107444418604
+      Asset_Perkotaan-Photoroom_1: -2377724258361650335
+      Asset_Perkotaan-Photoroom_10: -287381649663251109
+      Asset_Perkotaan-Photoroom_100: 3820224907146347391
+      Asset_Perkotaan-Photoroom_101: -3057635529247122402
+      Asset_Perkotaan-Photoroom_102: -6322726465705599095
+      Asset_Perkotaan-Photoroom_103: -707754000917824875
+      Asset_Perkotaan-Photoroom_104: -7576328284760937876
+      Asset_Perkotaan-Photoroom_105: -5993832620018406824
+      Asset_Perkotaan-Photoroom_106: 4790719864435096615
+      Asset_Perkotaan-Photoroom_107: 2765810660147112354
+      Asset_Perkotaan-Photoroom_108: -5501651426510225868
+      Asset_Perkotaan-Photoroom_109: -9052634718573433564
+      Asset_Perkotaan-Photoroom_11: -5596121672113210641
+      Asset_Perkotaan-Photoroom_110: 2144441032310278813
+      Asset_Perkotaan-Photoroom_111: 910529457656271319
+      Asset_Perkotaan-Photoroom_112: 1803290741576246828
+      Asset_Perkotaan-Photoroom_113: 5511887157325484267
+      Asset_Perkotaan-Photoroom_114: -165484115812776488
+      Asset_Perkotaan-Photoroom_115: 5413798526332310809
+      Asset_Perkotaan-Photoroom_116: 6207017616170374515
+      Asset_Perkotaan-Photoroom_117: -3004563549211375060
+      Asset_Perkotaan-Photoroom_118: 6690858198176491568
+      Asset_Perkotaan-Photoroom_119: 2903238159508511827
+      Asset_Perkotaan-Photoroom_12: -5958276559355046924
+      Asset_Perkotaan-Photoroom_120: 1108327638852472436
+      Asset_Perkotaan-Photoroom_121: -1715998936782558903
+      Asset_Perkotaan-Photoroom_122: 1619219305166045061
+      Asset_Perkotaan-Photoroom_123: 6241123425613780553
+      Asset_Perkotaan-Photoroom_124: 1175891974557254755
+      Asset_Perkotaan-Photoroom_125: 4984450049519371117
+      Asset_Perkotaan-Photoroom_126: 4284872990462173512
+      Asset_Perkotaan-Photoroom_127: -5824362061827075750
+      Asset_Perkotaan-Photoroom_128: -3911538853244798450
+      Asset_Perkotaan-Photoroom_129: 3689903929408735068
+      Asset_Perkotaan-Photoroom_13: -5775631160578361837
+      Asset_Perkotaan-Photoroom_130: 6509774070518931605
+      Asset_Perkotaan-Photoroom_131: 5208843382187923837
+      Asset_Perkotaan-Photoroom_132: 1510401918819015373
+      Asset_Perkotaan-Photoroom_133: 1679128712835339871
+      Asset_Perkotaan-Photoroom_134: -890828996865605396
+      Asset_Perkotaan-Photoroom_135: 4159497032604663663
+      Asset_Perkotaan-Photoroom_136: 7459203455662804087
+      Asset_Perkotaan-Photoroom_137: 1438743214659194458
+      Asset_Perkotaan-Photoroom_138: 3405128373097963236
+      Asset_Perkotaan-Photoroom_139: 3972517307222050811
+      Asset_Perkotaan-Photoroom_14: 5146667451622444479
+      Asset_Perkotaan-Photoroom_140: 1019705019768362804
+      Asset_Perkotaan-Photoroom_141: -1265762787760890441
+      Asset_Perkotaan-Photoroom_142: -7636640062996033396
+      Asset_Perkotaan-Photoroom_143: -6916265149781300837
+      Asset_Perkotaan-Photoroom_144: 2803639610402820712
+      Asset_Perkotaan-Photoroom_145: -8461599610818878779
+      Asset_Perkotaan-Photoroom_146: -7399632839665978819
+      Asset_Perkotaan-Photoroom_147: 3624806013634997991
+      Asset_Perkotaan-Photoroom_148: -6675739688992340953
+      Asset_Perkotaan-Photoroom_149: 5608477394616865366
+      Asset_Perkotaan-Photoroom_15: 1233226859703957745
+      Asset_Perkotaan-Photoroom_150: -9017793305643273231
+      Asset_Perkotaan-Photoroom_16: -8074047678924248019
+      Asset_Perkotaan-Photoroom_17: -6573196115608342686
+      Asset_Perkotaan-Photoroom_18: 4158973392653908245
+      Asset_Perkotaan-Photoroom_19: -391757580490078266
+      Asset_Perkotaan-Photoroom_2: -4446357949764079771
+      Asset_Perkotaan-Photoroom_20: -248777579406358786
+      Asset_Perkotaan-Photoroom_21: 6009303227656317302
+      Asset_Perkotaan-Photoroom_22: 883736529944794590
+      Asset_Perkotaan-Photoroom_23: -6571607377332285039
+      Asset_Perkotaan-Photoroom_24: -172871810704746808
+      Asset_Perkotaan-Photoroom_25: 369581950075213600
+      Asset_Perkotaan-Photoroom_26: -2197428012967110559
+      Asset_Perkotaan-Photoroom_27: -8149722987279114373
+      Asset_Perkotaan-Photoroom_28: 6305092077406372859
+      Asset_Perkotaan-Photoroom_29: 6397772386150067590
+      Asset_Perkotaan-Photoroom_3: 5667760597716419906
+      Asset_Perkotaan-Photoroom_30: -4370737562080231394
+      Asset_Perkotaan-Photoroom_31: -2970789307975423693
+      Asset_Perkotaan-Photoroom_32: -2430857504091972056
+      Asset_Perkotaan-Photoroom_33: 5310193390843109956
+      Asset_Perkotaan-Photoroom_34: 7632648208380105947
+      Asset_Perkotaan-Photoroom_35: 2851119576638321782
+      Asset_Perkotaan-Photoroom_36: 8135526078862040516
+      Asset_Perkotaan-Photoroom_37: -3019196212557598199
+      Asset_Perkotaan-Photoroom_38: 5903732122701236435
+      Asset_Perkotaan-Photoroom_39: -330795578389516068
+      Asset_Perkotaan-Photoroom_4: 184663959795995777
+      Asset_Perkotaan-Photoroom_40: 1708346007016778185
+      Asset_Perkotaan-Photoroom_41: 4766817746565543324
+      Asset_Perkotaan-Photoroom_42: -5832864919728542779
+      Asset_Perkotaan-Photoroom_43: -2898609088859959735
+      Asset_Perkotaan-Photoroom_44: 4535172818377955337
+      Asset_Perkotaan-Photoroom_45: 1463527348906299947
+      Asset_Perkotaan-Photoroom_46: 961085902906944329
+      Asset_Perkotaan-Photoroom_47: 2847575009027873264
+      Asset_Perkotaan-Photoroom_48: -7062756267158630839
+      Asset_Perkotaan-Photoroom_49: 3531204331698364959
+      Asset_Perkotaan-Photoroom_5: -1409981759235935782
+      Asset_Perkotaan-Photoroom_50: 62693906402961715
+      Asset_Perkotaan-Photoroom_51: 4952999425699060992
+      Asset_Perkotaan-Photoroom_52: 6552483457678868527
+      Asset_Perkotaan-Photoroom_53: -1865817051690090162
+      Asset_Perkotaan-Photoroom_54: -3726629648539164177
+      Asset_Perkotaan-Photoroom_55: -5523980528486840263
+      Asset_Perkotaan-Photoroom_56: 495759258254522726
+      Asset_Perkotaan-Photoroom_57: -1073202044108528699
+      Asset_Perkotaan-Photoroom_58: 1213870105735424634
+      Asset_Perkotaan-Photoroom_59: 1499890493462462774
+      Asset_Perkotaan-Photoroom_6: 2029744338576650224
+      Asset_Perkotaan-Photoroom_60: 6046196146357363603
+      Asset_Perkotaan-Photoroom_61: 8257227190281882157
+      Asset_Perkotaan-Photoroom_62: -2513765147966154368
+      Asset_Perkotaan-Photoroom_63: 2574099264225047944
+      Asset_Perkotaan-Photoroom_64: 6665639176129456004
+      Asset_Perkotaan-Photoroom_65: -1410893696225726529
+      Asset_Perkotaan-Photoroom_66: 6018824394624505402
+      Asset_Perkotaan-Photoroom_67: 4027989540661179492
+      Asset_Perkotaan-Photoroom_68: 4846647448918411566
+      Asset_Perkotaan-Photoroom_69: 1701505033558203371
+      Asset_Perkotaan-Photoroom_7: 3588228701332663092
+      Asset_Perkotaan-Photoroom_70: 7290696152603967293
+      Asset_Perkotaan-Photoroom_71: 2332016169365831888
+      Asset_Perkotaan-Photoroom_72: -1180672676369256746
+      Asset_Perkotaan-Photoroom_73: -3919090199677039488
+      Asset_Perkotaan-Photoroom_74: 1680600081947424668
+      Asset_Perkotaan-Photoroom_75: -8379692117515523335
+      Asset_Perkotaan-Photoroom_76: 4043652538992574592
+      Asset_Perkotaan-Photoroom_77: -6781363549051492429
+      Asset_Perkotaan-Photoroom_78: -4889928325811661098
+      Asset_Perkotaan-Photoroom_79: 757352207699969564
+      Asset_Perkotaan-Photoroom_8: -6710684350382403011
+      Asset_Perkotaan-Photoroom_80: -311216570023243299
+      Asset_Perkotaan-Photoroom_81: -5096578887305831785
+      Asset_Perkotaan-Photoroom_82: 2281212534827962622
+      Asset_Perkotaan-Photoroom_83: 9063519953694054947
+      Asset_Perkotaan-Photoroom_84: -9045571666605392633
+      Asset_Perkotaan-Photoroom_85: -4439442085244619992
+      Asset_Perkotaan-Photoroom_86: 1828625675507411474
+      Asset_Perkotaan-Photoroom_87: -2951493948460084076
+      Asset_Perkotaan-Photoroom_88: -5031753426338414966
+      Asset_Perkotaan-Photoroom_89: 3418826096004642108
+      Asset_Perkotaan-Photoroom_9: -6739667246401032446
+      Asset_Perkotaan-Photoroom_90: 8867598505745911730
+      Asset_Perkotaan-Photoroom_91: 3773918925157478211
+      Asset_Perkotaan-Photoroom_92: 1725379926320928944
+      Asset_Perkotaan-Photoroom_93: 980882870210664110
+      Asset_Perkotaan-Photoroom_94: -4828104747051115088
+      Asset_Perkotaan-Photoroom_95: -3128628909275093395
+      Asset_Perkotaan-Photoroom_96: 2124538739086849536
+      Asset_Perkotaan-Photoroom_97: -1680053690062720332
+      Asset_Perkotaan-Photoroom_98: 159775873180683878
+      Asset_Perkotaan-Photoroom_99: 1546534344861881886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
