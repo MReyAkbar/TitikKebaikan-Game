@@ -79,8 +79,9 @@ public abstract class NPCBase : MonoBehaviour, IInteractable
 
     protected void ShowDialog(string text)
     {
-        // Kirim ke DialogManager jika ada, atau log sementara
-        if (DialogManager.Instance != null)
+        if (DialogBox.Instance != null)
+            DialogBox.Instance.Show(npcName, text);
+        else if (DialogManager.Instance != null)
             DialogManager.Instance.ShowDialog(npcName, text);
         else
             Debug.Log($"[{npcName}]: {text}");
@@ -90,12 +91,14 @@ public abstract class NPCBase : MonoBehaviour, IInteractable
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("TRIGGER MASUK");
         if (other.CompareTag("Player"))
             promptUI?.SetActive(true);
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
+        Debug.Log("TRIGGER KELUAR");
         if (other.CompareTag("Player"))
             promptUI?.SetActive(false);
     }

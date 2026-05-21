@@ -220,7 +220,13 @@ public class GameHUD : MonoBehaviour
 
     public void ShowEndScreen()
     {
-        endScreenPanel?.SetActive(true);
+        if (endScreenPanel == null)
+        {
+            Debug.LogWarning("[GameHUD] End Screen Panel belum di-assign.");
+            return;
+        }
+
+        endScreenPanel.SetActive(true);
 
         PlayerStats stats = FindFirstObjectByType<PlayerStats>();
         if (stats == null) return;
