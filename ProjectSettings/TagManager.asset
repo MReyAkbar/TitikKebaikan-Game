@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - NPC
-  - Market
-  - Trash
-  - Vehicle
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -15,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - Ground
-  - NPC
-  - Vehicle
-  - Obstacle
+  - GROUND
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -56,15 +52,6 @@ TagManager:
     locked: 0
   - name: Characters
     uniqueID: 3405810641
-    locked: 0
-  - name: WalkBehind
-    uniqueID: 617107127
-    locked: 0
-  - name: Decor
-    uniqueID: 1763864433
-    locked: 0
-  - name: UI
-    uniqueID: 2006795779
     locked: 0
   m_RenderingLayers:
   - Default
