@@ -44,6 +44,20 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    public void StartGame(string sceneName)
+    {
+        if (!string.IsNullOrWhiteSpace(sceneName))
+            gameScene = sceneName;
+
+        StartGame();
+    }
+
+    public void StartGameInCurrentScene()
+    {
+        SetState(GameState.Playing);
+        Time.timeScale = 1f;
+    }
+
     public void PauseGame()
     {
         if (currentState != GameState.Playing) return;
