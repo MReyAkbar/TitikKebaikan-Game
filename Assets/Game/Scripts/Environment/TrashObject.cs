@@ -13,6 +13,7 @@ public class TrashObject : MonoBehaviour
 
     [Header("Interaction")]
     public float interactRadius = 1.2f;
+    [SerializeField] private bool requireActiveMission = true;
 
     [Header("Trash Info")]
     [SerializeField] private string trashType = "Sampah Plastik";
@@ -96,7 +97,7 @@ public class TrashObject : MonoBehaviour
 
     private bool CanPickupTrash()
     {
-        return pakRT == null || pakRT.IsMissionActive;
+        return !requireActiveMission || (pakRT != null && pakRT.IsMissionActive);
     }
 
     private void OnDrawGizmosSelected()

@@ -4235,6 +4235,7 @@ MonoBehaviour:
   promptUI: {fileID: 1345085482}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &153505806
 CircleCollider2D:
@@ -6044,6 +6045,7 @@ MonoBehaviour:
   promptUI: {fileID: 959634801}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &380190391
 CircleCollider2D:
@@ -6695,6 +6697,66 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &456387492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 456387494}
+  - component: {fileID: 456387493}
+  m_Layer: 0
+  m_Name: AmbientAudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &456387493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456387492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c7e515fe67ed5e4396f878712d15456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AmbientAudioManager
+  musicSource: {fileID: 0}
+  gameBackgroundMusic: {fileID: 8300000, guid: 3a049a59590458d47afb6c7b5425346d, type: 3}
+  musicVolume: 0.4
+  musicFadeInDuration: 2
+  ambienceSource: {fileID: 0}
+  ambienceLoop: {fileID: 8300000, guid: 5a9c607bda608de43b25ae9536e35057, type: 3}
+  ambienceVolume: 0.2
+  playOnStart: 1
+  fadeInDuration: 1.5
+  trafficSource: {fileID: 0}
+  randomTrafficClips: []
+  randomDelayRange: {x: 6, y: 14}
+  randomTrafficVolume: 0.35
+  randomPitchRange: {x: 0.95, y: 1.05}
+  lowerVolumeWhenPaused: 1
+  pausedVolumeMultiplier: 0.35
+--- !u!4 &456387494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456387492}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.04639, y: 0.82494, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &467280655
 GameObject:
   m_ObjectHideFlags: 0
@@ -7899,6 +7961,7 @@ MonoBehaviour:
   promptUI: {fileID: 598200143}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &629118850
 CircleCollider2D:
@@ -11840,6 +11903,7 @@ MonoBehaviour:
   promptUI: {fileID: 1622053743}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &980099448
 CircleCollider2D:
@@ -12003,6 +12067,7 @@ MonoBehaviour:
   promptUI: {fileID: 1312045267}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1026311448
 CircleCollider2D:
@@ -25236,6 +25301,7 @@ MonoBehaviour:
   promptUI: {fileID: 362387804}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1316612683
 CircleCollider2D:
@@ -27672,6 +27738,7 @@ MonoBehaviour:
   promptUI: {fileID: 1230326338}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1458648782
 CircleCollider2D:
@@ -28439,6 +28506,7 @@ MonoBehaviour:
   promptUI: {fileID: 1030540018}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1577615435
 CircleCollider2D:
@@ -30059,6 +30127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NenekNPC
   promptUI: {fileID: 641725671}
+  chatIcon: {fileID: 0}
   marketDestination: {fileID: 1966692331}
   followSpeed: 2.5
   followDistance: 1.5
@@ -31028,6 +31097,7 @@ MonoBehaviour:
   promptUI: {fileID: 1313010265}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1833857895
 CircleCollider2D:
@@ -31207,6 +31277,7 @@ MonoBehaviour:
   promptUI: {fileID: 1581792892}
   pakRT: {fileID: 1711795915}
   interactRadius: 1.2
+  requireActiveMission: 1
   trashType: Sampah Plastik
 --- !u!58 &1850730682
 CircleCollider2D:
@@ -32957,3 +33028,4 @@ SceneRoots:
   - {fileID: 1157084823}
   - {fileID: 420716605}
   - {fileID: 1584090145}
+  - {fileID: 456387494}
