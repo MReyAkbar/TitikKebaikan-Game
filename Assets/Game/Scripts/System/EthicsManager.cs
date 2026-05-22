@@ -37,7 +37,14 @@ public class EthicsManager : MonoBehaviour
         OnPointsChanged?.Invoke(ethicsPoints);
 
         if (actualDelta != 0)
+        {
+            if (actualDelta > 0)
+                SFXManager.Instance?.PlayPointGain();
+            else
+                SFXManager.Instance?.PlayPointLose();
+
             OnPointsDeltaChanged?.Invoke(actualDelta, reason);
+        }
     }
 
     public int GetPoints() => ethicsPoints;

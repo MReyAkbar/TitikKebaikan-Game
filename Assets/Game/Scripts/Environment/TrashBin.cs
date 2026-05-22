@@ -71,11 +71,13 @@ public class TrashBin : MonoBehaviour
         int count = stats.CurrentTrash;
         if (count == 0)
         {
+            SFXManager.Instance?.PlayActionFailed();
             GameHUD.Instance?.ShowFloatingText("Kamu tidak membawa sampah.", transform.position);
             return;
         }
 
         playerController.DropAllTrash();
+        SFXManager.Instance?.PlayTrashDump();
         Debug.Log($"[TrashBin] {count} sampah dibuang.");
 
         if (pakRT != null && pakRT.IsMissionActive)

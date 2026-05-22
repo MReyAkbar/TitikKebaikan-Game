@@ -41,6 +41,7 @@ public class DialogBox : MonoBehaviour
     /// </summary>
     public void Show(string speaker, string message, System.Action onConfirmCallback = null)
     {
+        SFXManager.Instance?.PlayDialogOpen();
         speakerText.text = speaker;
         dialogText.text  = message;
         onConfirm        = onConfirmCallback;
@@ -53,6 +54,7 @@ public class DialogBox : MonoBehaviour
 
     public void Hide()
     {
+        SFXManager.Instance?.PlayDialogClose();
         dialogPanel.SetActive(false);
         Time.timeScale = 1f; // resume game
     }

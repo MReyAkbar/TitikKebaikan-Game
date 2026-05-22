@@ -59,6 +59,8 @@ public class MissionManager : MonoBehaviour
         missions[type] = MissionStatus.Completed;
         OnMissionCompleted?.Invoke(type);
         GameHUD.Instance?.UpdateMissionStatus(type, MissionStatus.Completed);
+        SFXManager.Instance?.PlayMissionComplete();
+        PointPopupManager.Instance?.ShowMissionCompleteFeedback(type);
         Debug.Log($"[MissionManager] Misi selesai: {type}");
 
         CheckAllMissionsComplete();
@@ -70,6 +72,7 @@ public class MissionManager : MonoBehaviour
         OnMissionFailed?.Invoke(type, reason);
         GameHUD.Instance?.UpdateMissionStatus(type, MissionStatus.Failed);
         GameHUD.Instance?.ShowNotification($"Misi Gagal: {reason}");
+        SFXManager.Instance?.PlayMissionFail();
         Debug.Log($"[MissionManager] Misi gagal: {type} - {reason}");
     }
 

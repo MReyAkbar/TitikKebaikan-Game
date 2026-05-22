@@ -142,6 +142,8 @@ public class PlayerStats : MonoBehaviour
             currentTier = newTier;
             Debug.Log($"[PlayerStats] Tier naik ke: {currentTier}! Speed x{SpeedMultiplier}");
             OnTierChanged?.Invoke(currentTier);
+            SFXManager.Instance?.PlayReputationUp();
+            PointPopupManager.Instance?.ShowTierUpFeedback(currentTier);
         }
     }
 

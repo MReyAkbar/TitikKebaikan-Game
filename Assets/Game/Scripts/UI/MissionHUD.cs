@@ -16,6 +16,11 @@ public class MissionHUD : MonoBehaviour
     public TextMeshProUGUI trashText;
     public TextMeshProUGUI reputationText;
 
+    [Header("Reputation Colors")]
+    [SerializeField] private Color jelekColor = new Color(1f, 0.25f, 0.2f);
+    [SerializeField] private Color lumayanColor = new Color(1f, 0.82f, 0.2f);
+    [SerializeField] private Color bagusColor = new Color(0.25f, 0.9f, 0.35f);
+
     private bool isEthicsSubscribed = false;
     private bool isPlayerStatsSubscribed = false;
     private PlayerStats playerStats;
@@ -100,6 +105,19 @@ public class MissionHUD : MonoBehaviour
     public void UpdateReputationUI(PlayerStats.ReputationTier tier)
     {
         if (reputationText != null)
+        {
             reputationText.text = $"Reputasi: {tier}";
+            reputationText.color = GetReputationColor(tier);
+        }
+    }
+
+    private Color GetReputationColor(PlayerStats.ReputationTier tier)
+    {
+        return tier switch
+        {
+            PlayerStats.ReputationTier.Lumayan => lumayanColor,
+            PlayerStats.ReputationTier.Bagus => bagusColor,
+            _ => jelekColor,
+        };
     }
 }

@@ -27,6 +27,7 @@ public class TrafficLight : MonoBehaviour
 
     private LightState currentState;
     private float timer;
+    private bool hasInitializedState;
 
     public LightState State => currentState;
     public bool IsGreenLight => currentState == LightState.Green;
@@ -60,6 +61,7 @@ public class TrafficLight : MonoBehaviour
 
     private void SetState(LightState state)
     {
+        LightState previousState = currentState;
         currentState = state;
         timer = state switch
         {
@@ -70,6 +72,11 @@ public class TrafficLight : MonoBehaviour
         };
 
         UpdateVisual();
+
+        if (hasInitializedState && previousState != currentState)
+            SFXManager.Instance?.PlayTrafficLightChange();
+
+        hasInitializedState = true;
     }
 
     private void UpdateVisual()

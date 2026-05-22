@@ -160,6 +160,7 @@ public class VehicleController : MonoBehaviour
         if (nenek != null)
         {
             Debug.Log("[Vehicle] Menabrak Nenek!");
+            SFXManager.Instance?.PlayVehicleHit();
             nenek.OnHitByVehicle();
             return;
         }
@@ -167,6 +168,7 @@ public class VehicleController : MonoBehaviour
         if (!other.CompareTag("Player")) return;
 
         Debug.Log("[Vehicle] Menabrak pemain!");
+        SFXManager.Instance?.PlayVehicleHit();
         EthicsManager.Instance?.AddPoints(-playerHitPenalty, "Tertabrak kendaraan");
         CheckpointManager.Instance?.RespawnPlayer(other.GetComponent<PlayerController>());
     }

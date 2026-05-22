@@ -84,10 +84,12 @@ public class TrashObject : MonoBehaviour
         bool picked = playerController.TryPickupTrash(this);
         if (!picked)
         {
+            SFXManager.Instance?.PlayActionFailed();
             GameHUD.Instance?.ShowFloatingText("Kapasitas penuh!", transform.position);
             return;
         }
 
+        SFXManager.Instance?.PlayTrashPickup();
         Debug.Log($"[Trash] Dipungut: {trashType}");
         gameObject.SetActive(false);
     }
