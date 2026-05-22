@@ -11,6 +11,7 @@ public class NenekNPC : MonoBehaviour
 
     [Header("Referensi")]
     public GameObject promptUI;
+    public GameObject chatIcon;
     public Transform marketDestination;
 
     [Header("Follow Settings")]
@@ -61,6 +62,8 @@ public class NenekNPC : MonoBehaviour
 
         if (promptUI != null)
             promptUI.SetActive(false);
+
+        UpdateChatIcon();
     }
 
     private void Start()
@@ -131,6 +134,8 @@ public class NenekNPC : MonoBehaviour
         if (promptUI != null)
             promptUI.SetActive(false);
 
+        UpdateChatIcon();
+
         if (DialogBox.Instance != null)
             DialogBox.Instance.Show("Nenek", dialogAwal, StartMission);
         else
@@ -160,6 +165,7 @@ public class NenekNPC : MonoBehaviour
     {
         State = MissionState.Active;
         MissionManager.Instance?.StartMission(MissionType.EscortNenek, this);
+        UpdateChatIcon();
 
         Debug.Log("[Nenek] Misi dimulai - mengantar Nenek ke pasar.");
 
@@ -173,6 +179,7 @@ public class NenekNPC : MonoBehaviour
 
         State = MissionState.Completed;
         StopMovement();
+        UpdateChatIcon();
 
         if (EthicsManager.Instance != null)
             EthicsManager.Instance.AddPoints(pointsOnComplete, "Berhasil mengantar Nenek ke pasar");
@@ -192,6 +199,7 @@ public class NenekNPC : MonoBehaviour
 
         State = MissionState.Idle;
         StopMovement();
+        UpdateChatIcon();
 
         if (rb != null)
             rb.position = startPosition;
@@ -206,6 +214,14 @@ public class NenekNPC : MonoBehaviour
 
         if (DialogBox.Instance != null)
             DialogBox.Instance.Show("Petunjuk Sistem", "Nenek tertabrak kendaraan. Bantu Nenek lagi dari awal.");
+    }
+
+    private void UpdateChatIcon()
+    {
+        if (chatIcon == null) return;
+
+        bool canStartInteraction = State == MissionState.Idle || State == MissionState.Talking;
+        chatIcon.SetActive(canStartInteraction);
     }
 
     private void FollowPlayer()
