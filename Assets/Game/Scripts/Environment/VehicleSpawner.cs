@@ -67,9 +67,11 @@ public class VehicleSpawner : MonoBehaviour
         VehicleController vc = vehicle.GetComponent<VehicleController>();
         if (vc != null)
         {
-            TrafficStopLine selectedStopLine = SelectStopLine(spawnPos);
-            if (selectedStopLine != null)
-                vc.SetStopLine(selectedStopLine);
+            TrafficStopLine[] validStopLines = GetValidStopLines();
+            if (validStopLines.Length > 0)
+                vc.SetStopLines(validStopLines);
+            else if (stopLine != null)
+                vc.SetStopLine(stopLine);
 
             vc.SetMoveDirection(spawnDirection);
             vc.SetSpawnPoint(spawnPos);
@@ -139,35 +141,19 @@ public class VehicleSpawner : MonoBehaviour
         nextSpawnTime = Time.time + Random.Range(spawnIntervalMin, spawnIntervalMax);
     }
 
-    private TrafficStopLine SelectStopLine(Vector3 spawnPosition)
+    private TrafficStopLine[] GetValidStopLines()
     {
         if (stopLines == null || stopLines.Length == 0)
-            return stopLine;
+            return System.Array.Empty<TrafficStopLine>();
 
-        Vector2 direction = spawnDirection.sqrMagnitude > 0.001f
-            ? spawnDirection.normalized
-            : Vector2.right;
-
-        TrafficStopLine nearestStopLine = null;
-        float nearestDistance = float.MaxValue;
-
+        List<TrafficStopLine> validStopLines = new List<TrafficStopLine>();
         foreach (TrafficStopLine candidate in stopLines)
         {
-            if (candidate == null) continue;
-
-            Vector2 toCandidate = candidate.transform.position - spawnPosition;
-            float forwardDistance = Vector2.Dot(toCandidate, direction);
-
-            if (forwardDistance < 0f) continue;
-
-            if (forwardDistance < nearestDistance)
-            {
-                nearestDistance = forwardDistance;
-                nearestStopLine = candidate;
-            }
+            if (candidate != null)
+                validStopLines.Add(candidate);
         }
 
-        return nearestStopLine != null ? nearestStopLine : stopLine;
+        return validStopLines.ToArray();
     }
 
     private void OnDrawGizmos()

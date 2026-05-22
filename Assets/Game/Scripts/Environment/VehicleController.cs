@@ -15,6 +15,7 @@ public class VehicleController : MonoBehaviour
 
     [Header("Traffic")]
     [SerializeField] private TrafficStopLine assignedStopLine;
+    [SerializeField] private TrafficStopLine[] assignedStopLines;
 
     [Header("Car Following")]
     [SerializeField] private bool avoidVehiclesAhead = true;
@@ -41,20 +42,28 @@ public class VehicleController : MonoBehaviour
 
     private void Start()
     {
-        targetStopLine = assignedStopLine != null ? assignedStopLine : FindNextStopLine();
+        targetStopLine = FindNextStopLine();
     }
 
     public void SetStopLine(TrafficStopLine stopLine)
     {
         assignedStopLine = stopLine;
+        assignedStopLines = null;
         targetStopLine = stopLine;
+    }
+
+    public void SetStopLines(TrafficStopLine[] stopLines)
+    {
+        assignedStopLines = stopLines;
+        assignedStopLine = null;
+        targetStopLine = FindNextStopLine();
     }
 
     public void SetMoveDirection(Vector2 direction)
     {
         if (direction == Vector2.zero) return;
         moveDirection = direction.normalized;
-        targetStopLine = assignedStopLine != null ? assignedStopLine : FindNextStopLine();
+        targetStopLine = FindNextStopLine();
     }
 
     public void SetSpawnPoint(Vector2 position)
@@ -65,8 +74,9 @@ public class VehicleController : MonoBehaviour
     private void FixedUpdate()
     {
         if (rb == null) return;
-        if (targetStopLine == null)
-            targetStopLine = assignedStopLine != null ? assignedStopLine : FindNextStopLine();
+
+        if (targetStopLine == null || HasPassedTargetStopLine())
+            targetStopLine = FindNextStopLine();
 
         if (ShouldStopAtLine())
         {
@@ -97,6 +107,16 @@ public class VehicleController : MonoBehaviour
         float forwardDistance = Vector2.Dot(toStopLine, moveDirection.normalized);
 
         return forwardDistance >= -passedStopLineTolerance && forwardDistance <= stopDistance;
+    }
+
+    private bool HasPassedTargetStopLine()
+    {
+        if (targetStopLine == null) return false;
+
+        Vector2 toStopLine = (Vector2)targetStopLine.transform.position - rb.position;
+        float forwardDistance = Vector2.Dot(toStopLine, moveDirection.normalized);
+
+        return forwardDistance < -passedStopLineTolerance;
     }
 
     private float GetSafeSpeed()
@@ -133,7 +153,7 @@ public class VehicleController : MonoBehaviour
 
     private TrafficStopLine FindNextStopLine()
     {
-        TrafficStopLine[] stopLines = FindObjectsByType<TrafficStopLine>(FindObjectsSortMode.None);
+        TrafficStopLine[] stopLines = GetAvailableStopLines();
         TrafficStopLine nearest = null;
         float nearestForwardDistance = float.MaxValue;
         Vector2 direction = moveDirection.normalized;
@@ -152,6 +172,17 @@ public class VehicleController : MonoBehaviour
         }
 
         return nearest;
+    }
+
+    private TrafficStopLine[] GetAvailableStopLines()
+    {
+        if (assignedStopLines != null && assignedStopLines.Length > 0)
+            return assignedStopLines;
+
+        if (assignedStopLine != null)
+            return new[] { assignedStopLine };
+
+        return FindObjectsByType<TrafficStopLine>(FindObjectsSortMode.None);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
