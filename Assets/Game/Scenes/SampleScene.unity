@@ -4814,20 +4814,20 @@ MonoBehaviour:
   masterVolume: 1
   randomizePitch: 1
   pitchRange: {x: 0.96, y: 1.04}
-  interactClip: {fileID: 0}
-  dialogOpenClip: {fileID: 0}
-  dialogCloseClip: {fileID: 0}
-  buttonClickClip: {fileID: 0}
-  trashPickupClip: {fileID: 0}
-  trashDumpClip: {fileID: 0}
+  interactClip: {fileID: 8300000, guid: 6f60e3b425a8556479b3163875f9ff2b, type: 3}
+  dialogOpenClip: {fileID: 8300000, guid: 8dc9f96837799464f90d1a51d4a3d98a, type: 3}
+  dialogCloseClip: {fileID: 8300000, guid: 8dc9f96837799464f90d1a51d4a3d98a, type: 3}
+  buttonClickClip: {fileID: 8300000, guid: 6f60e3b425a8556479b3163875f9ff2b, type: 3}
+  trashPickupClip: {fileID: 8300000, guid: 49eb7ffa7b10a7e4e9c93b51fce1b1c6, type: 3}
+  trashDumpClip: {fileID: 8300000, guid: 49eb7ffa7b10a7e4e9c93b51fce1b1c6, type: 3}
   actionFailedClip: {fileID: 0}
-  pointGainClip: {fileID: 0}
-  pointLoseClip: {fileID: 0}
-  reputationUpClip: {fileID: 0}
-  missionCompleteClip: {fileID: 0}
-  missionFailClip: {fileID: 0}
+  pointGainClip: {fileID: 8300000, guid: 546f9599663b3fd47a2156a748088b1e, type: 3}
+  pointLoseClip: {fileID: 8300000, guid: e6c4378719b3d3b47ac2c2a3167e30cd, type: 3}
+  reputationUpClip: {fileID: 8300000, guid: 526e08778cc52544fb924c2c7c604f9e, type: 3}
+  missionCompleteClip: {fileID: 8300000, guid: 526e08778cc52544fb924c2c7c604f9e, type: 3}
+  missionFailClip: {fileID: 8300000, guid: 9b088c348fdc7de4ea04ca3fa7c933cf, type: 3}
   trafficLightChangeClip: {fileID: 0}
-  vehicleHitClip: {fileID: 0}
+  vehicleHitClip: {fileID: 8300000, guid: 11f50ab551e47cd429a3b0ea496294b6, type: 3}
 --- !u!82 &192400561
 AudioSource:
   m_ObjectHideFlags: 0
@@ -8730,8 +8730,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 41, y: 342.5}
-  m_SizeDelta: {x: -1010.2245, y: -929}
+  m_AnchoredPosition: {x: 0.000019073, y: 320}
+  m_SizeDelta: {x: -1012.3894, y: -879}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816999615
 MonoBehaviour:
@@ -23954,7 +23954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10.937012, y: -264.73914}
+  m_AnchoredPosition: {x: 0, y: -342}
   m_SizeDelta: {x: -54.126, y: -728.3682}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1270924631
