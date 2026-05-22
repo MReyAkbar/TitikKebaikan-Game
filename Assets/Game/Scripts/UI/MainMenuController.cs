@@ -36,7 +36,7 @@ public class MainMenuController : MonoBehaviour
         if (freezeGameplayWhileMenuOpen)
             Time.timeScale = 0f;
 
-        SelectFirstButton();
+        ClearSelection();
     }
 
     public void StartGame()
@@ -72,7 +72,7 @@ public class MainMenuController : MonoBehaviour
     public void HideHowTo()
     {
         SetHowToVisible(false);
-        SelectFirstButton();
+        ClearSelection();
     }
 
     public void QuitGame()
@@ -123,5 +123,12 @@ public class MainMenuController : MonoBehaviour
 
         EventSystem.current.SetSelectedGameObject(null);
         EventSystem.current.SetSelectedGameObject(firstSelectedButton);
+    }
+
+    private void ClearSelection()
+    {
+        if (EventSystem.current == null) return;
+
+        EventSystem.current.SetSelectedGameObject(null);
     }
 }
