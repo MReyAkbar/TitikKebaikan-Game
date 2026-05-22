@@ -37,6 +37,8 @@ public class NPCPakRT : MonoBehaviour
 
     public bool IsMissionActive => State == MissionState.Active;
     public bool IsMissionCompleted => State == MissionState.Completed;
+    public int RequiredTrashCount => requiredTrashCount;
+    public int TrashDelivered => trashDelivered;
 
     private void Awake()
     {

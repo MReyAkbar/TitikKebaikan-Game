@@ -114,7 +114,12 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (currentState == GameState.Playing)  PauseGame();
+            if (currentState == GameState.MainMenu && SceneManager.GetActiveScene().name != mainMenuScene)
+            {
+                StartGameInCurrentScene();
+                PauseGame();
+            }
+            else if (currentState == GameState.Playing)  PauseGame();
             else if (currentState == GameState.Paused) ResumeGame();
         }
     }
