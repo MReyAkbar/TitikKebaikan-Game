@@ -1,2 +1,455 @@
 fileFormatVersion: 2
-guid: 02f554fdc6eae2147b8444e15db82181
+guid: aab2b93ee0729c540bec324c9728767f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2654475618956075287
+    second: npc.pekerjakantoran_0
+  - first:
+      213: 2079262104034819766
+    second: npc.pekerjakantoran_1
+  - first:
+      213: 1650879659859304611
+    second: npc.pekerjakantoran_2
+  - first:
+      213: -4583499681427695511
+    second: npc.pekerjakantoran_3
+  - first:
+      213: -4738126986771929013
+    second: npc.pekerjakantoran_4
+  - first:
+      213: 5654252874503537391
+    second: npc.pekerjakantoran_5
+  - first:
+      213: -8154512692364474079
+    second: npc.pekerjakantoran_6
+  - first:
+      213: -5986128676927405055
+    second: npc.pekerjakantoran_7
+  - first:
+      213: 1982302985264309329
+    second: npc.pekerjakantoran_8
+  - first:
+      213: 812297526832342060
+    second: npc.pekerjakantoran_9
+  - first:
+      213: 5390311306828918240
+    second: npc.pekerjakantoran_10
+  - first:
+      213: 8840489776084625247
+    second: npc.pekerjakantoran_11
+  - first:
+      213: -5238086908134484065
+    second: npc.pekerjakantoran_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 342
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee10331d78692bd0800000000000000
+      internalID: -2654475618956075287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 649
+        width: 203
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be3de10ed50bdc10800000000000000
+      internalID: 2079262104034819766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 341
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e4dccd4a19e610800000000000000
+      internalID: 1650879659859304611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 915
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d26cf2532460c0800000000000000
+      internalID: -4583499681427695511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_4
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1
+        width: 455
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4864c4fb9ace3eb0800000000000000
+      internalID: -4738126986771929013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 344
+        width: 149
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c3072801f77e40800000000000000
+      internalID: 5654252874503537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 296
+        width: 241
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129833729e955de80800000000000000
+      internalID: -8154512692364474079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 368
+        width: 152
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10486f72faffceca0800000000000000
+      internalID: -5986128676927405055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_8
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 365
+        width: 149
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15420e9ff0e828b10800000000000000
+      internalID: 1982302985264309329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 32
+        width: 163
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2425c20c4cd54b00800000000000000
+      internalID: 812297526832342060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 195
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2f40139b3eca40800000000000000
+      internalID: 5390311306828918240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 45
+        width: 160
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572ff7cc9abfaa70800000000000000
+      internalID: 8840489776084625247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc.pekerjakantoran_12
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 45
+        width: 147
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97150aa5b39e47b0800000000000000
+      internalID: -5238086908134484065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc.pekerjakantoran_0: -2654475618956075287
+      npc.pekerjakantoran_1: 2079262104034819766
+      npc.pekerjakantoran_10: 5390311306828918240
+      npc.pekerjakantoran_11: 8840489776084625247
+      npc.pekerjakantoran_12: -5238086908134484065
+      npc.pekerjakantoran_2: 1650879659859304611
+      npc.pekerjakantoran_3: -4583499681427695511
+      npc.pekerjakantoran_4: -4738126986771929013
+      npc.pekerjakantoran_5: 5654252874503537391
+      npc.pekerjakantoran_6: -8154512692364474079
+      npc.pekerjakantoran_7: -5986128676927405055
+      npc.pekerjakantoran_8: 1982302985264309329
+      npc.pekerjakantoran_9: 812297526832342060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
