@@ -6,7 +6,6 @@ using UnityEngine.InputSystem;
 /// Mendukung WASD / Arrow Keys sesuai GDD Titik Kebaikan.
 /// </summary>
 [RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement Settings")]
@@ -16,9 +15,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float interactRadius = 1f;
     [SerializeField] private LayerMask interactableLayer;
 
+    [Header("Animation")]
+    [SerializeField] private Animator animator;
+
     // Komponen
     private Rigidbody2D rb;
-    private Animator animator;
     private PlayerStats stats;
 
     // State
@@ -29,19 +30,28 @@ public class PlayerController : MonoBehaviour
     // Animator parameter hashes (lebih efisien dari string)
     private static readonly int AnimMoveX    = Animator.StringToHash("MoveX");
     private static readonly int AnimMoveY    = Animator.StringToHash("MoveY");
-    private static readonly int AnimSpeed    = Animator.StringToHash("Speed");
-    private static readonly int AnimCarrying = Animator.StringToHash("IsCarrying");
+    private static readonly int AnimLastInputX = Animator.StringToHash("LastInputX");
+    private static readonly int AnimLastInputY = Animator.StringToHash("LastInputY");
+    private static readonly int AnimIsWalking = Animator.StringToHash("IsWalking");
 
     // ─── Unity Lifecycle ────────────────────────────────────────────────────
 
     private void Awake()
     {
         rb    = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+        if (animator == null)
+            animator = FindAnimator();
+
+        if (animator != null && animator.runtimeAnimatorController == null)
+            animator = FindAnimator();
+
         stats = GetComponent<PlayerStats>();
 
         if (stats == null)
             Debug.LogError("[PlayerController] PlayerStats tidak ditemukan pada GameObject ini!");
+
+        if (animator == null)
+            Debug.LogError("[PlayerController] Animator tidak ditemukan pada Player atau child-nya!");
     }
 
     private void Update()
@@ -93,12 +103,27 @@ public class PlayerController : MonoBehaviour
 
     private void UpdateAnimator()
     {
-        Vector2 dir = moveInput != Vector2.zero ? moveInput : lastMoveDir;
+        if (animator == null) return;
 
-        animator.SetFloat(AnimMoveX, dir.x);
-        animator.SetFloat(AnimMoveY, dir.y);
-        animator.SetFloat(AnimSpeed, moveInput.magnitude);
-        animator.SetBool(AnimCarrying, isCarryingNPC);
+        bool isWalking = moveInput.sqrMagnitude > 0.001f;
+
+        animator.SetFloat(AnimMoveX, moveInput.x);
+        animator.SetFloat(AnimMoveY, moveInput.y);
+        animator.SetFloat(AnimLastInputX, lastMoveDir.x);
+        animator.SetFloat(AnimLastInputY, lastMoveDir.y);
+        animator.SetBool(AnimIsWalking, isWalking);
+    }
+
+    private Animator FindAnimator()
+    {
+        Animator[] animators = GetComponentsInChildren<Animator>();
+        foreach (Animator candidate in animators)
+        {
+            if (candidate != null && candidate.runtimeAnimatorController != null)
+                return candidate;
+        }
+
+        return animators.Length > 0 ? animators[0] : null;
     }
 
     // ─── Interaksi ───────────────────────────────────────────────────────────
