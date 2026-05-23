@@ -21,11 +21,16 @@ public class TrashObject : MonoBehaviour
     private Transform playerTransform;
     private PlayerController playerController;
     private bool playerInRange;
+    private SimpleFloatEffect[] floatEffects;
+    private bool floatEffectsActive;
 
     public string TrashType => trashType;
 
     private void Awake()
     {
+        floatEffects = GetComponentsInChildren<SimpleFloatEffect>(true);
+        SetFloatEffectsActive(!requireActiveMission, true);
+
         if (promptUI != null)
             promptUI.SetActive(false);
     }
@@ -46,6 +51,7 @@ public class TrashObject : MonoBehaviour
 
     private void Update()
     {
+        UpdateFloatEffects();
         CheckPlayerProximity();
     }
 
@@ -97,7 +103,29 @@ public class TrashObject : MonoBehaviour
 
     private bool CanPickupTrash()
     {
+        if (requireActiveMission && pakRT == null)
+            pakRT = FindFirstObjectByType<NPCPakRT>();
+
         return !requireActiveMission || (pakRT != null && pakRT.IsMissionActive);
+    }
+
+    private void UpdateFloatEffects()
+    {
+        SetFloatEffectsActive(CanPickupTrash());
+    }
+
+    private void SetFloatEffectsActive(bool active, bool force = false)
+    {
+        if (!force && floatEffectsActive == active) return;
+        floatEffectsActive = active;
+
+        if (floatEffects == null) return;
+
+        foreach (SimpleFloatEffect floatEffect in floatEffects)
+        {
+            if (floatEffect != null)
+                floatEffect.SetFloating(active);
+        }
     }
 
     private void OnDrawGizmosSelected()

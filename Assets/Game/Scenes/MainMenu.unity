@@ -7080,16 +7080,17 @@ MonoBehaviour:
   tierLumayanColor: {r: 1, g: 0.82, b: 0.2, a: 1}
   tierBagusColor: {r: 0.25, g: 1, b: 0.35, a: 1}
   missionCompleteColor: {r: 0.35, g: 0.9, b: 1, a: 1}
+  useAssignedTierNotificationPanel: 1
   tierNotificationPanel: {fileID: 816999613}
   tierNotificationHeaderText: {fileID: 70161646}
   tierNotificationMessageText: {fileID: 467280657}
   tierNotificationCanvasGroup: {fileID: 0}
   tierNotificationHeader: Petunjuk Sistem
-  notificationDuration: 4
+  notificationDuration: 5
   notificationSize: {x: 520, y: 92}
   notificationAnchoredPosition: {x: 0, y: -72}
   notificationBackgroundColor: {r: 0.06, g: 0.07, b: 0.08, a: 0.88}
-  notificationHeaderColor: {r: 0.85, g: 0.95, b: 1, a: 1}
+  notificationHeaderColor: {r: 0.09433961, g: 0.09433961, b: 0.09433961, a: 1}
   notificationHeaderFontSize: 20
   notificationMessageFontSize: 28
 --- !u!4 &509012223
@@ -9105,8 +9106,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 320}
-  m_SizeDelta: {x: -1012.3894, y: -879}
+  m_AnchoredPosition: {x: 0, y: 404}
+  m_SizeDelta: {x: -1108.8262, y: -839.5485}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816999615
 MonoBehaviour:
@@ -9121,15 +9122,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.60784316}
-  m_RaycastTarget: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 344493925647947354, guid: 35b23a869cb557640a74f05a260d7a1b, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4

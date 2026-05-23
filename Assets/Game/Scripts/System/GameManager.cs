@@ -12,11 +12,28 @@ public class GameManager : MonoBehaviour
 
     public static GameManager Instance { get; private set; }
 
+    [Header("Lifetime")]
+    [SerializeField] private bool persistAcrossScenes;
+
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        DontDestroyOnLoad(gameObject);
+
+        if (persistAcrossScenes)
+            DontDestroyOnLoad(gameObject);
+    }
+
+    private void Start()
+    {
+        if (currentState == GameState.MainMenu && SceneManager.GetActiveScene().name != mainMenuScene)
+            SetState(GameState.Playing);
+    }
+
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
     }
 
     // ─── State ───────────────────────────────────────────────────────────────

@@ -55,6 +55,8 @@ public class GameHUD : MonoBehaviour
     [Header("Pause Menu")]
     [SerializeField] private GameObject pauseMenuPanel;
 
+    private bool tierDisplayInitialized;
+
     // ─── Singleton ───────────────────────────────────────────────────────────
 
     private void Awake()
@@ -110,8 +112,14 @@ public class GameHUD : MonoBehaviour
         if (tierIcon != null && tierSprites != null && (int)tier < tierSprites.Length)
             tierIcon.sprite = tierSprites[(int)tier];
 
-        // Flash animasi naik tier
-        ShowNotification($"Reputasi naik! Kamu sekarang: {tier}");
+        if (!tierDisplayInitialized)
+        {
+            tierDisplayInitialized = true;
+            return;
+        }
+
+        if (tier != PlayerStats.ReputationTier.Jelek)
+            ShowNotification($"Reputasi naik! Kamu sekarang: {tier}");
     }
 
     // ─── Timer ───────────────────────────────────────────────────────────────

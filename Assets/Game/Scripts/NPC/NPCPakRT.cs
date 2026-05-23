@@ -12,6 +12,7 @@ public class NPCPakRT : MonoBehaviour
 
     [Header("Referensi")]
     public GameObject promptUI;
+    public GameObject chatIcon;
 
     [Header("Interaction")]
     public float interactRadius = 1.8f;
@@ -44,6 +45,8 @@ public class NPCPakRT : MonoBehaviour
     {
         if (promptUI != null)
             promptUI.SetActive(false);
+
+        UpdateChatIcon();
     }
 
     private void Start()
@@ -67,7 +70,11 @@ public class NPCPakRT : MonoBehaviour
     private void CheckPlayerProximity()
     {
         if (playerTransform == null) return;
-        if (State == MissionState.Completed) return;
+        if (State == MissionState.Completed)
+        {
+            HideInteractionUI();
+            return;
+        }
 
         float dist = Vector2.Distance(transform.position, playerTransform.position);
         bool inRange = dist <= interactRadius;
@@ -109,6 +116,8 @@ public class NPCPakRT : MonoBehaviour
         if (promptUI != null)
             promptUI.SetActive(false);
 
+        UpdateChatIcon();
+
         string message = $"{dialogAwal}\n\nTarget: {requiredTrashCount} sampah.";
 
         if (DialogBox.Instance != null)
@@ -142,6 +151,7 @@ public class NPCPakRT : MonoBehaviour
     {
         State = MissionState.Active;
         trashDelivered = 0;
+        UpdateChatIcon();
 
         MissionManager.Instance?.StartMission(MissionType.CleanEnvironment, this);
         MissionHUD.Instance?.SetPakRTMissionText($"Kumpulkan sampah {trashDelivered}/{requiredTrashCount}");
@@ -174,6 +184,7 @@ public class NPCPakRT : MonoBehaviour
         if (State != MissionState.Active) return;
 
         State = MissionState.ReadyToReport;
+        UpdateChatIcon();
         MissionHUD.Instance?.SetPakRTMissionText("Lapor kembali");
 
         Debug.Log("[Pak RT] Semua sampah sudah dibuang. Menunggu laporan pemain.");
@@ -193,9 +204,7 @@ public class NPCPakRT : MonoBehaviour
         if (State == MissionState.Completed) return;
 
         State = MissionState.Completed;
-
-        if (promptUI != null)
-            promptUI.SetActive(false);
+        HideInteractionUI();
 
         EthicsManager.Instance?.AddPoints(completionBonus, "Misi Pak RT selesai");
 
@@ -204,6 +213,25 @@ public class NPCPakRT : MonoBehaviour
 
         Debug.Log("[Pak RT] Misi kebersihan selesai!");
         ShowCompletionDialog();
+    }
+
+    private void UpdateChatIcon()
+    {
+        if (chatIcon == null) return;
+
+        bool canInteract = State != MissionState.Completed;
+        chatIcon.SetActive(canInteract);
+    }
+
+    private void HideInteractionUI()
+    {
+        playerInRange = false;
+
+        if (promptUI != null)
+            promptUI.SetActive(false);
+
+        if (chatIcon != null)
+            chatIcon.SetActive(false);
     }
 
     private void OnDrawGizmosSelected()

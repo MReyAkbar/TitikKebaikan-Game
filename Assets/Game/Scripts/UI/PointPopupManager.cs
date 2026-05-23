@@ -1,6 +1,7 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 /// <summary>
@@ -35,6 +36,7 @@ public class PointPopupManager : MonoBehaviour
     [SerializeField] private Color missionCompleteColor = new Color(0.35f, 0.9f, 1f, 1f);
 
     [Header("Tier Notification UI")]
+    [SerializeField] private bool useAssignedTierNotificationPanel = true;
     [SerializeField] private GameObject tierNotificationPanel;
     [SerializeField] private TextMeshProUGUI tierNotificationHeaderText;
     [SerializeField] private TextMeshProUGUI tierNotificationMessageText;
@@ -54,11 +56,15 @@ public class PointPopupManager : MonoBehaviour
 
     private void Awake()
     {
+        HideTierNotificationImmediate();
+
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
+    }
 
-        if (tierNotificationPanel != null)
-            tierNotificationPanel.SetActive(false);
+    private void OnEnable()
+    {
+        HideTierNotificationImmediate();
     }
 
     private void Update()
@@ -79,6 +85,20 @@ public class PointPopupManager : MonoBehaviour
 
         if (EthicsManager.Instance != null)
             EthicsManager.Instance.OnPointsDeltaChanged -= ShowPointPopup;
+    }
+
+    public static PointPopupManager GetActiveSceneInstance()
+    {
+        string activeSceneName = SceneManager.GetActiveScene().name;
+        PointPopupManager[] managers = FindObjectsByType<PointPopupManager>(FindObjectsSortMode.None);
+
+        foreach (PointPopupManager manager in managers)
+        {
+            if (manager != null && manager.gameObject.scene.name == activeSceneName)
+                return manager;
+        }
+
+        return Instance;
     }
 
     public void ShowTierUpFeedback(PlayerStats.ReputationTier tier)
@@ -115,13 +135,33 @@ public class PointPopupManager : MonoBehaviour
         notificationCoroutine = StartCoroutine(ShowTierNotificationRoutine(message, messageColor));
     }
 
+    private void HideTierNotificationImmediate()
+    {
+        if (tierNotificationCanvasGroup == null && tierNotificationPanel != null)
+            tierNotificationCanvasGroup = tierNotificationPanel.GetComponent<CanvasGroup>();
+
+        if (tierNotificationCanvasGroup != null)
+        {
+            tierNotificationCanvasGroup.alpha = 0f;
+            tierNotificationCanvasGroup.interactable = false;
+            tierNotificationCanvasGroup.blocksRaycasts = false;
+        }
+
+        if (tierNotificationPanel != null)
+            tierNotificationPanel.SetActive(false);
+    }
+
     private IEnumerator ShowTierNotificationRoutine(string message, Color messageColor)
     {
-        GameObject notification = tierNotificationPanel != null
+        bool useAssignedPanel = useAssignedTierNotificationPanel && tierNotificationPanel != null;
+        if (!useAssignedPanel)
+            HideTierNotificationImmediate();
+
+        GameObject notification = useAssignedPanel
             ? SetupAssignedNotification(message, messageColor)
             : CreateNotificationObject(message, messageColor);
 
-        CanvasGroup canvasGroup = tierNotificationPanel != null
+        CanvasGroup canvasGroup = useAssignedPanel
             ? tierNotificationCanvasGroup
             : notification.GetComponent<CanvasGroup>();
 
@@ -137,7 +177,7 @@ public class PointPopupManager : MonoBehaviour
             yield return null;
         }
 
-        if (tierNotificationPanel != null)
+        if (useAssignedPanel)
             tierNotificationPanel.SetActive(false);
         else
             Destroy(notification);

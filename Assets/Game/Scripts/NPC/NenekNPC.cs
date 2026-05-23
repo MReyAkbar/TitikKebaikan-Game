@@ -20,6 +20,13 @@ public class NenekNPC : MonoBehaviour
     public float interactRadius = 1.8f;
     public LayerMask blockingLayers;
 
+    [Header("Anti Stuck")]
+    public bool enableStuckEscape = true;
+    public float stuckDurationBeforeEscape = 1.25f;
+    public float escapeClearanceRadius = 0.25f;
+    public float escapePlayerDistance = 1.4f;
+    public float maxEscapeDistanceFromPlayer = 7f;
+
     [Header("Poin")]
     public int pointsOnComplete = 50;
     public int pointsPenaltyOnHit = 10;
@@ -35,6 +42,7 @@ public class NenekNPC : MonoBehaviour
     private SpriteRenderer sr;
     private bool playerInRange;
     private Vector2 startPosition;
+    private float stuckTimer;
     private readonly RaycastHit2D[] castHits = new RaycastHit2D[4];
     private ContactFilter2D movementFilter;
 
@@ -95,7 +103,11 @@ public class NenekNPC : MonoBehaviour
     private void CheckPlayerProximity()
     {
         if (playerTransform == null) return;
-        if (State == MissionState.Completed) return;
+        if (State == MissionState.Completed)
+        {
+            HideInteractionUI();
+            return;
+        }
         if (State == MissionState.Active) return;
 
         float dist = Vector2.Distance(transform.position, playerTransform.position);
@@ -166,6 +178,7 @@ public class NenekNPC : MonoBehaviour
         State = MissionState.Active;
         MissionManager.Instance?.StartMission(MissionType.EscortNenek, this);
         UpdateChatIcon();
+        CameraFocusCue.Instance?.ShowTarget(marketDestination);
 
         Debug.Log("[Nenek] Misi dimulai - mengantar Nenek ke pasar.");
 
@@ -179,7 +192,7 @@ public class NenekNPC : MonoBehaviour
 
         State = MissionState.Completed;
         StopMovement();
-        UpdateChatIcon();
+        HideInteractionUI();
 
         if (EthicsManager.Instance != null)
             EthicsManager.Instance.AddPoints(pointsOnComplete, "Berhasil mengantar Nenek ke pasar");
@@ -224,6 +237,17 @@ public class NenekNPC : MonoBehaviour
         chatIcon.SetActive(canStartInteraction);
     }
 
+    private void HideInteractionUI()
+    {
+        playerInRange = false;
+
+        if (promptUI != null)
+            promptUI.SetActive(false);
+
+        if (chatIcon != null)
+            chatIcon.SetActive(false);
+    }
+
     private void FollowPlayer()
     {
         if (playerTransform == null || rb == null) return;
@@ -232,28 +256,32 @@ public class NenekNPC : MonoBehaviour
         if (dist <= followDistance)
         {
             StopMovement();
+            ResetStuckTimer();
             return;
         }
 
         Vector2 direction = ((Vector2)playerTransform.position - rb.position).normalized;
         float moveDistance = followSpeed * Time.fixedDeltaTime;
 
-        MoveWithCollision(direction, moveDistance);
+        bool moved = MoveWithCollision(direction, moveDistance);
+        UpdateStuckEscape(dist, moved);
 
         if (sr != null && direction.sqrMagnitude > 0.1f)
             sr.flipX = direction.x < 0f;
     }
 
-    private void MoveWithCollision(Vector2 direction, float moveDistance)
+    private bool MoveWithCollision(Vector2 direction, float moveDistance)
     {
-        if (TryMove(direction, moveDistance)) return;
+        if (TryMove(direction, moveDistance)) return true;
 
         Vector2 slideX = new Vector2(direction.x, 0f).normalized;
-        if (slideX != Vector2.zero && TryMove(slideX, moveDistance)) return;
+        if (slideX != Vector2.zero && TryMove(slideX, moveDistance)) return true;
 
         Vector2 slideY = new Vector2(0f, direction.y).normalized;
         if (slideY != Vector2.zero)
-            TryMove(slideY, moveDistance);
+            return TryMove(slideY, moveDistance);
+
+        return false;
     }
 
     private bool TryMove(Vector2 direction, float moveDistance)
@@ -263,6 +291,77 @@ public class NenekNPC : MonoBehaviour
 
         rb.MovePosition(rb.position + direction * moveDistance);
         return true;
+    }
+
+    private void UpdateStuckEscape(float distanceToPlayer, bool moved)
+    {
+        if (!enableStuckEscape)
+        {
+            ResetStuckTimer();
+            return;
+        }
+
+        if (moved)
+        {
+            ResetStuckTimer();
+            return;
+        }
+
+        stuckTimer += Time.fixedDeltaTime;
+        bool tooFarFromPlayer = distanceToPlayer >= maxEscapeDistanceFromPlayer;
+        bool stuckLongEnough = stuckTimer >= stuckDurationBeforeEscape;
+
+        if (!stuckLongEnough && !tooFarFromPlayer) return;
+
+        if (TryEscapeNearPlayer())
+            ResetStuckTimer();
+    }
+
+    private bool TryEscapeNearPlayer()
+    {
+        if (playerTransform == null || rb == null) return false;
+
+        Vector2 playerPosition = playerTransform.position;
+        Vector2 fromPlayerToNenek = (rb.position - playerPosition).normalized;
+        if (fromPlayerToNenek == Vector2.zero)
+            fromPlayerToNenek = Vector2.down;
+
+        Vector2[] directions =
+        {
+            fromPlayerToNenek,
+            Vector2.down,
+            Vector2.up,
+            Vector2.left,
+            Vector2.right,
+            new Vector2(-1f, -1f).normalized,
+            new Vector2(1f, -1f).normalized,
+            new Vector2(-1f, 1f).normalized,
+            new Vector2(1f, 1f).normalized
+        };
+
+        foreach (Vector2 direction in directions)
+        {
+            Vector2 candidate = playerPosition + direction * escapePlayerDistance;
+            if (IsEscapePositionClear(candidate))
+            {
+                rb.position = candidate;
+                rb.linearVelocity = Vector2.zero;
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private bool IsEscapePositionClear(Vector2 position)
+    {
+        Collider2D hit = Physics2D.OverlapCircle(position, escapeClearanceRadius, blockingLayers);
+        return hit == null;
+    }
+
+    private void ResetStuckTimer()
+    {
+        stuckTimer = 0f;
     }
 
     private void StopMovement()
@@ -284,5 +383,8 @@ public class NenekNPC : MonoBehaviour
 
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, followDistance);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, escapeClearanceRadius);
     }
 }

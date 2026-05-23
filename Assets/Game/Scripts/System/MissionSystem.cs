@@ -60,7 +60,7 @@ public class MissionManager : MonoBehaviour
         OnMissionCompleted?.Invoke(type);
         GameHUD.Instance?.UpdateMissionStatus(type, MissionStatus.Completed);
         SFXManager.Instance?.PlayMissionComplete();
-        PointPopupManager.Instance?.ShowMissionCompleteFeedback(type);
+        PointPopupManager.GetActiveSceneInstance()?.ShowMissionCompleteFeedback(type);
         Debug.Log($"[MissionManager] Misi selesai: {type}");
 
         CheckAllMissionsComplete();
