@@ -58,6 +58,9 @@ public class MissionHUD : MonoBehaviour
 
     private void OnDestroy()
     {
+        if (Instance == this)
+            Instance = null;
+
         if (EthicsManager.Instance != null)
             EthicsManager.Instance.OnPointsChanged -= UpdatePointsUI;
 

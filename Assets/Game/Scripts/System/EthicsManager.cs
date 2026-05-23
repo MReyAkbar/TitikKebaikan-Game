@@ -25,6 +25,12 @@ public class EthicsManager : MonoBehaviour
         Instance = this;
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     public void AddPoints(int amount, string reason = "")
     {
         int previousPoints = ethicsPoints;

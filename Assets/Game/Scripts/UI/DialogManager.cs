@@ -33,6 +33,12 @@ public class DialogManager : MonoBehaviour
             Debug.LogWarning("[DialogManager] Dialog Panel belum di-assign.", this);
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     // ─── Public API ──────────────────────────────────────────────────────────
 
     public void ShowDialog(string speaker, string text)

@@ -45,6 +45,12 @@ public class CameraFocusCue : MonoBehaviour
         }
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     public void ShowTarget(Transform target)
     {
         if (target == null) return;

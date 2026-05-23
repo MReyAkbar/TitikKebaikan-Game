@@ -87,6 +87,23 @@ public class GameHUD : MonoBehaviour
         }
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+
+        PlayerStats stats = FindFirstObjectByType<PlayerStats>();
+        if (stats != null)
+        {
+            stats.OnPointsChanged -= UpdateEthicsBar;
+            stats.OnTierChanged -= UpdateTierDisplay;
+            stats.OnTrashChanged -= UpdateTrashUI;
+        }
+
+        if (GameManager.Instance != null)
+            GameManager.Instance.OnStateChanged -= OnGameStateChanged;
+    }
+
     // ─── Ethics Points ───────────────────────────────────────────────────────
 
     public void UpdateEthicsBar(int points)

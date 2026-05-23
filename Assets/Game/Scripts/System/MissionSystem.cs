@@ -32,6 +32,12 @@ public class MissionManager : MonoBehaviour
         Instance = this;
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     // ─── State ───────────────────────────────────────────────────────────────
 
     private Dictionary<MissionType, MissionStatus> missions = new();
@@ -143,6 +149,12 @@ public class CheckpointManager : MonoBehaviour
 
         if (defaultSpawn != null)
             lastCheckpoint = defaultSpawn.position;
+    }
+
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
     }
 
     public void RegisterCheckpoint(Vector2 position)

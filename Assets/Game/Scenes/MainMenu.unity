@@ -4219,6 +4219,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 2
 --- !u!114 &153505805
 MonoBehaviour:
@@ -5119,6 +5120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a6910c1eb940274397a7b92e342ad6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  persistAcrossScenes: 0
   mainMenuScene: MainMenu
   gameScene: SampleScene
   endScene: EndScene
@@ -6173,6 +6175,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 2
 --- !u!1 &385663154
 GameObject:
@@ -7653,7 +7656,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &589587263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8074,6 +8077,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 4
 --- !u!1 &641725671
 GameObject:
@@ -12016,6 +12020,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 3
 --- !u!1 &1026311445
 GameObject:
@@ -12180,6 +12185,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 4
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 0
 --- !u!1 &1030540018
 GameObject:
@@ -25286,6 +25292,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 4
 --- !u!114 &1316612682
 MonoBehaviour:
@@ -27723,6 +27730,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 4
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 0
 --- !u!114 &1458648781
 MonoBehaviour:
@@ -28491,6 +28499,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 2
 --- !u!114 &1577615434
 MonoBehaviour:
@@ -30136,6 +30145,11 @@ MonoBehaviour:
   blockingLayers:
     serializedVersion: 2
     m_Bits: 1024
+  enableStuckEscape: 1
+  stuckDurationBeforeEscape: 1.25
+  escapeClearanceRadius: 0.25
+  escapePlayerDistance: 1.4
+  maxEscapeDistanceFromPlayer: 7
   pointsOnComplete: 50
   pointsPenaltyOnHit: 10
   dialogAwal: 'Aduh Nak, Nenek mau ke pasar tapi takut
@@ -30437,6 +30451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCPakRT
   promptUI: {fileID: 286916264}
+  chatIcon: {fileID: 0}
   interactRadius: 1.8
   requiredTrashCount: 10
   pointsPerTrash: 4
@@ -31210,6 +31225,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 2
 --- !u!1 &1850730678
 GameObject:
@@ -31262,6 +31278,7 @@ MonoBehaviour:
   amplitude: 0.08
   speed: 2
   randomizeStart: 1
+  playOnAwake: 1
   rotationAmplitude: 3
 --- !u!114 &1850730681
 MonoBehaviour:
@@ -32223,6 +32240,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarketZone
   zoneVisual: {fileID: 0}
+  destinationHintRoot: {fileID: 0}
+  highlightRenderer: {fileID: 0}
+  showOnlyDuringNenekMission: 1
+  highlightColor: {r: 0.2, g: 1, b: 0.55, a: 0.65}
+  pulseSpeed: 3
+  pulseScale: 0.08
+  minAlpha: 0.35
+  maxAlpha: 0.85
 --- !u!61 &1966692330
 BoxCollider2D:
   m_ObjectHideFlags: 0

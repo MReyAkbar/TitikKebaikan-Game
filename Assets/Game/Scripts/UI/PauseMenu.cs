@@ -58,7 +58,9 @@ public class PauseMenu : MonoBehaviour
 
         if (!Input.GetKeyDown(KeyCode.Escape)) return;
 
-        if (gameManager == null && handleEscapeWithoutGameManager)
+        if (gameManager != null)
+            ToggleGameManagerPause();
+        else if (handleEscapeWithoutGameManager)
             ToggleFallbackPause();
     }
 
@@ -168,6 +170,14 @@ public class PauseMenu : MonoBehaviour
     private void ToggleFallbackPause()
     {
         SetFallbackPaused(!fallbackPaused);
+    }
+
+    private void ToggleGameManagerPause()
+    {
+        if (gameManager.State == GameManager.GameState.Playing)
+            gameManager.PauseGame();
+        else if (gameManager.State == GameManager.GameState.Paused)
+            gameManager.ResumeGame();
     }
 
     private void SetFallbackPaused(bool paused)

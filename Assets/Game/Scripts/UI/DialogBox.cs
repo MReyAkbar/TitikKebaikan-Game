@@ -35,6 +35,12 @@ public class DialogBox : MonoBehaviour
             continueButton.onClick.AddListener(OnContinueClicked);
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     /// <summary>
     /// Tampilkan dialog.
     /// onConfirmCallback = fungsi yang dipanggil saat pemain klik Lanjut.

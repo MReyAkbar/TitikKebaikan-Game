@@ -27,7 +27,10 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         if (currentState == GameState.MainMenu && SceneManager.GetActiveScene().name != mainMenuScene)
+        {
             SetState(GameState.Playing);
+            Time.timeScale = 1f;
+        }
     }
 
     private void OnDestroy()
@@ -129,6 +132,9 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
+        if (FindFirstObjectByType<PauseMenu>() != null)
+            return;
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (currentState == GameState.MainMenu && SceneManager.GetActiveScene().name != mainMenuScene)

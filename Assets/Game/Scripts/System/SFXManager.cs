@@ -52,6 +52,12 @@ public class SFXManager : MonoBehaviour
         defaultPitch = audioSource.pitch;
     }
 
+    private void OnDestroy()
+    {
+        if (Instance == this)
+            Instance = null;
+    }
+
     public void PlayInteract() => Play(interactClip);
     public void PlayDialogOpen() => Play(dialogOpenClip);
     public void PlayDialogClose() => Play(dialogCloseClip);
