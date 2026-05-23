@@ -42,6 +42,11 @@ public class NPCFiguran : MonoBehaviour
     private PlayerStats playerStats;
     private bool playerInRange;
 
+    private void Awake()
+    {
+        AutoAssignPromptUI();
+    }
+
     private void Start()
     {
         SetPromptVisible(false);
@@ -104,6 +109,27 @@ public class NPCFiguran : MonoBehaviour
     {
         if (promptUI != null)
             promptUI.SetActive(visible);
+    }
+
+    private void AutoAssignPromptUI()
+    {
+        if (promptUI != null) return;
+
+        Transform directChild = transform.Find("PromptUI");
+        if (directChild != null)
+        {
+            promptUI = directChild.gameObject;
+            return;
+        }
+
+        foreach (Transform child in GetComponentsInChildren<Transform>(true))
+        {
+            if (child != transform && child.name == "PromptUI")
+            {
+                promptUI = child.gameObject;
+                return;
+            }
+        }
     }
 
     private void OnDrawGizmosSelected()

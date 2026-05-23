@@ -1,2 +1,809 @@
 fileFormatVersion: 2
 guid: 72667fb44954131418b0932b58dce3f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 2
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 811
+        width: 288
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dde6d4653e73d4d91564c1468b78c9
+      internalID: 1449266447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 811
+        width: 318
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32455a01c1f84784a8b48f1d6edba6d6
+      internalID: -1689475593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 813
+        width: 283
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb559fcf246239a4d923b3b71cf72060
+      internalID: 1666585717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 812
+        width: 348
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2603f40add600345b61df97653ecac3
+      internalID: 157590175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 665
+        width: 121
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2d589f3889b341b07e6e9ec4d9302
+      internalID: 960586783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 665
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c06b6da56aac04b94c1cc7be216493
+      internalID: -1570676100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 665
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ece9937745f44490e9ed636641a4f
+      internalID: 2115616311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 665
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256442637fc01e4f9b762e611f2a570
+      internalID: 2083834520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 639
+        width: 185
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221f1271ac0d3a47aa8d37ddef9f7d8
+      internalID: 932733276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 646
+        width: 122
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbfa76dbdaca484aac21fb2036a1991
+      internalID: -1899636526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 438
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc189f272a10945b65f6edc829afac
+      internalID: 1956762533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2946cadaca4ff14a9d53800277f8559
+      internalID: -673701288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 438
+        width: 252
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d62107bf71ec43990d77ade02b538
+      internalID: -466889087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 440
+        width: 169
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f13e1a7e58b5a49a407dbee03f6d03
+      internalID: -1219797616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 431
+        width: 185
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e398b875f98e41b0a2d7118e37622
+      internalID: -903995411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 446
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ddc9ccd30c2748a6dc0bea7b3fac3
+      internalID: -1268807135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 250
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa275de2a4a4884b9f6fd59ad691ae9
+      internalID: 1537689379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46edc52e7159fa4e9c5d2e8ab6a779d
+      internalID: 1868621124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace31ef55c3c694a8601318b1718410
+      internalID: 682239473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 263
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef7204a73e84b4f95925b2add5b51e
+      internalID: 1429109875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 249
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d01584ffe86445936a0b514e6538f
+      internalID: -147099951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 265
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0933fe8549294cb520d5ab61f1ed8
+      internalID: 866049725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 252
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b67f93a4af9f4682320198912cd83
+      internalID: 1845926380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 265
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bacd9f2b408c4489397208ca2acecd
+      internalID: 545018811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 46
+        width: 302
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe1d7b7e07dc14a916a77a9dd9c159
+      internalID: 884768655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 51
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3a735c84a5aee4aaf29171da99c18c
+      internalID: 520618785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 66
+        width: 238
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4406e959fa56640a835f4b8a0cbe9f
+      internalID: -375224634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 66
+        width: 138
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1268df3eccbc441b4fd73028aff70b
+      internalID: 361850994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 51
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351b153d54ede9340a16e891d980c78f
+      internalID: -1598999169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_UI-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 52
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796b9baa33471b42942ea20888eee87
+      internalID: -686701013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d3ea18b94037c99429b537f526e32a86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hazard_UI-Photoroom_0: 1449266447
+      Hazard_UI-Photoroom_1: -1689475593
+      Hazard_UI-Photoroom_10: 1956762533
+      Hazard_UI-Photoroom_11: -673701288
+      Hazard_UI-Photoroom_12: -466889087
+      Hazard_UI-Photoroom_13: -1219797616
+      Hazard_UI-Photoroom_14: -903995411
+      Hazard_UI-Photoroom_15: -1268807135
+      Hazard_UI-Photoroom_16: 1537689379
+      Hazard_UI-Photoroom_17: 1868621124
+      Hazard_UI-Photoroom_18: 682239473
+      Hazard_UI-Photoroom_19: 1429109875
+      Hazard_UI-Photoroom_2: 1666585717
+      Hazard_UI-Photoroom_20: -147099951
+      Hazard_UI-Photoroom_21: 866049725
+      Hazard_UI-Photoroom_22: 1845926380
+      Hazard_UI-Photoroom_23: 545018811
+      Hazard_UI-Photoroom_24: 884768655
+      Hazard_UI-Photoroom_25: 520618785
+      Hazard_UI-Photoroom_26: -375224634
+      Hazard_UI-Photoroom_27: 361850994
+      Hazard_UI-Photoroom_28: -1598999169
+      Hazard_UI-Photoroom_29: -686701013
+      Hazard_UI-Photoroom_3: 157590175
+      Hazard_UI-Photoroom_4: 960586783
+      Hazard_UI-Photoroom_5: -1570676100
+      Hazard_UI-Photoroom_6: 2115616311
+      Hazard_UI-Photoroom_7: 2083834520
+      Hazard_UI-Photoroom_8: 932733276
+      Hazard_UI-Photoroom_9: -1899636526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: 98e4cd37036977a4aafe8114dbe19738
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8725301547050838916
+    second: cobapls_0
+  - first:
+      213: -7833641664345451388
+    second: cobapls_1
+  - first:
+      213: 8387291091991409980
+    second: cobapls_2
+  - first:
+      213: -3638416865392856110
+    second: cobapls_3
+  - first:
+      213: -5240788675374336153
+    second: cobapls_4
+  - first:
+      213: -369903881581687498
+    second: cobapls_5
+  - first:
+      213: -7833603866067553382
+    second: cobapls_6
+  - first:
+      213: 2237072778207868111
+    second: cobapls_7
+  - first:
+      213: 5337290841828900169
+    second: cobapls_8
+  - first:
+      213: -4383874432687853663
+    second: cobapls_9
+  - first:
+      213: -4658431860485131275
+    second: cobapls_10
+  - first:
+      213: -1382458520644817891
+    second: cobapls_11
+  - first:
+      213: -8095902714000043053
+    second: cobapls_12
+  - first:
+      213: -6121963563461048163
+    second: cobapls_13
+  - first:
+      213: 4291433236598136925
+    second: cobapls_14
+  - first:
+      213: -5422520121924391912
+    second: cobapls_15
+  - first:
+      213: -2490667989876142817
+    second: cobapls_16
+  - first:
+      213: -2015437670163629263
+    second: cobapls_17
+  - first:
+      213: 845252217250801495
+    second: cobapls_18
+  - first:
+      213: 5001968100597558346
+    second: cobapls_19
+  - first:
+      213: -5866594551710747343
+    second: cobapls_20
+  - first:
+      213: -4452003342425146439
+    second: cobapls_21
+  - first:
+      213: -5518893249944927325
+    second: cobapls_22
+  - first:
+      213: 1103241192991862658
+    second: cobapls_23
+  - first:
+      213: 4138793791780478941
+    second: cobapls_24
+  - first:
+      213: -193461274909094838
+    second: cobapls_25
+  - first:
+      213: -5251692938040280862
+    second: cobapls_26
+  - first:
+      213: -8430702169459484891
+    second: cobapls_27
+  - first:
+      213: 2827127469593954558
+    second: cobapls_28
+  - first:
+      213: -9088859739241553930
+    second: cobapls_29
+  - first:
+      213: 1696896530346660624
+    second: cobapls_30
+  - first:
+      213: 4552915874828023803
+    second: cobapls_31
+  - first:
+      213: 9076216860369107784
+    second: cobapls_32
+  - first:
+      213: -9028938731123446644
+    second: cobapls_33
+  - first:
+      213: 1093722964535475082
+    second: cobapls_34
+  - first:
+      213: 7700938179661198902
+    second: cobapls_35
+  - first:
+      213: -424498334257274768
+    second: cobapls_36
+  - first:
+      213: 7890736936430062072
+    second: cobapls_37
+  - first:
+      213: 3130879736124888707
+    second: cobapls_38
+  - first:
+      213: 3810097395083894304
+    second: cobapls_39
+  - first:
+      213: 430172636441814422
+    second: cobapls_40
+  - first:
+      213: -8674137456285922563
+    second: cobapls_41
+  - first:
+      213: 8319657619642168599
+    second: cobapls_42
+  - first:
+      213: -6042094996884408825
+    second: cobapls_43
+  - first:
+      213: 8166562207500804179
+    second: cobapls_44
+  - first:
+      213: -2144353646483229420
+    second: cobapls_45
+  - first:
+      213: -7760963236689820773
+    second: cobapls_46
+  - first:
+      213: -264513538933904816
+    second: cobapls_47
+  - first:
+      213: -3187814917437658998
+    second: cobapls_48
+  - first:
+      213: 6380775310107612219
+    second: cobapls_49
+  - first:
+      213: -619961994725620328
+    second: cobapls_50
+  - first:
+      213: 9217648849476539751
+    second: cobapls_51
+  - first:
+      213: -8792222855489317341
+    second: cobapls_52
+  - first:
+      213: 7077788459177443099
+    second: cobapls_53
+  - first:
+      213: 4733967158946098050
+    second: cobapls_54
+  - first:
+      213: 2350804752482949488
+    second: cobapls_55
+  - first:
+      213: 81024117953906069
+    second: cobapls_56
+  - first:
+      213: 5543242533654919
+    second: cobapls_57
+  - first:
+      213: 5918161474716562805
+    second: cobapls_58
+  - first:
+      213: -8168844585979380462
+    second: cobapls_59
+  - first:
+      213: 7519833102006947768
+    second: cobapls_60
+  - first:
+      213: -7978670242256582438
+    second: cobapls_61
+  - first:
+      213: -6619399650966946030
+    second: cobapls_62
+  - first:
+      213: 5585698548696248233
+    second: cobapls_63
+  - first:
+      213: -4078026947696291074
+    second: cobapls_64
+  - first:
+      213: -3830144480174272748
+    second: cobapls_65
+  - first:
+      213: -8458179778768309488
+    second: cobapls_66
+  - first:
+      213: -199698916776221170
+    second: cobapls_67
+  - first:
+      213: 3785218127208513228
+    second: cobapls_68
+  - first:
+      213: -8408817960433304003
+    second: cobapls_69
+  - first:
+      213: 4776606154076192297
+    second: cobapls_70
+  - first:
+      213: -5343763513703714619
+    second: cobapls_71
+  - first:
+      213: -7250176967974239550
+    second: cobapls_72
+  - first:
+      213: 8867013875525694539
+    second: cobapls_73
+  - first:
+      213: 4357519274731749279
+    second: cobapls_74
+  - first:
+      213: 6638215374925279874
+    second: cobapls_75
+  - first:
+      213: 6944208948014608259
+    second: cobapls_76
+  - first:
+      213: -1297343249844850840
+    second: cobapls_77
+  - first:
+      213: 3628385591649462275
+    second: cobapls_78
+  - first:
+      213: 4258837871186230701
+    second: cobapls_79
+  - first:
+      213: 3391143096619120050
+    second: cobapls_80
+  - first:
+      213: 5245995824438549165
+    second: cobapls_81
+  - first:
+      213: 3694304390308883481
+    second: cobapls_82
+  - first:
+      213: -1982764696231400628
+    second: cobapls_83
+  - first:
+      213: -9084611222196496611
+    second: cobapls_84
+  - first:
+      213: -4093235846601702274
+    second: cobapls_85
+  - first:
+      213: 5964359805521152229
+    second: cobapls_86
+  - first:
+      213: 1227373371679473089
+    second: cobapls_87
+  - first:
+      213: -8999626438248924294
+    second: cobapls_88
+  - first:
+      213: -8268453967023502908
+    second: cobapls_89
+  - first:
+      213: -1159235986494717088
+    second: cobapls_90
+  - first:
+      213: 6996460252021419290
+    second: cobapls_91
+  - first:
+      213: -3706061331056773995
+    second: cobapls_92
+  - first:
+      213: -1745847721782133924
+    second: cobapls_93
+  - first:
+      213: -3755792603790838028
+    second: cobapls_94
+  - first:
+      213: -8959655149290234084
+    second: cobapls_95
+  - first:
+      213: 5851503414053847661
+    second: cobapls_96
+  - first:
+      213: 3433354183270448502
+    second: cobapls_97
+  - first:
+      213: -2505088638086045594
+    second: cobapls_98
+  - first:
+      213: -284703743916545602
+    second: cobapls_99
+  - first:
+      213: -4158961532638093910
+    second: cobapls_100
+  - first:
+      213: -2691002375090659638
+    second: cobapls_101
+  - first:
+      213: -522434231300385521
+    second: cobapls_102
+  - first:
+      213: -1098859389364032330
+    second: cobapls_103
+  - first:
+      213: -2073111552521815462
+    second: cobapls_104
+  - first:
+      213: -785563014150612117
+    second: cobapls_105
+  - first:
+      213: -4802986446740133357
+    second: cobapls_106
+  - first:
+      213: 8928821981422862243
+    second: cobapls_107
+  - first:
+      213: -4016666288150505135
+    second: cobapls_108
+  - first:
+      213: -8703940566245655456
+    second: cobapls_109
+  - first:
+      213: -1903474165094055280
+    second: cobapls_110
+  - first:
+      213: 841607904463155680
+    second: cobapls_111
+  - first:
+      213: -5061218876623145876
+    second: cobapls_112
+  - first:
+      213: -5330464564710868143
+    second: cobapls_113
+  - first:
+      213: -3431824726759912450
+    second: cobapls_114
+  - first:
+      213: 8135825226961135342
+    second: cobapls_115
+  - first:
+      213: -618319673786073951
+    second: cobapls_116
+  - first:
+      213: -1347724723376520804
+    second: cobapls_117
+  - first:
+      213: -6163659038608059275
+    second: cobapls_118
+  - first:
+      213: -8825884554407557370
+    second: cobapls_119
+  - first:
+      213: -4864889672948368281
+    second: cobapls_120
+  - first:
+      213: -6716406597320907658
+    second: cobapls_121
+  - first:
+      213: -7422511781181595587
+    second: cobapls_122
+  - first:
+      213: 2290741244233556730
+    second: cobapls_123
+  - first:
+      213: 7020465776468345879
+    second: cobapls_124
+  - first:
+      213: -5637952783922675162
+    second: cobapls_125
+  - first:
+      213: 5248151320117227688
+    second: cobapls_126
+  - first:
+      213: 6571344481364889887
+    second: cobapls_127
+  - first:
+      213: -9148730307139780049
+    second: cobapls_128
+  - first:
+      213: 6509481952698911550
+    second: cobapls_129
+  - first:
+      213: 5742725046085025706
+    second: cobapls_130
+  - first:
+      213: 136188398866244484
+    second: cobapls_131
+  - first:
+      213: -5112046079133968339
+    second: cobapls_132
+  - first:
+      213: -410183082813178136
+    second: cobapls_133
+  - first:
+      213: 2222857987536972919
+    second: cobapls_134
+  - first:
+      213: -7966534483896456360
+    second: cobapls_135
+  - first:
+      213: 867565692392588798
+    second: cobapls_136
+  - first:
+      213: 4811744072457955583
+    second: cobapls_137
+  - first:
+      213: -6391619157436324022
+    second: cobapls_138
+  - first:
+      213: -5018832927963493705
+    second: cobapls_139
+  - first:
+      213: 7360047406604263462
+    second: cobapls_140
+  - first:
+      213: 5661609231708358150
+    second: cobapls_141
+  - first:
+      213: 4229388587079793946
+    second: cobapls_142
+  - first:
+      213: 6940778902105893324
+    second: cobapls_143
+  - first:
+      213: 7091591720205232202
+    second: cobapls_144
+  - first:
+      213: 4037624743971941394
+    second: cobapls_145
+  - first:
+      213: 3343308494138545239
+    second: cobapls_146
+  - first:
+      213: 5424394977485396435
+    second: cobapls_147
+  - first:
+      213: -2457698075368807096
+    second: cobapls_148
+  - first:
+      213: 6599050208522727434
+    second: cobapls_149
+  - first:
+      213: -5153030190732754675
+    second: cobapls_150
+  - first:
+      213: -2769941210415634209
+    second: cobapls_151
+  - first:
+      213: 1676627205865211355
+    second: cobapls_152
+  - first:
+      213: 315665113189040136
+    second: cobapls_153
+  - first:
+      213: -2141330414761290706
+    second: cobapls_154
+  - first:
+      213: -7423280788526822364
+    second: cobapls_155
+  - first:
+      213: 6586049026955746022
+    second: cobapls_156
+  - first:
+      213: 925247417411141561
+    second: cobapls_157
+  - first:
+      213: 5642388018261668025
+    second: cobapls_158
+  - first:
+      213: -1365743057531617885
+    second: cobapls_159
+  - first:
+      213: 94232670062767903
+    second: cobapls_160
+  - first:
+      213: 4937953241006597002
+    second: cobapls_161
+  - first:
+      213: 5163903752243144953
+    second: cobapls_162
+  - first:
+      213: 99023506196216651
+    second: cobapls_163
+  - first:
+      213: 3419665109458336409
+    second: cobapls_164
+  - first:
+      213: -7567555137386625298
+    second: cobapls_165
+  - first:
+      213: 6011164084481890524
+    second: cobapls_166
+  - first:
+      213: 8379608033823055597
+    second: cobapls_167
+  - first:
+      213: -1895145131271233761
+    second: cobapls_168
+  - first:
+      213: -6173626298871177615
+    second: cobapls_169
+  - first:
+      213: 8517699223611734530
+    second: cobapls_170
+  - first:
+      213: -1761974258295718435
+    second: cobapls_171
+  - first:
+      213: 3474655887985549859
+    second: cobapls_172
+  - first:
+      213: 2998951455581072346
+    second: cobapls_173
+  - first:
+      213: -8955995381034677705
+    second: cobapls_174
+  - first:
+      213: 5595467984210485136
+    second: cobapls_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobapls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 94
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745ed9b87089e680800000000000000
+      internalID: -8725301547050838916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 524
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845df22960594390800000000000000
+      internalID: -7833641664345451388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 483
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3532f57fc4a56470800000000000000
+      internalID: 8387291091991409980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 465
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f779532fb18dc0800000000000000
+      internalID: -3638416865392856110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 465
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673c65777af447b0800000000000000
+      internalID: -5240788675374336153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 465
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d09492166dddaf0800000000000000
+      internalID: -369903881581687498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 464
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93baebb9c2794390800000000000000
+      internalID: -7833603866067553382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b6c9d6ddab0f10800000000000000
+      internalID: 2237072778207868111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 465
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d38221ebdd11a40800000000000000
+      internalID: 5337290841828900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 480
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af29b32e695923c0800000000000000
+      internalID: -4383874432687853663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 477
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3fb6187ece95fb0800000000000000
+      internalID: -4658431860485131275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce040dc4580dce0800000000000000
+      internalID: -1382458520644817891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 481
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d318e3206395af80800000000000000
+      internalID: -8095902714000043053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 480
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980508139a6a0ba0800000000000000
+      internalID: -6121963563461048163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50acbcaacb3e8b30800000000000000
+      internalID: 4291433236598136925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 481
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ce949cda65fb4b0800000000000000
+      internalID: -5422520121924391912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 482
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d0ff9c8ae5f6dd0800000000000000
+      internalID: -2490667989876142817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 481
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb4f20e1ab704e0800000000000000
+      internalID: -2015437670163629263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 482
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75768dac960fabb00800000000000000
+      internalID: 845252217250801495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 435
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce3f56c7f8a6540800000000000000
+      internalID: 5001968100597558346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 399
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f908765ba59ea0800000000000000
+      internalID: -5866594551710747343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 391
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb5eb3c8e4732c0800000000000000
+      internalID: -4452003342425146439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 440
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34bbb54d3f863b0800000000000000
+      internalID: -5518893249944927325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 397
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fabd115008f4f00800000000000000
+      internalID: 1103241192991862658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 391
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfdaad7603ff6930800000000000000
+      internalID: 4138793791780478941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 433
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ccf37deffa05df0800000000000000
+      internalID: -193461274909094838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 433
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87ea6f81d3e17b0800000000000000
+      internalID: -5251692938040280862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 433
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527904e6b01200b80800000000000000
+      internalID: -8430702169459484891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 438
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef885ef6479fb3720800000000000000
+      internalID: 2827127469593954558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 438
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff5825d832edd180800000000000000
+      internalID: -9088859739241553930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 438
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d7ef57669c8710800000000000000
+      internalID: 1696896530346660624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 438
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77c53add43f2f30800000000000000
+      internalID: 4552915874828023803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 438
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b36ba852335fd70800000000000000
+      internalID: 9076216860369107784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_33
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 438
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cee98bf04c2b280800000000000000
+      internalID: -9028938731123446644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 438
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bf2dfcd3fad2f00800000000000000
+      internalID: 1093722964535475082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 438
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636f2fb197a3fda60800000000000000
+      internalID: 7700938179661198902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a9da9301eb1af0800000000000000
+      internalID: -424498334257274768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c7ffcf67818d60800000000000000
+      internalID: 7890736936430062072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 391
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386513a288e137b20800000000000000
+      internalID: 3130879736124888707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02edd91e46f20e430800000000000000
+      internalID: 3810097395083894304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 391
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952533dbb748f500800000000000000
+      internalID: 430172636441814422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 391
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaca29e0f54f9780800000000000000
+      internalID: -8674137456285922563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 391
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b4af868c557370800000000000000
+      internalID: 8319657619642168599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 391
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063a8bdc9a262ca0800000000000000
+      internalID: -6042094996884408825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 390
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35027363f05755170800000000000000
+      internalID: 8166562207500804179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_45
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 390
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415bd8448b9bd32e0800000000000000
+      internalID: -2144353646483229420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_46
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 390
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93cc3a3e058b4490800000000000000
+      internalID: -7760963236689820773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 391
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a20997652445cf0800000000000000
+      internalID: -264513538933904816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_48
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 391
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88ef6ce83b92c3d0800000000000000
+      internalID: -3187814917437658998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 391
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b341c8676511d8850800000000000000
+      internalID: 6380775310107612219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 391
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895032ab9d37567f0800000000000000
+      internalID: -619961994725620328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 366
+        width: 162
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76556599acaabef70800000000000000
+      internalID: 9217648849476539751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 366
+        width: 137
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3261d7865efbbf580800000000000000
+      internalID: -8792222855489317341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 317
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f71a89a1b593260800000000000000
+      internalID: 7077788459177443099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_54
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 317
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28be857ac0e62b140800000000000000
+      internalID: 4733967158946098050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_55
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 315
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079db00a77cbf9020800000000000000
+      internalID: 2350804752482949488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_56
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 315
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c1e8810bdf1100800000000000000
+      internalID: 81024117953906069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_57
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 315
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815f1abc81b31000800000000000000
+      internalID: 5543242533654919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 336
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f1e76188812250800000000000000
+      internalID: 5918161474716562805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 147
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d7353212f62ae80800000000000000
+      internalID: -8168844585979380462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 284
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf095f4d50db5860800000000000000
+      internalID: 7519833102006947768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8015effa1164190800000000000000
+      internalID: -7978670242256582438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 284
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f35c9a61b2324a0800000000000000
+      internalID: -6619399650966946030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_63
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af64795c33648d40800000000000000
+      internalID: 5585698548696248233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 292
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2971ee810f767c0800000000000000
+      internalID: -4078026947696291074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_65
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 337
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0ac463e798dac0800000000000000
+      internalID: -3830144480174272748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 312
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0137f18fd428e9a80800000000000000
+      internalID: -8458179778768309488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06e58ba4e68a3df0800000000000000
+      internalID: -199698916776221170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 245
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccef1ade4dbc78430800000000000000
+      internalID: 3785218127208513228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 245
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb277ed90ed4b80800000000000000
+      internalID: -8408817960433304003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 244
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef7a55df9e94240800000000000000
+      internalID: 4776606154076192297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 245
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c03ff1956327d5b0800000000000000
+      internalID: -5343763513703714619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24d21f572326b90800000000000000
+      internalID: -7250176967974239550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_73
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 242
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443b2de326fd0b70800000000000000
+      internalID: 8867013875525694539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 242
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbd4871b4097c30800000000000000
+      internalID: 4357519274731749279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 247
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28235f476bdaf1c50800000000000000
+      internalID: 6638215374925279874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 271
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fef780f39ce5060800000000000000
+      internalID: 6944208948014608259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_77
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 271
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2f391039eefde0800000000000000
+      internalID: -1297343249844850840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_78
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 271
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308696ab87d9a5230800000000000000
+      internalID: 3628385591649462275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_79
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad3904ca7e6a1b30800000000000000
+      internalID: 4258837871186230701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 271
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53088eda2cf0f20800000000000000
+      internalID: 3391143096619120050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_81
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 277
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa97d868658dc840800000000000000
+      internalID: 5245995824438549165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_82
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 277
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ce68c054ec44330800000000000000
+      internalID: 3694304390308883481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_83
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 277
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b21ff830ecb74e0800000000000000
+      internalID: -1982764696231400628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_84
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 277
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17537ac93afce180800000000000000
+      internalID: -9084611222196496611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_85
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 277
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7409653fa7e137c0800000000000000
+      internalID: -4093235846601702274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_86
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 245
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c4b084a9a5c250800000000000000
+      internalID: 5964359805521152229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 245
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd7ab12491880110800000000000000
+      internalID: 1227373371679473089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_88
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 243
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b75fcbf67ea1380800000000000000
+      internalID: -8999626438248924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_89
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 243
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c905e5dcec804d80800000000000000
+      internalID: -8268453967023502908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_90
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 243
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063022e130199efe0800000000000000
+      internalID: -1159235986494717088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_91
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 243
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d60e6c78b681160800000000000000
+      internalID: 6996460252021419290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 111
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594bc8edadc619cc0800000000000000
+      internalID: -3706061331056773995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 186
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b30473fb085c7e0800000000000000
+      internalID: -1745847721782133924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 182
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f101a68eb0ebc0800000000000000
+      internalID: -3755792603790838028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5e8cac19e8a380800000000000000
+      internalID: -8959655149290234084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 176
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d624aac3a57b43150800000000000000
+      internalID: 5851503414053847661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_97
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 156
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dbfe16079b5af20800000000000000
+      internalID: 3433354183270448502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_98
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 156
+        width: 15
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a30cf7232c3dd0800000000000000
+      internalID: -2505088638086045594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_99
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 156
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb961ad04778c0cf0800000000000000
+      internalID: -284703743916545602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad979c65866846c0800000000000000
+      internalID: -4158961532638093910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 222
+        width: 115
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1dfee893a7aad0800000000000000
+      internalID: -2691002375090659638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 189
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0516d8a5d0ffb8f0800000000000000
+      internalID: -522434231300385521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_103
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 189
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcaad6153110c0f0800000000000000
+      internalID: -1098859389364032330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_104
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 190
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5abd2cd604da33e0800000000000000
+      internalID: -2073111552521815462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_105
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 190
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b1ed8c99e1915f0800000000000000
+      internalID: -785563014150612117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 190
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae905264d585db0800000000000000
+      internalID: -4802986446740133357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 158
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb861094c89eb70800000000000000
+      internalID: 8928821981422862243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_108
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 161
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1599089ca4fe148c0800000000000000
+      internalID: -4016666288150505135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_109
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 164
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb0d2ab24653780800000000000000
+      internalID: -8703940566245655456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 167
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928f66f4508595e0800000000000000
+      internalID: -1903474165094055280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ffa91eedfdab00800000000000000
+      internalID: 841607904463155680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6430684f30f2c9b0800000000000000
+      internalID: -5061218876623145876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf99c68b26606b0800000000000000
+      internalID: -5330464564710868143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_114
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc216f795bf50d0800000000000000
+      internalID: -3431824726759912450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 155
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62eaf30f148e070800000000000000
+      internalID: 8135825226961135342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac785e58894b67f0800000000000000
+      internalID: -618319673786073951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_117
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 155
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c918120318beb4de0800000000000000
+      internalID: -1347724723376520804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_118
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741427c2c8467aa0800000000000000
+      internalID: -6163659038608059275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 154
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074ee162c8248580800000000000000
+      internalID: -8825884554407557370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 154
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c32742e907c7cb0800000000000000
+      internalID: -4864889672948368281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_121
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 155
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e897e8c78ac2a0800000000000000
+      internalID: -6716406597320907658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_122
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 155
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e4857cd0fdf890800000000000000
+      internalID: -7422511781181595587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a0e656095acf10800000000000000
+      internalID: 2290741244233556730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_124
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714ce2c7d64bd6160800000000000000
+      internalID: 7020465776468345879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_125
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 123
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224ddd60d7f1c1b0800000000000000
+      internalID: -5637952783922675162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_126
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b51bd1dd25d840800000000000000
+      internalID: 5248151320117227688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115a744dfa123b50800000000000000
+      internalID: 6571344481364889887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224519f14e290180800000000000000
+      internalID: -9148730307139780049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_129
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 122
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4f66e853565a50800000000000000
+      internalID: 6509481952698911550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_130
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 122
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff2aec00242bf40800000000000000
+      internalID: 5742725046085025706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_131
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 122
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a3f090a6d3e100800000000000000
+      internalID: 136188398866244484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_132
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 121
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289ac10d2d5e09b0800000000000000
+      internalID: -5112046079133968339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_133
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eebb00d8acbe4af0800000000000000
+      internalID: -410183082813178136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_134
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 121
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce74dff8d29de10800000000000000
+      internalID: 2222857987536972919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_135
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 116
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba37c681f217190800000000000000
+      internalID: -7966534483896456360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 115
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5406296663a0c00800000000000000
+      internalID: 867565692392588798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_137
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 115
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8a2fc7dbfb6c240800000000000000
+      internalID: 4811744072457955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_138
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 117
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a472d659d386c47a0800000000000000
+      internalID: -6391619157436324022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 145
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac3bdfa06895ab0800000000000000
+      internalID: -5018832927963493705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 90
+        width: 103
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620aea00f14242660800000000000000
+      internalID: 7360047406604263462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 41
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6068c098993129e40800000000000000
+      internalID: 5661609231708358150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7bfdf28ec1ba30800000000000000
+      internalID: 4229388587079793946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92c8c33a9925060800000000000000
+      internalID: 6940778902105893324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_144
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 55
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482feeb8156a6260800000000000000
+      internalID: 7091591720205232202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c66c8ff46880830800000000000000
+      internalID: 4037624743971941394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_146
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 58
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549caf9c51d56e20800000000000000
+      internalID: 3343308494138545239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 60
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91e6a0e72574b40800000000000000
+      internalID: 5424394977485396435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_148
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 61
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8452b743f9084edd0800000000000000
+      internalID: -2457698075368807096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_149
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 49
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00f6fd8339849b50800000000000000
+      internalID: 6599050208522727434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01c28ce752cc78b0800000000000000
+      internalID: -5153030190732754675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_151
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 39
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e57815213f89d0800000000000000
+      internalID: -2769941210415634209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 39
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50a528f83944710800000000000000
+      internalID: 1676627205865211355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_153
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 39
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800cd9b7fb7716400800000000000000
+      internalID: 315665113189040136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_154
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 60
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d96145577842e0800000000000000
+      internalID: -2141330414761290706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_155
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c80ebf3753bf890800000000000000
+      internalID: -7423280788526822364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_156
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 56
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea110512b8566b50800000000000000
+      internalID: 6586049026955746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_157
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf732cbf9327dc00800000000000000
+      internalID: 925247417411141561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_158
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 56
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03869020acd4e40800000000000000
+      internalID: 5642388018261668025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_159
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 56
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad3f59dce7eb0de0800000000000000
+      internalID: -1365743057531617885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_160
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe3593d18ce4100800000000000000
+      internalID: 94232670062767903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_161
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 12
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83efaf6f42278440800000000000000
+      internalID: 4937953241006597002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f862c66a1fd9a740800000000000000
+      internalID: 5163903752243144953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_163
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3d3faa5dcf5100800000000000000
+      internalID: 99023506196216651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_164
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99abf048c47157f20800000000000000
+      internalID: 3419665109458336409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_165
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 10
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee643e972b4aaf690800000000000000
+      internalID: -7567555137386625298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81126e2e1fb6350800000000000000
+      internalID: 6011164084481890524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 11
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee58051c195a4470800000000000000
+      internalID: 8379608033823055597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_168
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 13
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f54c44b8713b5e0800000000000000
+      internalID: -1895145131271233761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_169
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 16
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e16c7279fd25aa0800000000000000
+      internalID: -6173626298871177615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_170
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 20
+        width: 89
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a7ffea052f43670800000000000000
+      internalID: 8517699223611734530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_171
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 14
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb6e65fb53c87e0800000000000000
+      internalID: -1761974258295718435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_172
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 10
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3222910ee15783030800000000000000
+      internalID: 3474655887985549859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_173
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 12
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbec80b57a6e9920800000000000000
+      internalID: 2998951455581072346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_174
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 11
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a836fd6a9e5b380800000000000000
+      internalID: -8955995381034677705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobapls_175
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fdfee4c7817ad40800000000000000
+      internalID: 5595467984210485136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e371cd42fec30bf4aaefec55cc3f8c9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cobapls_0: -8725301547050838916
+      cobapls_1: -7833641664345451388
+      cobapls_10: -4658431860485131275
+      cobapls_100: -4158961532638093910
+      cobapls_101: -2691002375090659638
+      cobapls_102: -522434231300385521
+      cobapls_103: -1098859389364032330
+      cobapls_104: -2073111552521815462
+      cobapls_105: -785563014150612117
+      cobapls_106: -4802986446740133357
+      cobapls_107: 8928821981422862243
+      cobapls_108: -4016666288150505135
+      cobapls_109: -8703940566245655456
+      cobapls_11: -1382458520644817891
+      cobapls_110: -1903474165094055280
+      cobapls_111: 841607904463155680
+      cobapls_112: -5061218876623145876
+      cobapls_113: -5330464564710868143
+      cobapls_114: -3431824726759912450
+      cobapls_115: 8135825226961135342
+      cobapls_116: -618319673786073951
+      cobapls_117: -1347724723376520804
+      cobapls_118: -6163659038608059275
+      cobapls_119: -8825884554407557370
+      cobapls_12: -8095902714000043053
+      cobapls_120: -4864889672948368281
+      cobapls_121: -6716406597320907658
+      cobapls_122: -7422511781181595587
+      cobapls_123: 2290741244233556730
+      cobapls_124: 7020465776468345879
+      cobapls_125: -5637952783922675162
+      cobapls_126: 5248151320117227688
+      cobapls_127: 6571344481364889887
+      cobapls_128: -9148730307139780049
+      cobapls_129: 6509481952698911550
+      cobapls_13: -6121963563461048163
+      cobapls_130: 5742725046085025706
+      cobapls_131: 136188398866244484
+      cobapls_132: -5112046079133968339
+      cobapls_133: -410183082813178136
+      cobapls_134: 2222857987536972919
+      cobapls_135: -7966534483896456360
+      cobapls_136: 867565692392588798
+      cobapls_137: 4811744072457955583
+      cobapls_138: -6391619157436324022
+      cobapls_139: -5018832927963493705
+      cobapls_14: 4291433236598136925
+      cobapls_140: 7360047406604263462
+      cobapls_141: 5661609231708358150
+      cobapls_142: 4229388587079793946
+      cobapls_143: 6940778902105893324
+      cobapls_144: 7091591720205232202
+      cobapls_145: 4037624743971941394
+      cobapls_146: 3343308494138545239
+      cobapls_147: 5424394977485396435
+      cobapls_148: -2457698075368807096
+      cobapls_149: 6599050208522727434
+      cobapls_15: -5422520121924391912
+      cobapls_150: -5153030190732754675
+      cobapls_151: -2769941210415634209
+      cobapls_152: 1676627205865211355
+      cobapls_153: 315665113189040136
+      cobapls_154: -2141330414761290706
+      cobapls_155: -7423280788526822364
+      cobapls_156: 6586049026955746022
+      cobapls_157: 925247417411141561
+      cobapls_158: 5642388018261668025
+      cobapls_159: -1365743057531617885
+      cobapls_16: -2490667989876142817
+      cobapls_160: 94232670062767903
+      cobapls_161: 4937953241006597002
+      cobapls_162: 5163903752243144953
+      cobapls_163: 99023506196216651
+      cobapls_164: 3419665109458336409
+      cobapls_165: -7567555137386625298
+      cobapls_166: 6011164084481890524
+      cobapls_167: 8379608033823055597
+      cobapls_168: -1895145131271233761
+      cobapls_169: -6173626298871177615
+      cobapls_17: -2015437670163629263
+      cobapls_170: 8517699223611734530
+      cobapls_171: -1761974258295718435
+      cobapls_172: 3474655887985549859
+      cobapls_173: 2998951455581072346
+      cobapls_174: -8955995381034677705
+      cobapls_175: 5595467984210485136
+      cobapls_18: 845252217250801495
+      cobapls_19: 5001968100597558346
+      cobapls_2: 8387291091991409980
+      cobapls_20: -5866594551710747343
+      cobapls_21: -4452003342425146439
+      cobapls_22: -5518893249944927325
+      cobapls_23: 1103241192991862658
+      cobapls_24: 4138793791780478941
+      cobapls_25: -193461274909094838
+      cobapls_26: -5251692938040280862
+      cobapls_27: -8430702169459484891
+      cobapls_28: 2827127469593954558
+      cobapls_29: -9088859739241553930
+      cobapls_3: -3638416865392856110
+      cobapls_30: 1696896530346660624
+      cobapls_31: 4552915874828023803
+      cobapls_32: 9076216860369107784
+      cobapls_33: -9028938731123446644
+      cobapls_34: 1093722964535475082
+      cobapls_35: 7700938179661198902
+      cobapls_36: -424498334257274768
+      cobapls_37: 7890736936430062072
+      cobapls_38: 3130879736124888707
+      cobapls_39: 3810097395083894304
+      cobapls_4: -5240788675374336153
+      cobapls_40: 430172636441814422
+      cobapls_41: -8674137456285922563
+      cobapls_42: 8319657619642168599
+      cobapls_43: -6042094996884408825
+      cobapls_44: 8166562207500804179
+      cobapls_45: -2144353646483229420
+      cobapls_46: -7760963236689820773
+      cobapls_47: -264513538933904816
+      cobapls_48: -3187814917437658998
+      cobapls_49: 6380775310107612219
+      cobapls_5: -369903881581687498
+      cobapls_50: -619961994725620328
+      cobapls_51: 9217648849476539751
+      cobapls_52: -8792222855489317341
+      cobapls_53: 7077788459177443099
+      cobapls_54: 4733967158946098050
+      cobapls_55: 2350804752482949488
+      cobapls_56: 81024117953906069
+      cobapls_57: 5543242533654919
+      cobapls_58: 5918161474716562805
+      cobapls_59: -8168844585979380462
+      cobapls_6: -7833603866067553382
+      cobapls_60: 7519833102006947768
+      cobapls_61: -7978670242256582438
+      cobapls_62: -6619399650966946030
+      cobapls_63: 5585698548696248233
+      cobapls_64: -4078026947696291074
+      cobapls_65: -3830144480174272748
+      cobapls_66: -8458179778768309488
+      cobapls_67: -199698916776221170
+      cobapls_68: 3785218127208513228
+      cobapls_69: -8408817960433304003
+      cobapls_7: 2237072778207868111
+      cobapls_70: 4776606154076192297
+      cobapls_71: -5343763513703714619
+      cobapls_72: -7250176967974239550
+      cobapls_73: 8867013875525694539
+      cobapls_74: 4357519274731749279
+      cobapls_75: 6638215374925279874
+      cobapls_76: 6944208948014608259
+      cobapls_77: -1297343249844850840
+      cobapls_78: 3628385591649462275
+      cobapls_79: 4258837871186230701
+      cobapls_8: 5337290841828900169
+      cobapls_80: 3391143096619120050
+      cobapls_81: 5245995824438549165
+      cobapls_82: 3694304390308883481
+      cobapls_83: -1982764696231400628
+      cobapls_84: -9084611222196496611
+      cobapls_85: -4093235846601702274
+      cobapls_86: 5964359805521152229
+      cobapls_87: 1227373371679473089
+      cobapls_88: -8999626438248924294
+      cobapls_89: -8268453967023502908
+      cobapls_9: -4383874432687853663
+      cobapls_90: -1159235986494717088
+      cobapls_91: 6996460252021419290
+      cobapls_92: -3706061331056773995
+      cobapls_93: -1745847721782133924
+      cobapls_94: -3755792603790838028
+      cobapls_95: -8959655149290234084
+      cobapls_96: 5851503414053847661
+      cobapls_97: 3433354183270448502
+      cobapls_98: -2505088638086045594
+      cobapls_99: -284703743916545602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
